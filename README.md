@@ -16,6 +16,10 @@ Cada equipo tiene cuatro oradores con su propio estilo. Prepararon sus casos sin
   - las preguntas a mano levantada del examen cruzado y las interpelaciones;
   - la transcripción y el fallo de los jueces, con el acta y el feedback.
 - **Oradores** (`oradores.html`): todas las intervenciones de cada orador, con la nota media y el feedback de los jueces.
+- **Banco de evidencias** (`evidencias.html`): las 111 fichas del torneo, también las que nadie citó.
+  - Se pueden buscar y filtrar por postura, tipo, quién la aportó y uso.
+  - Cada ficha tiene su propia página, con la cita completa y la fuente.
+  - En esa página está cada frase en la que se usó (quién la dijo, de qué lado y en qué debate) y las incidencias que señalaron los jueces sobre ella.
 
 ## Cómo verlo
 
