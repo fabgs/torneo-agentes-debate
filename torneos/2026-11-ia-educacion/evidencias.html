@@ -56,6 +56,15 @@ a.ev.yo{background:var(--accent);color:#1c1925}
 .inc{margin:6px 0;padding-left:10px;border-left:3px solid var(--warn);font-size:14px}
 .reparto{display:flex;height:8px;margin:8px 0 2px;max-width:340px;background:var(--panel2)}
 .reparto i{display:block;height:100%} .reparto .f{background:var(--a)} .reparto .c{background:var(--b)}
+@media (max-width:820px){
+  body{padding-top:14px} .wrap{gap:12px} h1{font-size:26px}
+  .filtros{grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:10px 8px;padding:12px}
+  .filtros .ancho{grid-column:1/-1}
+  .campo input,.campo select{font-size:16px;padding:8px}
+  .chips button{padding:8px 10px} .limpiar{padding:8px 10px} .volver,.atras{padding:9px 12px}
+  .tarjeta{padding:12px} .detalle,.bloque{padding:14px 12px} .detalle h2{font-size:17px}
+  .usos{margin-left:0;flex-basis:100%}
+}
 </style></head><body>
 <div class=wrap>
 <header>
@@ -64,8 +73,8 @@ a.ev.yo{background:var(--accent);color:#1c1925}
   <p class=muted id=resumen></p>
 </header>
 <aside class=filtros aria-label="Buscar y filtrar">
-  <label class=campo><span>Buscar</span><input type=search id=q placeholder="Palabra, autor, número de ficha…" autocomplete=off></label>
-  <div class=grupo><span>Postura de la ficha</span><div class=chips id=fPostura role=group aria-label="Postura de la ficha"></div></div>
+  <label class="campo ancho"><span>Buscar</span><input type=search id=q placeholder="Palabra, autor, número de ficha…" autocomplete=off></label>
+  <div class="grupo ancho"><span>Postura de la ficha</span><div class=chips id=fPostura role=group aria-label="Postura de la ficha"></div></div>
   <label class=campo><span>Tipo</span><select id=fTipo></select></label>
   <label class=campo><span>Quién la aportó</span><select id=fOrigen></select></label>
   <label class=campo><span>Uso en el torneo</span><select id=fUso>
@@ -74,7 +83,7 @@ a.ev.yo{background:var(--accent);color:#1c1925}
     <option value=incidencias>Con incidencias del jurado</option></select></label>
   <label class=campo><span>Ordenar</span><select id=fOrden>
     <option value=citas>Más citadas primero</option><option value=id>Por número</option><option value=fecha>Más recientes primero</option></select></label>
-  <button type=button class=limpiar id=limpiar>Quitar filtros</button>
+  <button type=button class="limpiar ancho" id=limpiar>Quitar filtros</button>
 </aside>
 <main id=main></main>
 </div>

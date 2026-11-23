@@ -33,6 +33,8 @@
   --f-pixel: "Pixelify Sans", "VT323", ui-monospace, "Cascadia Mono", monospace;
   --f-mono: "VT323", ui-monospace, "Cascadia Mono", monospace;
   --f-body: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --gut-l: max(16px, env(safe-area-inset-left, 0px));
+  --gut-r: max(16px, env(safe-area-inset-right, 0px));
   color-scheme: dark;
 }
 [hidden] { display: none !important; }
@@ -42,8 +44,8 @@ body {
   font-family: var(--f-body);
   font-size: 15px;
   line-height: 1.55;
-  padding-left: max(16px, env(safe-area-inset-left, 0px));
-  padding-right: max(16px, env(safe-area-inset-right, 0px));
+  padding-left: var(--gut-l);
+  padding-right: var(--gut-r);
   padding-block: 18px 48px;
 }
 .wrap { max-width: 1180px; margin: 0 auto; display: grid; gap: 14px; }
@@ -118,7 +120,19 @@ h1 { margin: 0; font-family: var(--f-pixel); font-weight: 700; font-size: clamp(
 @media (max-width: 800px) {
   .bubble { display: none !important; }
   .dialog { display: block; }
-  .tagr { font-size: 1.6cqw; }
+  /* La sala se ve pequeña: los rótulos crecen para poder leerse */
+  .tagr { font-size: 2.3cqw; padding: .25cqw .6cqw .1cqw; }
+  .sign { font-size: 2.5cqw; }
+  .sign small { font-size: 1.8cqw; }
+  .jury-tag { font-size: 1.9cqw; }
+  .scr-fase { font-size: 2.3cqw; }
+  .scr-sub { font-size: 1.9cqw; }
+  .cartel { white-space: normal; width: max-content; max-width: 86%; padding: 1.6cqw 2.6cqw; }
+  .cartel .c-n { font-size: 2.2cqw; }
+  .cartel .c-t { font-size: 3.8cqw; }
+  .cartel .c-s { font-size: 2.3cqw; }
+  .verdict { width: 94%; max-height: 92%; padding: 2.6cqw 3cqw; }
+  .verdict .x { font-size: 18px; padding: 6px 8px; top: 0; right: 0; }
 }
 
 /* Controls */
@@ -144,7 +158,7 @@ h1 { margin: 0; font-family: var(--f-pixel); font-weight: 700; font-size: clamp(
 .voces .aviso { margin: 0 0 8px; color: var(--warn); font-size: 13px; }
 
 /* Phase strip */
-.fases { display: flex; flex-wrap: wrap; gap: 4px; }
+.fases { position: relative; display: flex; flex-wrap: wrap; gap: 4px; }
 .fch { font-family: var(--f-pixel); font-size: 13px; line-height: 1; border: 0; padding: 7px 9px; cursor: pointer; background: #95a5a61a; color: var(--muted); display: inline-flex; gap: 6px; align-items: center; }
 .fch .dot { width: 7px; height: 7px; display: inline-block; }
 .fch.fa .dot { background: var(--team-a); }
@@ -202,6 +216,8 @@ details.manos ul { margin: 4px 0 0; padding-left: 1.3em; }
 .ficha blockquote { margin: 0 0 8px; padding-left: 10px; border-left: 3px solid var(--accent); font-size: 14px; color: #ddd5ea; }
 .ficha a { color: var(--accent); font-size: 13px; word-break: break-all; }
 .ficha .flag { font-family: var(--f-pixel); font-size: 12px; color: var(--warn); }
+.ficha .x-ficha { float: right; margin: -4px -6px 0 8px; background: none; border: 0; color: var(--muted); font-family: var(--f-pixel); font-size: 18px; line-height: 1; padding: 4px 6px; cursor: pointer; }
+.ficha .x-ficha:hover { color: var(--ink); }
 .score { width: 100%; border-collapse: collapse; font-size: 13.5px; font-variant-numeric: tabular-nums; }
 .score th, .score td { padding: 4px 6px; text-align: right; border-bottom: 1px solid var(--line); }
 .score th:first-child, .score td:first-child { text-align: left; }
@@ -225,6 +241,51 @@ summary { cursor: pointer; font-family: var(--f-pixel); font-size: 14px; color: 
 .dots::after { content: ''; display: inline-block; width: 1.4em; text-align: left; animation: dots 1.2s steps(4, end) infinite; }
 @keyframes dots { 0% { content: ''; } 25% { content: '.'; } 50% { content: '..'; } 75% { content: '...'; } }
 .thinking { color: #6a6478; }
+/* La ficha, en pantallas donde el panel lateral queda debajo, sale como hoja inferior sobre la página */
+@media (max-width: 900px) {
+  #ficha { position: fixed; left: 0; right: 0; bottom: 0; z-index: 20; max-height: 62vh; overflow: auto; overscroll-behavior: contain;
+    padding: 14px var(--gut-r) calc(18px + env(safe-area-inset-bottom, 0px)) var(--gut-l); clip-path: none;
+    border-top: 3px solid var(--accent); box-shadow: 0 -10px 28px #000000a6; }
+  #ficha h2 { font-family: var(--f-pixel); font-size: 18px; margin: 0 0 8px; }
+  .ficha .x-ficha { font-size: 22px; padding: 8px 10px; margin: -10px -10px 0 8px; }
+}
+
+/* Móvil */
+@media (max-width: 600px) {
+  body { padding-block: 12px 40px; }
+  .wrap { gap: 12px; }
+  .volver { padding: 9px 12px; }
+  .kicker { font-size: 12px; letter-spacing: .08em; }
+  /* La sala de borde a borde: gana casi un 10 % de tamaño */
+  .stage { width: auto; margin-left: calc(-1 * var(--gut-l)); margin-right: calc(-1 * var(--gut-r)); clip-path: none; }
+  .dialog { min-height: 8.5em; }
+  .dialog .b-text { font-size: 20px; }
+  /* Controles: fila de navegación, fila de extras, velocidad a lo ancho */
+  .controls { gap: 6px; }
+  .controls .btn { flex: 1 1 28%; min-height: 44px; padding: 8px 6px; font-size: 14px; }
+  .btn.primary { min-width: 0; }
+  #bSkip, #bLive, #bVoz { order: 1; flex-basis: 30%; }
+  .speed { order: 2; display: flex; flex: 1 1 100%; }
+  .speed button { flex: 1; min-height: 40px; font-size: 15px; }
+  .controls .info { order: 3; flex: 1 1 100%; margin-left: 0; text-align: center; }
+  /* Fases: una sola fila que se desliza; la actual se centra sola */
+  .fases { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin-left: calc(-1 * var(--gut-l)); margin-right: calc(-1 * var(--gut-r));
+    padding: 2px var(--gut-r) 2px var(--gut-l); scroll-padding-inline: var(--gut-l); }
+  .fases::-webkit-scrollbar { display: none; }
+  .fch { flex: none; padding: 11px 11px; }
+  .panel { padding: 12px; }
+  .side > section { padding: 12px; }
+  .panel h2 { flex-wrap: wrap; row-gap: 2px; }
+  .panel h2 .tiny { order: 3; flex-basis: 100%; }
+  .tbtn { white-space: nowrap; padding: 8px 10px; }
+  .scroll { max-height: 70vh; padding-right: 2px; }
+  .tr-fase h3 { display: block; }
+  .tr-fase h3 .n { margin-right: 8px; }
+  .tr-fase h3 .m { display: block; margin-top: 2px; }
+  .ev { padding: 3px 6px 2px; }
+  .score th, .score td { padding: 5px 4px; }
+}
+
 @media (prefers-reduced-motion: reduce) { .dots::after { animation: none; content: '...'; } }
 @media (prefers-reduced-motion: reduce) { .scroll { scroll-behavior: auto; } }
 </style>
@@ -682,6 +743,17 @@ summary { cursor: pointer; font-family: var(--f-pixel); font-size: 14px; color: 
     fases.appendChild(b); FCH.push(b);
   });
 
+  // En móvil las fases van en una fila que se desliza: la actual se centra cuando cambia
+  var faseCentrada = -1;
+  function centrarFase() {
+    if (faseCentrada === S.p) return;
+    faseCentrada = S.p;
+    var b = FCH[S.p];
+    if (!b || fases.scrollWidth <= fases.clientWidth + 1) return;
+    var x = Math.max(0, b.offsetLeft - (fases.clientWidth - b.offsetWidth) / 2);
+    if (fases.scrollTo) fases.scrollTo({ left: x, behavior: reduce ? 'auto' : 'smooth' }); else fases.scrollLeft = x;
+  }
+
   var ACCION = { interpelacion: ' · interpela', pregunta: ' · pregunta', respuesta: ' · responde' };
   function quien(tu) {
     if (tu.equipo === 'jurado') return 'Jurado';
@@ -859,20 +931,26 @@ summary { cursor: pointer; font-family: var(--f-pixel); font-size: 14px; color: 
     if (!S.spoiler) pintarFallo();
   }
 
-  // Ficha
+  // Ficha: en el panel lateral o, en pantallas estrechas, como hoja inferior (se cierra con ✕, Escape o tocando fuera)
+  var hojaFicha = window.matchMedia('(max-width: 900px)');
+  function cerrarFicha() { $('ficha').hidden = true; }
+  document.addEventListener('keydown', function (e) { if (e.key === 'Escape' && !$('ficha').hidden) cerrarFicha(); });
   document.addEventListener('click', function (e) {
-    var b = e.target.closest && e.target.closest('.ev'); if (!b) return;
-    var id = b.dataset.id, f = FICHAS[id], box = $('ficha');
-    if (!f) { box.innerHTML = '<h2>Ficha ' + esc(id) + '</h2><p class="tiny">No está en el banco de evidencias de esta simulación.</p>'; }
+    var box = $('ficha');
+    if (e.target.closest && e.target.closest('.x-ficha')) { cerrarFicha(); return; }
+    var b = e.target.closest && e.target.closest('.ev');
+    if (!b) { if (hojaFicha.matches && !box.hidden && !box.contains(e.target)) cerrarFicha(); return; }
+    var id = b.dataset.id, f = FICHAS[id], cerrar = '<button type="button" class="x-ficha" aria-label="Cerrar la ficha">✕</button>';
+    if (!f) { box.innerHTML = cerrar + '<h2>Ficha ' + esc(id) + '</h2><p class="tiny">No está en el banco de evidencias de esta simulación.</p>'; }
     else {
-      box.innerHTML = '<h2>Ficha ' + esc(id) + ' <span class="tiny">' + esc(EQ[f.equipo] || '') + '</span>' + (f.nueva ? ' <span class="flag">nueva</span>' : '') + '</h2>' +
+      box.innerHTML = cerrar + '<h2>Ficha ' + esc(id) + ' <span class="tiny">' + esc(EQ[f.equipo] || '') + '</span>' + (f.nueva ? ' <span class="flag">nueva</span>' : '') + '</h2>' +
         '<p class="src">' + esc(f.fuente || '') + '</p>' + (f.cita ? '<blockquote>' + esc(f.cita) + '</blockquote>' : '') +
         (f.local ? '<p style="margin:0 0 6px"><a href="' + esc(f.local) + '" target="_blank">Abrir el documento descargado</a></p>' : '') +
         (f.url ? '<a href="' + esc(f.url) + '" target="_blank" rel="noopener">' + esc(f.url) + '</a>' : '') +
         (D.banco ? '<p style="margin:8px 0 0"><a href="' + esc(D.banco + '#' + id) + '" target="_blank">Ver en el banco de evidencias: cómo se usó en todo el torneo ↗</a></p>' : '');
     }
     box.hidden = false;
-    if (window.innerWidth <= 900) box.scrollIntoView({ block: 'nearest' });
+    box.scrollTop = 0;
   });
 
   // ---------- Reproducción ----------
@@ -1036,6 +1114,7 @@ summary { cursor: pointer; font-family: var(--f-pixel); font-size: 14px; color: 
     for (var key in TAG) TAG[key].classList.toggle('on', st.habla === key || (!!st.pie[key] && !st.mano[key] && f.tipo !== 'preguntas'));
     // fases
     FCH.forEach(function (b, i) { b.classList.toggle('done', i < S.p); b.classList.toggle('cur', i === S.p); });
+    centrarFase();
     set('info', 'html', (f.tipo === 'jurado' ? '<b>Fallo del jurado</b>' : 'Fase <b>' + f.n + '</b> de ' + NDEB + ' · ' + esc(corto(f))) + (wait ? ' · esperando a los agentes' : ''));
     pintarTranscripcion(pos);
     if (f.tipo === 'jurado' && S.tau >= f.dur) mostrarVeredicto();
