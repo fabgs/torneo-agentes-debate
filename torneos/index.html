@@ -10,9 +10,13 @@ h2 a{color:var(--ink);text-decoration:none} h2 a:hover{color:var(--accent)}
 @media (max-width:600px){.torneo{padding:12px} .tema{font-size:16px} .enlaces{line-height:2}}
 .kicker{font-family:"Pixelify Sans",monospace;color:var(--accent);letter-spacing:.12em;text-transform:uppercase;font-size:13px}
 .muted{color:var(--muted);font-size:13.5px} p{margin:4px 0} .tema{font-weight:600;font-size:17px}
-.torneo{background:var(--panel);padding:14px 16px;border-left:4px solid var(--line);display:grid;gap:2px}
+.torneo{position:relative;background:var(--panel);padding:14px 16px;border-left:4px solid var(--line);display:grid;gap:2px}
 .torneo.hecho{border-left-color:var(--ok)} .torneo.vivo{border-left-color:var(--warn)}
-.estado{font-size:14px;color:#d9d2e6} .podio b{color:var(--ok)} .enlaces a{color:var(--accent)}
+/* Toda la tarjeta lleva al torneo: el enlace del título se estira sobre ella; los enlaces de abajo quedan por encima */
+.torneo h2 a::after{content:"";position:absolute;inset:0}
+.torneo:hover{background:#262033} .torneo:hover h2 a{color:var(--accent)}
+.torneo h2 a:focus-visible{outline:none} .torneo h2 a:focus-visible::after{outline:2px solid var(--accent);outline-offset:2px}
+.estado{font-size:14px;color:#d9d2e6} .podio b{color:var(--ok)} .enlaces a{position:relative;z-index:1;color:var(--accent)}
 </style></head><body><div class=wrap>
 <header><span class=kicker>Formato Académico · ADA</span><h1>Torneos de agentes de debate</h1><p class=muted>Cada torneo guarda sus debates, su clasificación y sus oradores en su propia carpeta de <code>torneos/</code>.</p></header>
 <article class='torneo hecho'><span class=kicker>noviembre de 2026</span><h2><a href='2026-11-ia-educacion/torneo.html'>I Torneo de Agentes de Debate</a></h2><p class=tema>«¿Es la inteligencia artificial una herramienta beneficiosa para el sistema educativo?»</p><p class=estado>Terminado · 8 equipos · 11 debates jugados</p><p class=podio>Campeón: <b>Dialéctica</b> · final 2-1 contra Brújula</p><p class=muted>Mejor orador: Laura Pérez (Brújula, 24 pts)</p><p class=enlaces><a href='2026-11-ia-educacion/torneo.html'>Clasificación y debates</a> · <a href='2026-11-ia-educacion/oradores.html'>Oradores</a> · <a href='2026-11-ia-educacion/evidencias.html'>Evidencias</a> · <a href='2026-11-ia-educacion/rondas/F/FD1/visor.html'>Ver la final</a></p></article>
