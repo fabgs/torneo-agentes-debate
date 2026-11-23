@@ -1,0 +1,934 @@
+{
+ "tema": "¿Es la inteligencia artificial una herramienta beneficiosa para el sistema educativo?",
+ "subtitulo": "I Torneo de Agentes de Debate · Ronda 1 · Sala 2",
+ "ppm": 150,
+ "equipos": {
+  "favor": {
+   "nombre": "Brújula",
+   "lema": "¿Y el lunes en el aula, qué?",
+   "tesis": "La IA es beneficiosa para el sistema educativo porque, en manos del profesorado y con reglas sencillas, devuelve tiempo a los docentes, pone un tutor al alcance de quien no puede pagarlo y convierte un uso que ya existe a escondidas en un uso guiado.",
+   "argumentos": [
+    "A1. Tiempo para enseñar",
+    "A2. Un tutor para la otra mitad",
+    "A3. Ya está en las mochilas"
+   ],
+   "oradores": {
+    "introductor": "Noelia Cano",
+    "refutador1": "Javier Serrano",
+    "refutador2": "Laura Pérez",
+    "conclusor": "Óscar Román"
+   },
+   "aspectos": {
+    "introductor": {
+     "piel": "#f1c27d",
+     "pelo": "#7b3fa0",
+     "estilo": "melena",
+     "accesorio": "pendientes",
+     "prenda": "americana",
+     "color": "#4c9a2a",
+     "oscuro": "#366e1e"
+    },
+    "refutador1": {
+     "piel": "#e0ac69",
+     "pelo": "#1b1b1b",
+     "estilo": "tupe",
+     "accesorio": "barba",
+     "prenda": "americana",
+     "color": "#4c9a2a",
+     "oscuro": "#366e1e"
+    },
+    "refutador2": {
+     "piel": "#f1c27d",
+     "pelo": "#1b1b1b",
+     "estilo": "afro",
+     "accesorio": "diadema",
+     "prenda": "corbata",
+     "color": "#4c9a2a",
+     "oscuro": "#366e1e"
+    },
+    "conclusor": {
+     "piel": "#e0ac69",
+     "pelo": "#e8d7a8",
+     "estilo": "corto",
+     "accesorio": "bigote",
+     "prenda": "jersey",
+     "color": "#4c9a2a",
+     "oscuro": "#366e1e"
+    }
+   }
+  },
+  "contra": {
+   "nombre": "Tribuna",
+   "lema": "Detrás de cada dato hay alguien",
+   "tesis": "No. La inteligencia artificial, tal como entra hoy en las aulas, no es beneficiosa para el sistema educativo, porque mejora lo que el alumno entrega pero empeora lo que aprende, ensancha la brecha entre quien tiene ayuda y quien no, y rompe la confianza entre quien enseña y quien aprende.",
+   "argumentos": [
+    "Deberes de diez, examen en blanco: la nota de lo que se entrega sube y lo que se aprende baja, y el alumno ni lo nota",
+    "La misma pantalla, dos destinos: la IA no iguala, porque su beneficio va a quien ya tenía ventaja y su daño a quien está solo",
+    "«¿Esto lo has escrito tú?»: la IA rompe la confianza en la que se apoya la educación, el profesor ya no sabe qué sabe su alumno y el error lo paga un inocente"
+   ],
+   "oradores": {
+    "introductor": "Lucía Navarro",
+    "refutador1": "Adrián Pastor",
+    "refutador2": "Nerea Gil",
+    "conclusor": "Rubén Sempere"
+   },
+   "aspectos": {
+    "introductor": {
+     "piel": "#5c3a21",
+     "pelo": "#3b2416",
+     "estilo": "afro",
+     "accesorio": "pendientes",
+     "prenda": "jersey",
+     "color": "#d1495b",
+     "oscuro": "#963441"
+    },
+    "refutador1": {
+     "piel": "#5c3a21",
+     "pelo": "#a0522d",
+     "estilo": "coleta",
+     "accesorio": "ninguno",
+     "prenda": "corbata",
+     "color": "#d1495b",
+     "oscuro": "#963441"
+    },
+    "refutador2": {
+     "piel": "#ffdbac",
+     "pelo": "#a9a9a9",
+     "estilo": "tupe",
+     "accesorio": "lazo",
+     "prenda": "corbata",
+     "color": "#d1495b",
+     "oscuro": "#963441"
+    },
+    "conclusor": {
+     "piel": "#5c3a21",
+     "pelo": "#a9a9a9",
+     "estilo": "mono",
+     "accesorio": "bigote",
+     "prenda": "jersey",
+     "color": "#d1495b",
+     "oscuro": "#963441"
+    }
+   }
+  }
+ },
+ "fases": [
+  {
+   "n": 1,
+   "key": "intro_favor",
+   "nombre": "Exposición inicial de Brújula (a favor)",
+   "seg": 240,
+   "equipo": "favor",
+   "tipo": "intro",
+   "rol": "introductor",
+   "turnos": [
+    {
+     "equipo": "favor",
+     "rol": "introductor",
+     "nombre": "Noelia Cano",
+     "tipo": "discurso",
+     "texto": "Son las ocho menos cuarto de un lunes y en la sala de profesores hay una compañera de Lengua con ciento veinte redacciones sobre la mesa. Sabe que cada una merece un comentario de verdad, y sabe que no va a llegar. Dos pisos más arriba hay un chaval de tercero que el viernes no entendió las ecuaciones y no va a preguntar. Sus padres no pueden pagarle una academia. Lo que sí tiene es un móvil, y esta noche un chatbot le hará los deberes, porque nadie le ha enseñado otra cosa.\n\nBuenos días, miembros del jurado, compañeros de Tribuna. Nuestra pregunta es muy de sala de profesores: ¿y el lunes en el aula, qué? Esto no va de robots. Va de esa compañera, de ese chaval y de lo que podemos cambiar con lo que ya tenemos.\n\nAclaremos tres palabras. Inteligencia artificial son, según el Reglamento europeo [1011], sistemas que generan contenidos o recomendaciones, como los chatbots. Una herramienta es algo que se usa con un propósito, así que hablamos de la IA que deciden usar nuestros colegios e institutos, empezando por el profesorado. Y beneficiosa no quiere decir perfecta, sino que aporta más de lo que cuesta.\n\nNuestro criterio es sencillo. No comparéis el instituto con IA con un instituto ideal, sino con el que de verdad tendríamos sin ella. Y a cada propuesta, también a la nuestra, preguntadle quién lo paga, quién lo forma y cuándo.\n\nNuestra tesis es esta. En manos del profesorado y con reglas sencillas, la IA devuelve tiempo a los docentes, pone un tutor al alcance de quien no puede pagarlo y convierte un uso a escondidas en un uso guiado.\n\nLa primera razón es el tiempo para enseñar. Según TALIS [1504], en la ESO se corrige hora y media más a la semana que la media de la OCDE. En un ensayo con 68 institutos ingleses [1008], los docentes que usaron ChatGPT con una guía prepararon sus clases en casi un tercio menos de tiempo. Y Stanford confirma este mes [1016] que, con borradores de IA, el profesorado comenta más y mejor sin dedicarle más tiempo. Así, las redacciones de mi compañera vuelven con un comentario y no con un «bien» en rojo.\n\nLa segunda razón es un tutor para el chaval de tercero. La tutoría es de lo que más mejora los resultados, según la revisión de Nickow [1503], pero en España casi la mitad de las familias la paga de su bolsillo [1506]. ¿Y la otra mitad? En Nigeria, seis semanas de tardes con IA guiada por profesores dieron en inglés lo que allí se aprende en año y medio de escuela [1002]. En Ghana, un tutor de matemáticas por WhatsApp mejoró los resultados, y puede costar apenas cinco dólares por alumno al año [1501]. No sustituye al profesor. Le pone un ayudante a quien hoy no tiene ninguno.\n\nLa tercera razón es incómoda, porque la IA ya está en las mochilas. Solo el 8 % de nuestros alumnos de quince años no usa nunca o casi nunca un chatbot para sus tareas [1534]. El daño es real, pero un experimento en PNAS [1015] mostró que aparece con el chatbot de serie usado como muleta, y que con salvaguardas se reduce en gran medida. Prohibirla en el aula no la saca de casa. Solo saca al profesor de la ecuación. ¿Y quién forma a ese profesor? El Ministerio ya tiene un curso tutorizado de cuarenta horas [3602].\n\nTiempo para el docente, un tutor para quien no puede pagarlo y un uso guiado en lugar de uno a escondidas. Esa es nuestra propuesta para el lunes. Y el lunes, miembros del jurado, empieza a las ocho menos cuarto."
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 2,
+   "key": "preguntas_favor",
+   "nombre": "Examen cruzado a Brújula (a favor)",
+   "seg": 120,
+   "equipo": "favor",
+   "tipo": "preguntas",
+   "rol": "introductor",
+   "turnos": [
+    {
+     "equipo": "contra",
+     "rol": "introductor",
+     "nombre": "Lucía Navarro",
+     "tipo": "pregunta",
+     "texto": "Noelia, en Nigeria, mientras unos alumnos pasaban seis semanas de tardes con la IA, ¿qué hacía el grupo con el que se les compara, otras clases de refuerzo o nada?"
+    },
+    {
+     "equipo": "favor",
+     "rol": "introductor",
+     "nombre": "Noelia Cano",
+     "tipo": "respuesta",
+     "texto": "Siguió con sus clases normales, sin esas tardes. Es la comparación honesta, la del instituto que tendríamos sin IA. Y los propios autores del Banco Mundial [1002] explican que el tiempo extra no lo explica todo, porque el refuerzo en grupo sin atención individual apenas mueve resultados."
+    },
+    {
+     "equipo": "contra",
+     "rol": "introductor",
+     "nombre": "Lucía Navarro",
+     "tipo": "pregunta",
+     "texto": "Del experimento de PNAS que habéis citado, el de las salvaguardas: en el examen sin pantalla, ¿esos alumnos sacaron más nota que los que nunca usaron IA, o solo evitaron sacar menos?"
+    },
+    {
+     "equipo": "favor",
+     "rol": "introductor",
+     "nombre": "Noelia Cano",
+     "tipo": "respuesta",
+     "texto": "Evitaron sacar menos, y no es poco. Con el chatbot de serie, el que ya tienen en el móvil, perdieron un 17 % de nota; con salvaguardas, ese daño se reduce en gran medida [1015]. Comparado con el instituto real, donde ya lo usan, eso es beneficio."
+    },
+    {
+     "equipo": "contra",
+     "rol": "conclusor",
+     "nombre": "Rubén Sempere",
+     "tipo": "pregunta",
+     "texto": "Noelia, habéis definido beneficiosa como que aporta más de lo que cuesta. ¿Eso se mide por lo que el alumno sabe hacer después, sin la IA, o por cómo rinde con ella delante?"
+    },
+    {
+     "equipo": "favor",
+     "rol": "introductor",
+     "nombre": "Noelia Cano",
+     "tipo": "respuesta",
+     "texto": "Por lo que el alumno sabe hacer después, sin ella. Y esa vara nos favorece, porque en Nigeria mejoró también el examen ordinario del trimestre, con temario de todo el curso [1002]. En el profesorado, en cambio, se mide por el tiempo que le devuelve para enseñar."
+    },
+    {
+     "equipo": "contra",
+     "rol": "conclusor",
+     "nombre": "Rubén Sempere",
+     "tipo": "pregunta",
+     "texto": "En Nigeria, que es vuestra prueba del tutor para quien no puede pagarlo, ¿quién ganó más, los alumnos que partían con peor nota o los que ya iban mejor?"
+    },
+    {
+     "equipo": "favor",
+     "rol": "introductor",
+     "nombre": "Noelia Cano",
+     "tipo": "respuesta",
+     "texto": "Ganaron más los que ya iban mejor, pero mejoraron todos, también los que partían con peor nota [1002]. Que ganen más los de arriba no quiere decir que pierdan los de abajo. Y la brecha de verdad es la academia que hoy paga casi la mitad de las familias [1506]."
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 3,
+   "key": "intro_contra",
+   "nombre": "Exposición inicial de Tribuna (en contra)",
+   "seg": 240,
+   "equipo": "contra",
+   "tipo": "intro",
+   "rol": "introductor",
+   "turnos": [
+    {
+     "equipo": "contra",
+     "rol": "introductor",
+     "nombre": "Lucía Navarro",
+     "tipo": "discurso",
+     "texto": "Son las once y veinte de la noche de un martes. En la cocina todavía huele a la cena, la casa está en silencio y la única luz encendida es la de una pantalla. Marta tiene quince años y le quedan doce ejercicios de matemáticas. Copia el primero en el chat. Pulsa intro.\n\nEn siete minutos ha terminado los doce. Perfectos. Cierra el portátil y se va a dormir.\n\nA la mañana siguiente hay examen. Sin pantalla. Y Marta descubre, delante de una hoja en blanco, que no sabe hacer ni el primero.\n\nBuenos días, miembros del jurado, compañeros de Brújula. Marta no existe con ese nombre, pero está en todas las clases de este país.\n\nFijaos en el verbo. La pregunta no dice «podría ser», dice «es», y habla del sistema educativo, de todos los alumnos y de ahora. Por eso juzgamos la inteligencia artificial que existe, la de los chatbots que ya están en las mochilas, como decía Noelia, no el prototipo de un laboratorio. Y será beneficiosa si consigue que se aprenda de verdad, que dure y que llegue a todos.\n\nDe ahí nuestro criterio, la pantalla apagada, que son dos preguntas para cada estudio que oigáis hoy. ¿Qué sabe hacer el alumno cuando se apaga la pantalla? ¿Y les pasa a todos o solo a algunos? Noelia ya ha aceptado la primera.\n\nNuestra respuesta es no. Tal como entra hoy en las aulas, la inteligencia artificial mejora lo que el alumno entrega pero empeora lo que aprende, agranda la brecha y rompe la confianza entre quien enseña y quien aprende.\n\nPrimero, deberes de diez y examen en blanco. Xavier Gual, profesor de secundaria, lo contó en el diario Ara. Suspendió a siete alumnos que escribieron una barbaridad sobre el Tirant lo Blanc. No habían leído la novela, sino un resumen de la IA con errores graves que no supieron ver [3321]. ¿Siete despistados? No. Un estudio de Estocolmo y Hong Kong siguió durante dos años y medio a casi veintisiete mil alumnos. Con la IA, la nota de los deberes sube casi una quinta parte, y la del examen baja otra quinta parte [1531]. Es como si un siete se quedara en poco más de un cinco y medio.\n\nSegundo, la misma pantalla tiene dos destinos. Imaginad a Iker y a Yasmina, compañeros de pupitre. Iker usa el chatbot con su madre al lado, que le pregunta «¿y esto por qué?». Los padres de Yasmina trabajan de noche, y ella, sola, le pide la respuesta. Y no son casos sueltos. En Estados Unidos, según el centro Pew, uno de cada cinco adolescentes de familias con pocos ingresos hace la mayoría de sus deberes con un chatbot, y en las acomodadas, uno de cada catorce [2505]. Y en los ensayos que lo miden, gana quien ya partía con ventaja, según economistas del Banco Mundial y de Pensilvania [2504].\n\nTercero, una pregunta que hoy se oye en las salas de profesores. ¿Esto lo has escrito tú? Madeleine sí existe. Tenía veintidós años y terminaba Enfermería en Australia cuando su universidad la acusó de hacer trampas con IA. Tardaron seis meses en exculparla, y mientras tanto su expediente decía «resultados retenidos». Ella cree que eso le costó su primer trabajo [3322]. Y es que distinguir se ha vuelto casi imposible. En un ensayo a ciegas en una universidad británica, noventa y cuatro de cada cien exámenes escritos por una máquina pasaron sin que nadie lo notara [2004].\n\nDeberes de diez, una pantalla con dos destinos y una confianza rota. Volvamos a la cocina. La pantalla de Marta ya está apagada. La pregunta es qué queda encendido dentro de ella. Y vamos a demostrar que, hoy, demasiado poco."
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 4,
+   "key": "preguntas_contra",
+   "nombre": "Examen cruzado a Tribuna (en contra)",
+   "seg": 120,
+   "equipo": "contra",
+   "tipo": "preguntas",
+   "rol": "introductor",
+   "turnos": [
+    {
+     "equipo": "favor",
+     "rol": "introductor",
+     "nombre": "Noelia Cano",
+     "tipo": "pregunta",
+     "texto": "Lucía, habéis dicho que juzgáis la IA de las mochilas. La que usa una profesora para preparar clases o corregir redacciones, ¿entra en vuestra postura o habláis solo de la del alumnado?"
+    },
+    {
+     "equipo": "contra",
+     "rol": "introductor",
+     "nombre": "Lucía Navarro",
+     "tipo": "respuesta",
+     "texto": "Entra, juzgamos la IA de alumnos y docentes, pero se mide igual, por lo que el alumno aprende. Y según Chalkbeat, una revisión de Stanford halló que, cuando docentes con peores resultados dejaron a la IA preparar sus clases, sus alumnos rindieron peor [2537]."
+    },
+    {
+     "equipo": "favor",
+     "rol": "introductor",
+     "nombre": "Noelia Cano",
+     "tipo": "pregunta",
+     "texto": "En el estudio de Estocolmo y Hong Kong, el de los veintisiete mil alumnos, ¿la usaban por su cuenta, para los deberes, o guiados por sus profesores?"
+    },
+    {
+     "equipo": "contra",
+     "rol": "introductor",
+     "nombre": "Lucía Navarro",
+     "tipo": "respuesta",
+     "texto": "Por su cuenta, para los deberes, durante dos años y medio. Y eso es justo lo que pregunta el debate, la IA tal como entra hoy. Los propios autores dicen que había tutores de IA baratos o gratis, y la mayoría no los eligió [1531]."
+    },
+    {
+     "equipo": "favor",
+     "rol": "conclusor",
+     "nombre": "Óscar Román",
+     "tipo": "pregunta",
+     "texto": "Lucía, cuando juzgáis la IA de hoy, ¿la comparáis con alumnos que no la usan o con alumnos como Marta, que la seguirían usando en casa, solos?"
+    },
+    {
+     "equipo": "contra",
+     "rol": "introductor",
+     "nombre": "Lucía Navarro",
+     "tipo": "respuesta",
+     "texto": "Con alumnos que no la usan, porque el chatbot de Marta en casa también es la inteligencia artificial que juzgamos. Y el uso guiado no la saca de casa. Con tutores gratis o baratos a su alcance, ocho de cada diez seguían delegando [1531]."
+    },
+    {
+     "equipo": "favor",
+     "rol": "conclusor",
+     "nombre": "Óscar Román",
+     "tipo": "pregunta",
+     "texto": "Sobre el profesorado: ¿negáis que la IA le ahorre horas de preparar y corregir, o solo que ese tiempo se traduzca en que el alumno aprenda más?"
+    },
+    {
+     "equipo": "contra",
+     "rol": "introductor",
+     "nombre": "Lucía Navarro",
+     "tipo": "respuesta",
+     "texto": "Lo segundo. Ahorra unos veinticinco minutos semanales de planificar, según vuestro ensayo inglés, pero no midió lo que aprendió el alumno [1008]. Y cuando se mide, con docentes de peores resultados los alumnos rindieron peor [2537]. Tiempo ahorrado no es aprendizaje ganado."
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 5,
+   "key": "ref1_favor",
+   "nombre": "Primera refutación de Brújula (a favor)",
+   "seg": 300,
+   "equipo": "favor",
+   "tipo": "refutacion",
+   "rol": "refutador1",
+   "turnos": [
+    {
+     "equipo": "favor",
+     "rol": "refutador1",
+     "nombre": "Javier Serrano",
+     "tipo": "discurso",
+     "texto": "Gracias. Lucía nos ha dejado a Marta a las once y veinte, sola en la cocina con una pantalla. Esa escena existe, no lo negamos. La pregunta es qué hacemos con ella el lunes.\n\nFijaos en lo que Lucía reconoció en el examen cruzado. Los veintisiete mil alumnos de su estudio usaban la IA por su cuenta, para los deberes, sin profesor delante. Es el uso a escondidas que Noelia os describió. Y ese estudio dice algo más. Con la pantalla apagada, quien sigue dedicando a los deberes el mismo tiempo saca notas de examen parecidas, porque la pérdida se concentra en quien se los pasa a la máquina. Por eso sus autores proponen más exámenes presenciales y que padres y docentes vigilen el esfuerzo, no solo la nota [1531]. Esa receta no es la de Tribuna. Es la nuestra.\n\nY está la comparación. Lucía compara con alumnos que no la usan, y en España son ocho de cada cien [1534]. Tribuna juzga un instituto que no existe. Así que les pido el cómo. Si la IA se queda fuera del aula, ¿quién le enseña a Marta a usarla para entender y no para copiar? ¿Quién, y cuándo?"
+    },
+    {
+     "equipo": "contra",
+     "rol": "refutador1",
+     "nombre": "Adrián Pastor",
+     "tipo": "interpelacion",
+     "texto": "Javier, en ese estudio de Estocolmo, quien no delega saca notas parecidas a quien nunca usó IA: en el mejor de los casos, ¿la IA no le suma nada en el examen?"
+    },
+    {
+     "equipo": "favor",
+     "rol": "refutador1",
+     "nombre": "Javier Serrano",
+     "tipo": "respuesta",
+     "texto": "Adrián, usada a solas y sin guía, no suma y apenas resta. Ese es el techo de la IA sin profesor. Con profesor, en Nigeria, mejoró hasta el examen ordinario del trimestre [1002]. Lo que suma no es la pantalla, sino quién enseña a usarla."
+    },
+    {
+     "equipo": "favor",
+     "rol": "refutador1",
+     "nombre": "Javier Serrano",
+     "tipo": "discurso",
+     "texto": "Vuelvo a esa pregunta con el Tirant lo Blanc. Que siete alumnos no lean la novela y se fíen de un resumen es tan viejo como el Rincón del Vago. Lo nuevo es que no supieron ver sus errores, y eso se enseña. Según PISA, en la crónica de Bloomberg, entre quienes usan la IA a diario, aquellos a los que en clase se les pide evaluar lo que responde sacan más de medio curso de ventaja [1533]. Eso no se aprende a escondidas. Se aprende en clase.\n\n¿Qué tiene Iker que no tenga Yasmina? No menos inteligencia artificial, sino una madre al lado que le pregunta «¿y esto por qué?». Eso hace el tutor con salvaguardas de PNAS, el que evitó en gran medida la pérdida de nota [1015]. Y para Yasmina, esa pregunta solo puede venir de la escuela.\n\n¿Y quién lo paga? Hoy, cada familia, y casi la mitad ya costea clases particulares [1506]. En Ghana, un tutor de matemáticas por WhatsApp mejoró resultados y puede costar unos cinco dólares por alumno al año [1501]. Al año, no al mes. Y según Nickow, la tutoría rinde más en horario escolar [1503], justo donde la proponemos."
+    },
+    {
+     "equipo": "contra",
+     "rol": "refutador2",
+     "nombre": "Nerea Gil",
+     "tipo": "interpelacion",
+     "texto": "Javier, aplicando vuestro «quién y cuándo»: si a Yasmina esa pregunta solo puede dársela la escuela, ¿hoy están formados para enseñar con IA la mayoría de los profesores o una minoría?"
+    },
+    {
+     "equipo": "favor",
+     "rol": "refutador1",
+     "nombre": "Javier Serrano",
+     "tipo": "respuesta",
+     "texto": "Nerea, hoy una minoría, lo reconozco. Según TALIS, tres de cada cuatro docentes que no la usan dicen no saber enseñar con ella [1504]. Por eso proponemos formar primero y llevarla al aula después. Y formarse exige horas, justo las que la IA devuelve."
+    },
+    {
+     "equipo": "favor",
+     "rol": "refutador1",
+     "nombre": "Javier Serrano",
+     "tipo": "discurso",
+     "texto": "Paso al tiempo del profesorado, donde Tribuna ha cedido. Lucía le reconoció a Óscar que no niega que la IA ahorre horas, sino que ese tiempo se convierta en aprendizaje. Y lo probó con docentes de peores resultados que dejaron a la IA preparar sus clases [2537]. Fijaos en el verbo, dejaron. Susanna Loeb, autora de esa revisión de Stanford, avisa de que estas herramientas, por sí solas y sin reflexión, tienen algunos efectos negativos [2537]. Nosotros proponemos lo contrario, un borrador que la profesora revisa, corrige y firma. Así, esa misma revisión encuentra más comentarios y de más calidad sin más tiempo [1016]. Y el ensayo Tutor CoPilot vio que donde más ganaban los alumnos era con los tutores peor valorados [1003].\n\n¿Y quién los forma, y cuándo? Lucía quería hablar en presente. Pues en presente, el Ministerio ya ofrece un curso tutorizado de cuarenta horas [3602], y Estonia formó primero a sus profesores y después dio la IA a todos sus alumnos de décimo y undécimo [3601].\n\nMiembros del jurado, entre las ocho menos cuarto del lunes y las once y veinte del martes cabe todo este debate. Si el lunes la profesora tiene tiempo, el chaval tiene un tutor y alguien le enseña a usar la IA, el martes Marta ya no está sola delante de la pantalla. Y eso empieza el lunes, a las ocho menos cuarto."
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 6,
+   "key": "ref1_contra",
+   "nombre": "Primera refutación de Tribuna (en contra)",
+   "seg": 300,
+   "equipo": "contra",
+   "tipo": "refutacion",
+   "rol": "refutador1",
+   "turnos": [
+    {
+     "equipo": "contra",
+     "rol": "refutador1",
+     "nombre": "Adrián Pastor",
+     "tipo": "discurso",
+     "texto": "Gracias. Javier nos pedía un cómo. Pero antes del cómo está el qué, y el qué nos lo dio él mismo. Le pregunté qué le suma la IA en el examen al alumno que no delega los deberes. Y Javier respondió, con honestidad, que usada a solas y sin guía no suma y apenas resta, y que ese es el techo de la IA sin profesor. Fijaos en lo que significa. La inteligencia artificial que hoy llevan casi todos en el móvil, la que usan solos en casa, en el mejor de los casos no suma nada. Y ese mejor caso es la excepción, porque ocho de cada diez que la usaban en ese estudio delegaban aunque tenían tutores baratos o gratis a mano [1531]. Javier dice que la receta de esos autores, más exámenes presenciales y vigilar el esfuerzo, es la suya. Miradla bien. Es examinar con la pantalla apagada, nuestro criterio, y es la receta de quien se defiende de la IA, no de quien la celebra. ¿Y comparar con quien no la usa es juzgar un instituto que no existe? No. Es lo que hacen sus propios estudios, Nigeria y PNAS incluidos."
+    },
+    {
+     "equipo": "favor",
+     "rol": "refutador2",
+     "nombre": "Laura Pérez",
+     "tipo": "interpelacion",
+     "texto": "Adrián, examinar con la pantalla apagada y vigilar el esfuerzo, ¿obliga a sacar la IA del aula o es compatible con usarla guiada en clase durante el curso?"
+    },
+    {
+     "equipo": "contra",
+     "rol": "refutador1",
+     "nombre": "Adrián Pastor",
+     "tipo": "respuesta",
+     "texto": "Es compatible, Laura, no lo negamos. Pero compatible no quiere decir beneficiosa. Esa receta sirve para detectar el daño, no para que se aprenda más. Y la IA guiada en clase, durante dos cursos, ya se ha probado a escala. Os cuento cómo salió."
+    },
+    {
+     "equipo": "contra",
+     "rol": "refutador1",
+     "nombre": "Adrián Pastor",
+     "tipo": "discurso",
+     "texto": "Vamos al corazón de su caso, el tutor para el chaval de tercero. Pensad en un chaval de trece años en Tennessee. Su instituto hizo lo que pedía Javier, tutoría en horario escolar, y le dio Khanmigo, el tutor de IA más famoso, configurado para guiar y no para dar respuestas. Dos años después, según un estudio del NBER, aprendió lo mismo que si hubiera practicado con los mismos ejercicios sin IA [2540]. ¿Por qué? Porque apenas le escribía, y cuando lo hacía era para pulsar la pregunta sugerida. Tenía el mejor tutor del mundo a un clic, y no hizo el clic.\n\n¿Y Nigeria? Noelia nos reconoció que el grupo de comparación no tuvo ni una tarde extra, y los propios autores admiten que su diseño no separa la IA de esas horas de más [2021]. ¿Y el tutor con salvaguardas que Javier le ofrecía a Yasmina? Noelia lo dijo, evitaron sacar menos. No sacaron más [2013].\n\nTodo su caso cuelga de un «si». Si el profesor está formado, si el alumno no delega, si la herramienta tiene frenos. Javier le reconoció a Nerea que hoy los formados son una minoría, y un curso de cuarenta horas no cambia el presente. Si solo funciona en condiciones que el sistema no tiene, es beneficiosa para un folleto, no para un sistema."
+    },
+    {
+     "equipo": "favor",
+     "rol": "conclusor",
+     "nombre": "Óscar Román",
+     "tipo": "interpelacion",
+     "texto": "Adrián, en esos institutos de Tennessee, reales y no de folleto, ¿los alumnos con Khanmigo mejoraron en matemáticas frente a los que no lo tenían, sí o no?"
+    },
+    {
+     "equipo": "contra",
+     "rol": "refutador1",
+     "nombre": "Adrián Pastor",
+     "tipo": "respuesta",
+     "texto": "Un poco sí, Óscar, no lo escondo. Lo mismo que practicando sin IA [2540], y tan poco que, según economistas del Banco Mundial, no se distingue con claridad de cero [2503]. Funcionó el ejercicio, no el chatbot. Y con el chatbot de serie, peor."
+    },
+    {
+     "equipo": "contra",
+     "rol": "refutador1",
+     "nombre": "Adrián Pastor",
+     "tipo": "discurso",
+     "texto": "Retomo el Tirant lo Blanc. Javier dice que ver los errores se enseña, y cita PISA. Esa misma crónica cuenta que quien redacta con IA a diario va año y medio por detrás de quien no la usa [1533]. Recuperar medio curso dentro de un agujero de año y medio no es un beneficio, es un parche.\n\nY hay algo peor, lo que le pasó a Marta. En el experimento de PNAS, los alumnos del chatbot de serie sacaron peor nota y no notaron haber aprendido menos. Los del tutor con salvaguardas no sacaron más, y creían que sí [2013]. El Ministerio lo llama ilusión de competencia [2019]. Por eso Marta se fue a dormir tranquila. Nadie pide ayuda para un problema que no sabe que tiene.\n\nRecapitulo. La IA que hoy usan solos, en el mejor caso, no suma, y lo ha dicho Javier. El tutor que prometen depende de condiciones que el sistema no tiene. Y el alumno ni siquiera nota lo que pierde. Brújula nos cita el lunes a las ocho menos cuarto. Nosotros os pedimos que miréis el miércoles, cuando llega el examen y se apaga la pantalla. Esa mañana Marta está sola delante de una hoja en blanco, y ningún chatbot entra con ella."
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 7,
+   "key": "ref2_favor",
+   "nombre": "Segunda refutación de Brújula (a favor)",
+   "seg": 300,
+   "equipo": "favor",
+   "tipo": "refutacion",
+   "rol": "refutador2",
+   "turnos": [
+    {
+     "equipo": "favor",
+     "rol": "refutador2",
+     "nombre": "Laura Pérez",
+     "tipo": "discurso",
+     "texto": "Gracias. Adrián nos pide que miremos el miércoles, el día del examen con la pantalla apagada. Miremos, pero la semana entera. Lo haré en tres choques, el examen a mano, el tutor y quién hace posible todo esto.\n\nPrimero, el examen a mano. Pensad en la calculadora. En muchos exámenes se queda en la mochila, y nadie dice por eso que sea mala para aprender. Hay un momento para usarla y otro para demostrar que sabes sin ella. Eso proponemos, y Adrián me reconoció que examinar con la pantalla apagada es compatible con usar la IA guiada en clase. Lo mismo concluyen los autores del estudio británico que Lucía usó para la confianza rota. No hay que huir de la IA, dicen, sino volver al examen presencial e integrarla [1021]. A Madeleine no la habría salvado una prohibición, sino un examen en el aula, donde nadie adivina quién escribió qué.\n\nY la ilusión de competencia se cura igual. La guía del Ministerio que citó Adrián dice que la IA sola no mejora los resultados, pero con acompañamiento docente puede aportar valor [1010]. Mejor que Marta descubra que no sabe el lunes, en clase y con su profesora al lado, que el miércoles, sola delante de la hoja en blanco."
+    },
+    {
+     "equipo": "contra",
+     "rol": "introductor",
+     "nombre": "Lucía Navarro",
+     "tipo": "interpelacion",
+     "texto": "Laura, la guía del Ministerio que acabas de citar [1010] dice que la IA sola no mejora los resultados: hoy, ¿la mayoría de nuestros alumnos la usa sola o con su profesora al lado?"
+    },
+    {
+     "equipo": "favor",
+     "rol": "refutador2",
+     "nombre": "Laura Pérez",
+     "tipo": "respuesta",
+     "texto": "Hoy, la mayoría sola, Lucía, lo reconozco. Y por eso proponemos lo que pide esa guía, acompañamiento docente, que es cuando la IA sí aporta valor [1010]. Sola ya está. La pregunta es quién se sienta a su lado, y eso me lleva al tutor."
+    },
+    {
+     "equipo": "favor",
+     "rol": "refutador2",
+     "nombre": "Laura Pérez",
+     "tipo": "discurso",
+     "texto": "Sigo con el segundo choque, el tutor del chaval de tercero. Adrián le reconoció a Óscar que en Tennessee esos alumnos mejoraron un poco. ¿Y por qué no más? Porque el chaval no hacía el clic. Es como apuntarse al gimnasio en enero. La cuota no te pone en forma, ir sí. El mismo estudio calcula que quien lo usó de verdad todo el curso mejoró casi el doble, y concluye que no basta con dar acceso, hay que lograr que lo usen [1536]. ¿Y quién consigue que un chaval de trece años haga el clic? Una aplicación sola, no. Un profesor formado, que es donde empieza nuestra tesis.\n\nEn Nigeria, dice Adrián, no se separa la IA de las horas extra [2021]. Los autores creen que no son solo las horas, porque el refuerzo sin atención individual mueve muy poco, y allí cada alumno tuvo su tutor, con un profesor guiando [1002].\n\nY del tutor con salvaguardas, Adrián insiste en que solo evitaron sacar menos [2013]. Pensad en un casco de bici. No te hace pedalear más rápido, y nadie diría que es inútil para quien va a montar igualmente. Y más de nueve de cada diez ya montan [1534]."
+    },
+    {
+     "equipo": "contra",
+     "rol": "conclusor",
+     "nombre": "Rubén Sempere",
+     "tipo": "interpelacion",
+     "texto": "Laura, en vuestro casco de bici, la caída de la que protege el tutor con salvaguardas, ¿la provoca la propia IA, el chatbot de serie que ya tienen en el móvil?"
+    },
+    {
+     "equipo": "favor",
+     "rol": "refutador2",
+     "nombre": "Laura Pérez",
+     "tipo": "respuesta",
+     "texto": "Sí, Rubén, la provoca el chatbot de serie usado como muleta [1015]. Pero ese lo tienen en el móvil, lo queramos o no. La escuela no puede desinstalarlo, solo decidir si montan con casco o sin él. Y eso exige profesores formados, mi tercer choque."
+    },
+    {
+     "equipo": "favor",
+     "rol": "refutador2",
+     "nombre": "Laura Pérez",
+     "tipo": "discurso",
+     "texto": "Vuelvo a mi tercer choque, el famoso «si». Según Adrián, todo nuestro caso cuelga de un si, y así la IA es beneficiosa para un folleto, no para un sistema. Pensad en el coche. Solo sirve si aprendes a conducirlo, y nadie lo llama mal invento por eso. Se abre una autoescuela, y la nuestra ya existe. Es el curso tutorizado de cuarenta horas del Ministerio [3602], y Estonia ya lo ha hecho, formando primero a sus profesores y dando después la IA a dos cursos enteros [3601]. Y hay un beneficio que no cuelga de ningún si. Adrián no ha dicho ni una palabra del tiempo del profesorado, y Lucía ya reconoció que la IA lo ahorra [1008].\n\nTribuna nos ha traído un buen diagnóstico y ninguna propuesta para el lunes. Volvamos a las ocho menos cuarto. La compañera de Lengua termina sus redacciones con tiempo para sentarse con el chaval de tercero, que tiene un tutor que no le da la solución, sino que le pregunta dónde se ha perdido. El miércoles también llega a nuestro instituto, y el examen será a mano. La diferencia es que Marta ya no llega sola. Porque el miércoles, miembros del jurado, se gana el lunes a las ocho menos cuarto."
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 8,
+   "key": "ref2_contra",
+   "nombre": "Segunda refutación de Tribuna (en contra)",
+   "seg": 300,
+   "equipo": "contra",
+   "tipo": "refutacion",
+   "rol": "refutador2",
+   "turnos": [
+    {
+     "equipo": "contra",
+     "rol": "refutador2",
+     "nombre": "Nerea Gil",
+     "tipo": "discurso",
+     "texto": "Gracias. Laura cerraba con una escena preciosa, la compañera de Lengua con tiempo para sentarse junto al chaval de tercero. Queremos lo mismo para ese chaval y para Yasmina, de verdad. No discutimos el deseo, sino si la IA que hoy entra en las aulas lo cumple. Lo veremos en tres choques, aprender o entregar, todos o algunos, y qué queda de su lunes.\n\nPrimero, aprender o entregar. Fijaos en las tres imágenes de Laura, la calculadora en la mochila, el casco de bici y la cuota del gimnasio. Las tres sirven para protegerse de la herramienta o para pagarla sin usarla, no para aprender más con ella. La calculadora hace una cuenta que ya sabes hacer, y el chatbot, el ejercicio entero. Por eso el Ministerio pide practicar sin IA al empezar [2019]. ¿Y el casco? Laura, se lo reconociste a Rubén, la caída la provoca el propio chatbot [1015]. Un casco contra tu propia herramienta no demuestra que sea buena. Demuestra que hace daño. Y en PNAS, los que llevaban casco no sacaron más nota, aunque creían que sí [2013]."
+    },
+    {
+     "equipo": "favor",
+     "rol": "refutador1",
+     "nombre": "Javier Serrano",
+     "tipo": "interpelacion",
+     "texto": "Nerea, esa guía del Ministerio [2019] que pide practicar sin IA al empezar, como con la calculadora, ¿pide después dejarla fuera del aula o usarla con acompañamiento docente?"
+    },
+    {
+     "equipo": "contra",
+     "rol": "refutador2",
+     "nombre": "Nerea Gil",
+     "tipo": "respuesta",
+     "texto": "Con acompañamiento docente, Javier, es verdad. Pero dice que puede aportar valor, no que lo aporte, y que sola no mejora los resultados [2019]. Hoy la mayoría la usa sola, lo reconoció Laura. Y cuando estuvo dentro del instituto, en horario escolar, mirad qué pasó."
+    },
+    {
+     "equipo": "contra",
+     "rol": "refutador2",
+     "nombre": "Nerea Gil",
+     "tipo": "discurso",
+     "texto": "Vuelvo al gimnasio, que describe Tennessee a la perfección. La cuota no te pone en forma, ir sí. Pero allí el gimnasio estaba dentro del instituto, en el refuerzo diario, y casi todos lo probaron. Aun así, el alumno típico le escribía uno de cada tres días que practicaba, y solo pedía ayuda en una de cada seis sesiones en las que fallaba [1536]. Ese «casi el doble» es un cálculo de lo que pasaría si lo usaran. Lo que pasó es que aprendieron lo mismo que practicando sin IA [2540].\n\nSegundo choque, ¿todos o algunos? Fijaos en un silencio. Laura no ha dicho ni una palabra de Yasmina. Noelia reconoció que en Nigeria ganaron más los que ya iban mejor, y es la regla en los ensayos que lo miden, según economistas del Banco Mundial y Pensilvania [2504]. Javier dijo que, para Yasmina, el «¿y esto por qué?» solo puede venir de la escuela, y luego me reconoció que los profesores formados son hoy una minoría. Así que esta noche Yasmina sigue sola. Y no es un caso suelto. Según Pew, entre las familias con pocos ingresos, los adolescentes que hacen la mayoría de los deberes con un chatbot son casi el triple que entre las acomodadas [2505]."
+    },
+    {
+     "equipo": "favor",
+     "rol": "introductor",
+     "nombre": "Noelia Cano",
+     "tipo": "interpelacion",
+     "texto": "Nerea, esos economistas del Banco Mundial y Pensilvania [2504], ¿concluyen que dar la IA desde la escuela pública tenga que ampliar la brecha, o advierten expresamente que esa no es una conclusión general?"
+    },
+    {
+     "equipo": "contra",
+     "rol": "refutador2",
+     "nombre": "Nerea Gil",
+     "tipo": "respuesta",
+     "texto": "Lo advierten, Noelia, es verdad. Pero dicen que la escuela pública puede dar acceso sin cerrar la brecha, y en los pocos ensayos que lo miden ganó quien iba delante [2502]. Ninguno de los vuestros dice lo contrario. Y eso nos lleva al lunes."
+    },
+    {
+     "equipo": "contra",
+     "rol": "refutador2",
+     "nombre": "Nerea Gil",
+     "tipo": "discurso",
+     "texto": "Tercer choque, el lunes. Sobre el tiempo del profesorado, Lucía ya contestó, tiempo ahorrado no es aprendizaje ganado. Y la revisión de Stanford añade que, cuando docentes flojos dejan a la IA preparar sus clases, sus alumnos rinden peor [2537]. Pensad en las ciento veinte redacciones de la compañera de Lengua. Si a Madeleine solo la salvaba un examen en el aula, ¿quién escribió esas redacciones hechas en casa? El Ministerio lo admite, las tareas de siempre ya no garantizan que el trabajo sea del alumno [2019]. Eso es la confianza rota. ¿Y la autoescuela? Con la mayoría de profesores sin carné es una promesa, mientras más de nueve de cada diez alumnos ya conducen [1534], la mayoría solos, como reconoció Laura.\n\nVolvamos a las dos preguntas. ¿Qué sabe hacer el alumno cuando se apaga la pantalla? Hoy, menos, y lo mejor que nos ofrecen es perder un poco menos. ¿Y les pasa a todos? No. Gana quien ya tenía a alguien al lado y pierde quien está sola. Brújula dice que el miércoles se gana el lunes a las ocho menos cuarto. Nosotros os pedimos que miréis el martes a las once y veinte, cuando de verdad se usa la IA. Esa noche no hay profesora formada, ni casco, ni autoescuela. Hay una chica de quince años, doce ejercicios perfectos y una hoja en blanco esperándola. La pregunta sigue siendo qué queda encendido dentro de Marta. Y hoy, demasiado poco."
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 9,
+   "key": "ref3_favor",
+   "nombre": "Refutación cruzada de Brújula (a favor)",
+   "seg": 90,
+   "equipo": "favor",
+   "tipo": "cruzada",
+   "rol": "refutador2",
+   "turnos": [
+    {
+     "equipo": "favor",
+     "rol": "refutador2",
+     "nombre": "Laura Pérez",
+     "tipo": "discurso",
+     "texto": "Gracias. Nerea nos pide mirar el martes a las once y veinte. Miremos, porque ahí se deciden los tres choques.\n\nEl primero es Marta. Esa noche el chatbot está en su móvil, con Tribuna o sin ella, porque más de nueve de cada diez alumnos ya lo usan [1534]. Todo el daño que han traído, de Estocolmo a Tennessee, es el de la IA a solas. ¿Y qué proponen para esa noche? Nada. Adrián reconoció que el examen a mano es compatible con usarla guiada. Su postura deja a Marta sola. La nuestra le sienta a alguien al lado, y por eso este choque es nuestro.\n\nEl segundo es Yasmina, que Nerea echaba de menos. Según Pew, los chavales de familias con menos ingresos son los que más deberes hacen con un chatbot [2505]. Iker tiene a su madre, y Yasmina solo la escuela. Si la escuela se aparta, la brecha la deciden la cocina de cada casa y la academia que ya paga casi la mitad de las familias [1506]. Dejar la IA fuera no protege a Yasmina, la abandona.\n\nY el tercero no cuelga de ningún «si». Lucía reconoció que la IA ahorra horas a la profesora, y solo opusieron docentes que dejaron a la máquina prepararles las clases. Nosotros hablamos de un borrador que ella revisa y firma, y eso sigue sin respuesta.\n\nPor eso, miembros del jurado, el martes a las once y veinte se gana el lunes a las ocho menos cuarto."
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 10,
+   "key": "ref3_contra",
+   "nombre": "Refutación cruzada de Tribuna (en contra)",
+   "seg": 90,
+   "equipo": "contra",
+   "tipo": "cruzada",
+   "rol": "refutador2",
+   "turnos": [
+    {
+     "equipo": "contra",
+     "rol": "refutador2",
+     "nombre": "Nerea Gil",
+     "tipo": "discurso",
+     "texto": "Gracias. Laura dice que el martes a las once y veinte se gana el lunes. Pero esa noche, en la cocina, no hay ningún lunes. Hay una chica de quince años, sola con un chatbot. Tres choques, y los tres son nuestros.\n\nEl primero, aprender o entregar. Marta no está sola por culpa de Tribuna, sino porque así se usa hoy la IA, como reconoció Laura. Y así, admitió Javier, no suma. ¿Y dentro del instituto? En Tennessee aprendieron lo mismo que practicando sin IA [2540]. Con salvaguardas, solo perdieron menos [2013]. Y en Nigeria no se separa la IA de las tardes extra [2021]. Estar en el móvil la hace inevitable, no beneficiosa.\n\nEl segundo, todos o algunos. Laura cita a Pew, que nos da la razón. Quien menos tiene, más deberes hace con un chatbot [2505]. Su remedio es la escuela, pero sus profesores formados son minoría, como reconoció Javier, y en su propia Nigeria ganaron más los que ya iban mejor. Así, la IA no rescata a Yasmina. La deja otra vez detrás de Iker.\n\nEl tercero, el de la profesora, ya tuvo respuesta. Su ensayo inglés no midió lo que aprendió el alumno [1008], y cuando se midió, con docentes flojos, sus alumnos rindieron peor [2537]. Tiempo ahorrado no es aprendizaje ganado.\n\nVolvamos a la cocina. Brújula nos ofrece un lunes, una autoescuela y un casco. Nosotros os hemos preguntado qué queda encendido dentro de Marta cuando se apaga la pantalla. Y hoy, demasiado poco."
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 11,
+   "key": "conclusion_contra",
+   "nombre": "Conclusión de Tribuna (en contra)",
+   "seg": 180,
+   "equipo": "contra",
+   "tipo": "conclusion",
+   "rol": "conclusor",
+   "turnos": [
+    {
+     "equipo": "contra",
+     "rol": "conclusor",
+     "nombre": "Rubén Sempere",
+     "tipo": "discurso",
+     "texto": "Gracias. Lucía os dejó a Marta en una cocina, a las once y veinte de un martes, con doce ejercicios perfectos. Brújula nos ha contestado con otra hora, las ocho menos cuarto de un lunes. Ellos os han hablado del lunes que podría llegar. Nosotros, del martes que ya pasa cada noche.\n\nLa pregunta dice «es», y para juzgarla os propusimos la pantalla apagada. Noelia la aceptó cuando se lo pregunté. Beneficiosa es lo que el alumno sabe hacer después, sin la IA. Y Brújula pidió comparar con el instituto real. Hagámoslo con las dos varas.\n\nEl primer choque, aprender o entregar, es el que más pesa, porque lo que dura vale más que lo que se entrega. Javier reconoció que, usada a solas, la IA no suma. Laura, que hoy la mayoría la usa sola. Noelia, que con salvaguardas solo evitaron sacar menos [2013]. Y cuando el tutor entró en el instituto, en Tennessee, dio lo mismo que practicar sin él [2540]. Su mejor prueba es un casco contra una caída que provoca la propia IA. Eso no es un beneficio, es un daño a medio contener.\n\nEl segundo, todos o algunos. Un sistema también es el alumno que va detrás. Noelia admitió que en Nigeria ganaron más los que ya iban mejor, y Javier, que hoy los profesores formados son una minoría. Laura dice que apartarse es abandonar a Yasmina. Pero la escuela que promete sentarse a su lado todavía no existe, y el chatbot que la deja atrás ya está en su móvil [2505]. Un beneficio que agranda la brecha no beneficia al sistema.\n\nEl tercero, el tiempo de la profesora. Ahorra minutos, sí. Pero, como respondió Nerea, tiempo ahorrado no es aprendizaje ganado, y su ensayo inglés no midió si esos minutos llegan al alumno [1008]. Y Laura dijo que a Madeleine la habría salvado un examen en el aula. Si lo único fiable es lo que se hace sin pantalla, la pantalla no ha traído confianza, se la ha llevado.\n\nTodo su caso, como decía Adrián, cuelga de un «si». Si hay formación, si hay frenos, si el chaval hace el clic. Y estar en el móvil la hace inevitable, no beneficiosa.\n\nVolvamos a la cocina. Son otra vez las once y veinte y los deberes están perfectos. ¿Qué queda encendido dentro de Marta cuando se apaga la pantalla? Una hoja en blanco. Iker apaga la suya y su madre le pregunta «¿y esto por qué?». Yasmina apaga la suya sola, con una respuesta que no entiende. Y Madeleine esperó seis meses a que alguien creyera que su trabajo era suyo. Tarde o temprano todos se quedan sin pantalla, en un examen, en una entrevista o delante de un paciente, y solo se llevan lo que aprendieron a hacer solos. Por eso, hoy, la respuesta es no."
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 12,
+   "key": "conclusion_favor",
+   "nombre": "Conclusión de Brújula (a favor)",
+   "seg": 180,
+   "equipo": "favor",
+   "tipo": "conclusion",
+   "rol": "conclusor",
+   "turnos": [
+    {
+     "equipo": "favor",
+     "rol": "conclusor",
+     "nombre": "Óscar Román",
+     "tipo": "discurso",
+     "texto": "Gracias. Este debate ha tenido dos relojes. Tribuna nos llevó a una cocina, a las once y veinte de un martes, donde Marta está sola con una pantalla. Nosotros, a una sala de profesores, a las ocho menos cuarto de un lunes. Y la cuestión es cuál de los dos relojes cambia al otro.\n\nTeníais dos varas, y las dos nos sirven. La pantalla apagada de Tribuna, que Noelia aceptó, y la nuestra, comparar con el instituto real y preguntar quién lo paga, quién lo forma y cuándo. Con ellas, pesemos los tres choques.\n\nEl primero es qué pasa si no hacemos nada, y es el de Marta. El daño que han traído, deberes de diez y examen en blanco, es el de la IA usada a solas, y Lucía reconoció que en su gran estudio la usaban por su cuenta [1531]. Ese chatbot ya está en más de nueve de cada diez mochilas [1534], y Adrián admitió que el examen a mano es compatible con usarlo guiado. Su postura deja a Marta sola en la cocina. La nuestra le sienta a alguien al lado.\n\nEl segundo es a quién llega, y es el de Yasmina. Tribuna nos enseñó con Pew que quien menos tiene más deberes hace con un chatbot [2505]. Si la escuela se aparta, la brecha la deciden la cocina de cada casa y la academia que ya paga casi la mitad de las familias [1506]. Iker tiene a su madre. Yasmina solo tiene la escuela.\n\nY el tercero es lo más seguro, el tiempo de la profesora. Lucía reconoció que la IA lo ahorra [1008], y lo que nos opusieron fueron docentes que dejaron a la máquina preparar sus clases. Nosotros hablamos de un borrador que ella revisa y firma.\n\nPor eso nuestra tesis sigue en pie. En manos del profesorado, la IA devuelve tiempo, acerca un tutor a quien no puede pagarlo y convierte un uso a escondidas en un uso guiado.\n\nVolvamos a aquel lunes a las ocho menos cuarto. La misma compañera de Lengua, las mismas ciento veinte redacciones, pero cada una con un borrador que ella revisa, corrige y firma. A las ocho y media ha terminado, y usa la media hora que le sobra para lo que ninguna máquina hace, sentarse con el chaval de tercero, que en la hora de refuerzo tiene un tutor que no le da la solución, sino que le pregunta dónde se ha perdido. El martes por la noche usará el chatbot para entender, porque alguien en clase le enseñó. Y el miércoles hará el examen a mano, con la pantalla apagada y algo encendido dentro. No defendemos un aula llena de pantallas. Defendemos una profesora con más tiempo y un alumno que ya no está solo. Y ese lunes, miembros del jurado, empieza a las ocho menos cuarto."
+    }
+   ],
+   "completa": true
+  }
+ ],
+ "jurado": {
+  "ganador": "contra",
+  "votos": [
+   {
+    "juez": "Carmen Llorens",
+    "perfil": "Jueza de fondo",
+    "voto": "contra"
+   },
+   {
+    "juez": "Álex Moreno",
+    "perfil": "Juez de forma",
+    "voto": "contra"
+   },
+   {
+    "juez": "Isabel Garrigós",
+    "perfil": "Jueza principal",
+    "voto": "contra"
+   }
+  ],
+  "decision": "3-0",
+  "items": {
+   "nombres": [
+    "Contextualización de la pregunta",
+    "Veracidad y verosimilitud de los argumentos",
+    "Profundidad y complejidad de los argumentos",
+    "Diversidad y veracidad de evidencias, citas y ejemplos",
+    "Adecuación a la premisa del debate",
+    "Refuta los argumentos del contrario",
+    "Uso adecuado de la lógica y ausencia de falacias",
+    "Preguntas (concesión, realización y respuestas)",
+    "Comienzos cautivadores y finales contundentes",
+    "Naturalidad y expresividad",
+    "Dominio del espacio",
+    "Contacto visual y dominio de voz y silencios",
+    "Equilibrio entre los miembros del equipo"
+   ],
+   "favor": [
+    4.5,
+    4.0,
+    4.33,
+    4.67,
+    4.0,
+    4.33,
+    3.67,
+    4.0,
+    4.83,
+    4.33,
+    4.0,
+    4.5,
+    4.5
+   ],
+   "contra": [
+    5.0,
+    4.0,
+    4.33,
+    5.0,
+    4.67,
+    4.83,
+    4.33,
+    4.83,
+    5.0,
+    4.5,
+    4.0,
+    4.67,
+    4.67
+   ]
+  },
+  "puntuacion": {
+   "favor": {
+    "items": 55.66,
+    "penalizaciones": 0,
+    "total": 55.66,
+    "avisos": 1,
+    "leves": 0,
+    "graves": 0
+   },
+   "contra": {
+    "items": 59.83,
+    "penalizaciones": 3,
+    "total": 56.83,
+    "avisos": 2,
+    "leves": 0,
+    "graves": 0
+   }
+  },
+  "puntos_oradores": {
+   "Adrián Pastor": 4,
+   "Nerea Gil": 6,
+   "Lucía Navarro": 4,
+   "Rubén Sempere": 2,
+   "Laura Pérez": 2
+  },
+  "mejor_orador": "Nerea Gil",
+  "mejores": [
+   "Nerea Gil",
+   "Adrián Pastor",
+   "Lucía Navarro"
+  ],
+  "mejor_por_puesto": {
+   "introductor": "Lucía Navarro",
+   "refutador1": "Adrián Pastor",
+   "refutador2": "Nerea Gil",
+   "conclusor": "Rubén Sempere"
+  },
+  "notas_intervenciones": [
+   {
+    "n": 1,
+    "orador": "Noelia Cano",
+    "nota": 4.3,
+    "comentario": ""
+   },
+   {
+    "n": 2,
+    "orador": "Noelia Cano",
+    "nota": 4.0,
+    "comentario": ""
+   },
+   {
+    "n": 3,
+    "orador": "Lucía Navarro",
+    "nota": 5.0,
+    "comentario": ""
+   },
+   {
+    "n": 4,
+    "orador": "Lucía Navarro",
+    "nota": 4.0,
+    "comentario": ""
+   },
+   {
+    "n": 5,
+    "orador": "Javier Serrano",
+    "nota": 4.0,
+    "comentario": ""
+   },
+   {
+    "n": 6,
+    "orador": "Adrián Pastor",
+    "nota": 5.0,
+    "comentario": ""
+   },
+   {
+    "n": 7,
+    "orador": "Laura Pérez",
+    "nota": 4.0,
+    "comentario": ""
+   },
+   {
+    "n": 8,
+    "orador": "Nerea Gil",
+    "nota": 5.0,
+    "comentario": ""
+   },
+   {
+    "n": 9,
+    "orador": "Laura Pérez",
+    "nota": 4.0,
+    "comentario": ""
+   },
+   {
+    "n": 10,
+    "orador": "Nerea Gil",
+    "nota": 4.0,
+    "comentario": ""
+   },
+   {
+    "n": 11,
+    "orador": "Rubén Sempere",
+    "nota": 4.7,
+    "comentario": ""
+   },
+   {
+    "n": 12,
+    "orador": "Óscar Román",
+    "nota": 4.0,
+    "comentario": ""
+   }
+  ],
+  "incidencias_evidencias": [
+   {
+    "id": 1536,
+    "problema": "Laura Pérez (fase 7) dice que «quien lo usó de verdad todo el curso mejoró casi el doble». La ficha da 0,14 DT como «efecto implícito» de un curso completo de participación activa: es una estimación, no un grupo que se observara mejorar. Nerea Gil lo corrigió bien. La cifra no es falsa (0,14 frente a 0,06-0,08), pero se presentó como un resultado observado. No lo penalizo."
+   },
+   {
+    "id": 2505,
+    "problema": "Tribuna usa Pew (fases 3, 8, 10 y 11) para concluir que el chatbot «deja atrás» a Yasmina. Pew mide cuánto se usa el chatbot, no cuánto se aprende. Además, la ficha 2504 del mismo bloque advierte de que ni el gradiente de uso ni el de dependencia muestran una diferencia de aprendizaje. Es una inferencia que va más allá de la fuente. No es un dato falso y Brújula no la atacó."
+   },
+   {
+    "id": 2504,
+    "problema": "Lucía Navarro y Nerea Gil citan la ficha como regla general («gana quien ya partía con ventaja»). La propia ficha dice que esos patrones «no son una conclusión general de que la provisión pública deba ampliar las brechas», y dos de las tres dimensiones se apoyan en un solo ensayo. Nerea lo reconoció en la interpelación de Noelia Cano. El uso fue correcto después de la matización."
+   },
+   {
+    "id": 1531,
+    "problema": "Comprobada. Todos los datos que citaron los dos equipos están en la ficha: +18 % en deberes, -20 % en exámenes, pérdida concentrada en el 80 % que externaliza, y notas similares para quien mantiene el tiempo de deberes. La frase «ocho de cada diez seguían delegando con tutores gratis a su alcance» une dos afirmaciones separadas del artículo, una síntesis aceptable. Nadie señaló las limitaciones del estudio: alumnado chino, documento de trabajo sin revisión por pares y adopción autodeclarada."
+   },
+   {
+    "id": 1002,
+    "problema": "Comprobada. Noelia Cano dice que los autores atribuyen el efecto a algo más que al tiempo extra, y la ficha lo dice: la tutoría humana en grupo apenas mueve resultados (Nickow; Kraft y Lovison). También es correcto que todos mejoraron, más los de mejor nivel previo, y el efecto de 0,21 en el examen trimestral. La objeción de Tribuna con la ficha 2021, que el diseño no separa la IA de las horas extra, también se sostiene."
+   },
+   {
+    "id": 2537,
+    "problema": "Comprobada. El caso de los «docentes con peores resultados» es un estudio de Turquía recogido en la revisión de Stanford, según Chalkbeat. Tribuna lo usó correctamente, aunque como respuesta a un uso distinto (dejar que la IA haga el plan de clase). También es correcta la cita de Loeb que usó Javier Serrano («por sí solas, sin reflexión»)."
+   },
+   {
+    "id": 1016,
+    "problema": "Comprobada: los borradores de IA dan más retroalimentación, y de más calidad, sin dedicarle más tiempo. Pero no dice que se ahorre tiempo. La imagen de Óscar Román, que con borradores la profesora termina 120 redacciones a las ocho y media y le sobra media hora, no se apoya en ninguna ficha. La misma ficha dice que la IA no mejora el aprendizaje de forma consistente, y Tribuna no lo aprovechó."
+   },
+   {
+    "id": 1533,
+    "problema": "Comprobada para los dos usos: los 13 puntos de ventaja de quienes evalúan en clase lo que responde la IA, y el año y medio de retraso de quien redacta con IA a diario. Brújula no usó un dato de la misma crónica que le servía: entre quienes usan la IA «para aprender», los usuarios semanales superan a todos, también a los que nunca la usan."
+   },
+   {
+    "id": 2540,
+    "problema": "Comprobada, junto con la 2503. Adrián Pastor y Nerea Gil la reflejan con fidelidad: la mejora se parece a la de practicar sin IA, el alumno mediano escribe uno de cada tres días y pide ayuda en el 17 % de las sesiones con error, y el intervalo [-0,01; 0,13] incluye el cero."
+   },
+   {
+    "id": 3601,
+    "problema": "Comprobada, junto con la 3602. Las dos fichas prueban que existen la formación y el despliegue en Estonia, pero no traen ningún dato de resultados de aprendizaje. Sirven contra la objeción de que el modelo «no es viable», no como prueba de que sea beneficioso."
+   },
+   {
+    "id": 3322,
+    "problema": "Comprobada, junto con la 3321 y la 2004. Las anécdotas de Tribuna son reales y están bien citadas, y Lucía Navarro las respaldó con datos agregados (1531 y 2004). Es una buena práctica."
+   },
+   {
+    "id": 1531,
+    "problema": "Tribuna (Lucía en el examen cruzado, Adrián en la refutación) presenta juntos dos datos: «ocho de cada diez delegaban» y «tenían tutores gratis o baratos a mano». La ficha recoge los dos, pero por separado: el 80 % con patrón de externalización y la frase de que esos tutores existen y la mayoría no los elige. Es una inferencia razonable, no un dato falso. Sin penalización."
+   },
+   {
+    "id": 2537,
+    "problema": "Lucía y Nerea dicen que «la revisión de Stanford halló» que los alumnos rinden peor cuando docentes flojos preparan las clases con IA. Según la crónica de Chalkbeat que cita la ficha, ese resultado sale de un solo estudio, hecho en Turquía, dentro de la revisión. El dato es correcto, pero se presenta como más general de lo que es. Sin penalización."
+   },
+   {
+    "id": 1536,
+    "problema": "El «casi el doble» de Laura (0,14 frente a 0,06-0,08 DT) es un efecto implícito estimado para la participación activa, no un efecto observado. Laura dijo «calcula», lo cual es correcto, y Nerea lo matizó bien. Sin penalización."
+   },
+   {
+    "id": 1002,
+    "problema": "He comprobado dos afirmaciones de Noelia en el examen cruzado: «mejoraron todos, también los que partían con peor nota» y que los autores creen que el efecto no se debe solo al tiempo extra, porque la tutoría sin atención individual mueve poco. Las dos están en la ficha. Sin incidencia."
+   },
+   {
+    "id": 2013,
+    "problema": "Rubén Sempere (fase 11) califica el efecto del tutor con salvaguardas de «daño a medio contener». La ficha dice que el efecto negativo «queda prácticamente eliminado» (y [1015], «en gran medida mitigados»). Lo que sí recoge la ficha es que no hubo efecto positivo, no que el daño se contuviera a medias. Es una caracterización forzada en la conclusión. No llega a dato falso, así que no lo sanciono, pero resta en veracidad."
+   },
+   {
+    "id": 1531,
+    "problema": "Verificada. Javier Serrano dice que quien dedica a los deberes el mismo tiempo saca notas de examen parecidas y que los autores proponen exámenes presenciales y vigilar el esfuerzo. Las dos cosas están en la ficha, aunque también dice «pequeñas pérdidas». Lucía Navarro dice que los deberes suben casi una quinta parte y el examen baja otra quinta parte (18 % y 20 %), con 26.811 alumnos durante 30 meses, autores de Estocolmo y Hong Kong y ocho de cada diez que externalizan. Todo es correcto."
+   },
+   {
+    "id": 2540,
+    "problema": "Verificada. Adrián Pastor dice que aprendió lo mismo que practicando sin IA y que los alumnos apenas escribían o pulsaban preguntas sugeridas. Es correcto. Nerea Gil dice «solo pedía ayuda en una de cada seis sesiones en las que fallaba». La ficha habla de que le escribió en el 17 % de las sesiones con error: es una paráfrasis aceptable."
+   },
+   {
+    "id": 1536,
+    "problema": "Laura Pérez dice que quien lo usó de verdad mejoró «casi el doble» (0,14 frente a 0,06-0,08 DT). Es correcto, pero la ficha lo presenta como un «efecto implícito», no observado. Nerea Gil lo señaló bien y Brújula no contestó."
+   },
+   {
+    "id": 2503,
+    "problema": "Verificada. Adrián Pastor dice que el efecto en Tennessee «no se distingue con claridad de cero», y el intervalo [−0,01; 0,13] lo confirma. La autoría es Dang (Banco Mundial) y Behrman (Pensilvania): «economistas del Banco Mundial» es una simplificación tolerable."
+   },
+   {
+    "id": 2021,
+    "problema": "Verificada. El grupo de control de Nigeria no recibió ninguna intervención y los autores no separan el tiempo extra de la IA. Brújula contestó con [1002], que en efecto dice que hay razones para creer que el efecto no se debe solo al tiempo extra. Las dos lecturas son fieles. La exposición inicial de Brújula omitió esta limitación, aunque no es dato falso."
+   },
+   {
+    "id": 2504,
+    "problema": "Noelia Cano preguntó en su interpelación si la ficha advierte de que no es una conclusión general, y es exacto: la ficha dice «no a una conclusión general de que la provisión pública deba ampliar las brechas». Nerea Gil lo concedió correctamente y se apoyó en [2502], que dice que la provisión pública puede ampliar el acceso sin reducir brechas. Las dos citas son fieles."
+   },
+   {
+    "id": 2537,
+    "problema": "Verificada. El resultado de docentes flojos cuyos alumnos rinden peor procede de un solo estudio de Turquía dentro de la revisión. La cita de Loeb («por sí solas, sin reflexión...») que usa Javier Serrano es literal. Tribuna generalizó a partir de un único estudio, pero no lo falseó."
+   },
+   {
+    "id": 1016,
+    "problema": "Verificada (más comentarios y de mayor calidad sin más tiempo). Fue el argumento de Brújula sobre el profesorado que Tribuna nunca contestó en su contenido: solo repitió «tiempo ahorrado no es aprendizaje ganado»."
+   },
+   {
+    "id": 1003,
+    "problema": "Javier Serrano dice que donde más ganaban los alumnos era con los tutores peor valorados. Es correcto, pero omite que la misma ficha no encontró mejora significativa en la prueba de fin de curso. Es una selección interesada, no un dato falso."
+   },
+   {
+    "id": 1021,
+    "problema": "Verificada. Laura Pérez dice que los autores del estudio británico concluyen que hay que volver al examen presencial e integrar la IA, no huir de ella. Es literal y gira con eficacia [2004], que trajo Tribuna."
+   },
+   {
+    "id": 2505,
+    "problema": "Verificada. «Uno de cada catorce» corresponde al 7 % y «casi el triple» a 20 frente a 7. Los dos equipos la usaron con fidelidad, Brújula para darle la vuelta."
+   },
+   {
+    "id": 1008,
+    "problema": "Verificada. «Casi un tercio menos» es el 31 %. Los «veinticinco minutos semanales» de Lucía Navarro salen de 81,5 − 56,2. Es correcto que la ficha no mide el aprendizaje del alumno."
+   },
+   {
+    "id": 1504,
+    "problema": "Verificada. «Hora y media más corrigiendo» sale de 6,1 frente a 4,6 h. «Tres de cada cuatro docentes que no la usan dicen no saber enseñar con ella» es el 75 %. Es correcto."
+   },
+   {
+    "id": 3602,
+    "problema": "Verificada (curso tutorizado de 40 horas). Matiz: sus contenidos se centran en Primaria y tiene una versión para Secundaria. No se discutió."
+   },
+   {
+    "id": 3321,
+    "problema": "Verificada. Xavier Gual, profesor de secundaria, en el Ara: siete suspensos por un resumen del Tirant lo Blanc hecho con IA. Es correcto."
+   },
+   {
+    "id": 1533,
+    "problema": "Verificada para los dos usos: Brújula dice +13 puntos (más de medio curso) si en clase se evalúa a la IA, y Tribuna, −28 puntos (año y medio) para quien redacta a diario con IA."
+   },
+   {
+    "id": 0,
+    "problema": "Lucía Navarro, en su exposición inicial (fase 3), incorpora concesiones del examen cruzado («como decía Noelia», «Noelia ya ha aceptado la primera»). Es encuadre y no refutación de argumentos, así que no lo sanciono, aunque roza el límite."
+   }
+  ],
+  "acta": "### Carmen Llorens · Jueza de fondo · vota Tribuna\n\n## Decisión: gana Tribuna (en contra), por fondo y por poco\n\nLos datos de los dos equipos son correctos. He comprobado en las fichas todas las cifras que decidían un choque y no he encontrado ningún dato falso. La diferencia está en qué prueba cada equipo con sus evidencias y en qué concesiones arrastra cada uno.\n\n### Choque 1. Aprender o entregar: la pantalla apagada (gana Tribuna, y es el que más pesa)\nLos dos equipos aceptaron la misma vara: lo que el alumno sabe hacer después, sin la IA. Noelia la aceptó en el examen cruzado. Con esa vara, Tribuna presentó un daño bien probado: [1531] (deberes +18 %, exámenes -20 %), el chatbot de serie en PNAS [1015] y la correlación de PISA [1533].\n\nBrújula respondió bien a [1531]. Señaló que era uso por cuenta propia y que la pérdida se concentra en quien externaliza los deberes. Pero no trajo ninguna prueba de que el uso guiado haga **ganar** aprendizaje medido sin pantalla:\n- El tutor con salvaguardas de PNAS solo evitó sacar menos [2013], como reconoció Noelia.\n- En Tennessee, la mejora se parece a la de practicar sin IA y su intervalo incluye el cero [2540][2503].\n- Nigeria no separa la IA de las horas extra [2021]. Brújula lo defendió en parte con la ficha [1002].\n\nTribuna convirtió en argumento las concesiones de Brújula: «usada a solas no suma» (Javier) y «la mayoría la usa sola» (Laura). Además, Nerea desmontó con lógica las analogías de Laura:\n- La calculadora hace una cuenta que ya sabes hacer; el chatbot hace el ejercicio entero.\n- El casco protege de una caída que provoca la propia herramienta.\n- En Tennessee el «gimnasio» ya estaba dentro del instituto y aun así el alumnado no lo usaba.\n\nBrújula no respondió a este último punto, y es la raíz de su mecanismo: «el profesor consigue que hagan el clic».\n\n### Choque 2. Lo inevitable frente a lo beneficioso, y el «si» (gana Tribuna)\nEl mejor argumento de Brújula es el contrafactual: el 92 % ya usa la IA [1534], así que la escuela debe guiarla. Tribuna respondió a la raíz con «inevitable no es beneficiosa» y con el verbo «es». Las condiciones que Brújula necesita no están presentes hoy, y Brújula lo concedió: los docentes formados son una minoría, según Javier con [1504].\n\nBrújula contestó con un curso de 40 horas [3602] y con Estonia [3601]. Eso prueba que el modelo es viable, no que produzca beneficios. Además, Brújula presentó a Tribuna como si defendiera prohibir, algo que Tribuna nunca propuso. «Dejar la IA fuera es abandonarla» es un falso dilema.\n\n### Choque 3. El tiempo del profesorado (gana Brújula)\nEs el beneficio mejor defendido del debate. Lucía concedió que la IA ahorra tiempo [1008]. La única objeción de Tribuna fue [2537]: docentes flojos que delegan la preparación de las clases. Javier fue a la raíz con dos argumentos:\n- La distinción entre delegar y revisar un borrador, apoyada en la cita de Loeb («por sí solas, sin reflexión»).\n- Más retroalimentación y de más calidad [1016], y más ganancia del alumnado con los tutores peor valorados [1003].\n\nTribuna repitió «tiempo ahorrado no es aprendizaje ganado» sin responder a [1003] ni a [1016]. Aun así, es un beneficio intermedio, y Brújula no demostró que se traduzca en aprendizaje.\n\n### Choque 4. Todos o algunos: la brecha (empate técnico)\nTribuna planteó bien la imagen de «una pantalla, dos destinos», con Pew [2505] y la ficha [2504]. Pero Noelia obligó a Nerea a reconocer que [2504] no es una conclusión general. Y Pew mide uso, no aprendizaje. Brújula le dio la vuelta al dato de Pew con [1506]: la academia ya la paga casi la mitad de las familias.\n\nPor su parte, el remedio de Brújula vuelve a depender de unos profesores formados que hoy son minoría. Ninguno de los dos cerró el choque.\n\n**Balance.** Brújula gana un beneficio real pero acotado: el tiempo y la retroalimentación del profesorado. Tribuna gana el choque central con la vara que aceptaron los dos equipos, y además expuso que el caso de Brújula dependía de analogías y de condiciones futuras. Como pido solidez y desconfío de lo bonito que no está probado, el fondo inclina mi voto hacia Tribuna. La forma, muy pareja, no cambia esa conclusión.\n\n### Álex Moreno · Juez de forma · vota Tribuna\n\n## Papeleta de forma: gana Tribuna (en contra), por un margen estrecho\n\nLas dos exposiciones fueron muy buenas y los dos equipos se apoyaron en un motivo narrativo: Brújula en *el lunes a las ocho menos cuarto* y Tribuna en *Marta, el martes a las once y veinte*. Me inclino por Tribuna por tres razones: le sacó al rival las concesiones que más pesaban, le dio la vuelta a sus imágenes y, en la conclusión, sopesó los choques en lugar de repetirlos.\n\n### Choque 1: aprender o entregar (la pantalla apagada). Gana Tribuna, y es el choque que decide\n- Noelia aceptó, a pregunta de Rubén, que lo beneficioso se mide por lo que el alumno sabe hacer después, sin la IA. Desde ese momento, Tribuna juzgó todo el debate con su propia vara.\n- Adrián preguntó a Javier y obtuvo la concesión más usada del debate: usada a solas, la IA «no suma y apenas resta». Luego atacó una por una las pruebas del uso guiado. En Tennessee, Khanmigo en horario escolar dio lo mismo que practicar sin IA [2540, comprobada]. Con salvaguardas, los alumnos solo evitaron sacar menos [2013, comprobada]. En Nigeria no se separa la IA del tiempo extra [2021, comprobada].\n- Laura respondió con el gimnasio: hace falta un profesor para que el chaval «haga el clic». Nerea le dio la vuelta: en Tennessee el gimnasio ya estaba dentro del instituto. Brújula no volvió a Tennessee ni en la refutación cruzada ni en la conclusión.\n- Brújula tenía material que Tribuna dejó sin contestar: Ghana [1501] y la subgrupo de PISA que evalúa las respuestas de la IA [1533]. Pero no insistió en él.\n\n### Choque 2: la IA ya está en las mochilas (comparar con el instituto real). Ventaja ligera de Brújula, neutralizada\n- Es la mejor idea de Brújula. Más de nueve de cada diez alumnos ya usan la IA [1534, comprobada]. El daño que trajo Tribuna es el del uso a solas [1531]. Y Adrián reconoció que el examen a mano es compatible con usarla guiada en clase. Javier dejó a la vista que Tribuna no tenía propuesta para «el lunes».\n- Tribuna lo neutralizó con dos frases: «estar en el móvil la hace inevitable, no beneficiosa» y «la escuela que promete sentarse a su lado todavía no existe», apoyada en lo que Javier reconoció sobre la minoría de docentes formados. Así, el «si» de Adrián («beneficiosa para un folleto, no para un sistema») quedó como sospecha sobre todo el caso de Brújula.\n\n### Choque 3: la brecha (Yasmina). Casi empate, ligera ventaja de Tribuna\n- La mejor interpelación de Brújula fue la de Noelia: obligó a Nerea a reconocer que [2504] no saca una conclusión general sobre la provisión pública. Brújula también usó Pew [2505] a su favor: quien menos tiene es quien más deberes hace con un chatbot.\n- Tribuna recuperó terreno con [2502] y con la concesión de Noelia de que en Nigeria ganaron más los que ya iban mejor. El remedio de Brújula volvía a depender de profesores formados.\n\n### Choque 4: el tiempo del profesorado. Gana Brújula, pero pesa poco\n- Lucía reconoció el ahorro de unos 25 minutos semanales [1008]. Brújula añadió más comentarios, y de más calidad, sin más tiempo [1016], y el Tutor CoPilot [1003]. Tribuna repitió su lema, «tiempo ahorrado no es aprendizaje ganado», y [2537], que habla de docentes que dejaron a la IA hacer el trabajo. Nunca contestó al «borrador que la profesora revisa y firma».\n- Pesa poco porque, con el criterio que se había aceptado, el debate se juzgaba por el aprendizaje del alumno.\n\n### Forma (ítems 9-13)\n- **Tribuna** tuvo los comienzos más cautivadores («Pulsa intro», «Pero esa noche, en la cocina, no hay ningún lunes») y frases cortas que respiran. Le dio la vuelta a la calculadora, al casco y al gimnasio de Laura. Los cuatro oradores tuvieron un nivel muy parejo. Rubén cerró sopesando los choques con las dos varas y con un final que se recuerda: «en un examen, en una entrevista o delante de un paciente».\n- **Brújula** fue muy clara: tres choques anunciados y cumplidos, y analogías que se entienden a la primera. Óscar abrió de forma brillante con los «dos relojes» y se apropió del «algo encendido dentro» del rival. En contra: cuatro oradores cerraron con la misma frase, y la frase perdió fuerza. Javier amontonó fuentes al final de su turno. Óscar repitió casi literalmente pasajes de la refutación cruzada en vez de contestar lo más fuerte de Tribuna.\n- **Penalizaciones:** solo avisos de tiempo, uno para Brújula y dos para Tribuna. No restan ítems. No he encontrado datos falsos ni evidencias nuevas en la refutación cruzada o en las conclusiones. En su exposición, Lucía mencionó lo que Noelia había aceptado, pero no llegó a refutar.\n\n### Isabel Garrigós · Jueza principal · vota Tribuna\n\n## Decisión: gana Tribuna (en contra), por un margen estrecho\n\nHa sido un debate de nivel muy alto y muy igualado, sin datos falsos por ninguna de las dos partes. Lo decide el choque que **ambos equipos aceptaron pesar más**.\n\n### Choque 1. Aprender con la pantalla apagada: gana Tribuna\nTribuna propuso el criterio y Noelia lo aceptó en el examen cruzado: beneficioso es «lo que el alumno sabe hacer después, sin ella». Con esa vara, Tribuna trajo la mejor prueba:\n- El panel de 26.811 alumnos [1531]: los deberes suben un 18 % y el examen baja un 20 %.\n- El tutor con salvaguardas de PNAS, que no saca más nota que el grupo de control [2013].\n- Tennessee [2540]: un tutor guiado y dentro del horario escolar da lo mismo que practicar sin IA, y su efecto no se distingue de cero [2503].\n\nBrújula hizo dos giros buenos. Javier mostró que la receta de los autores de [1531] es la suya. El casco de Laura explicaba que el tutor reduce un daño que ya existe. Pero cedió dos concesiones que Tribuna usó en todas las fases siguientes: Javier admitió que usada a solas la IA «no suma» y Laura, que «hoy la mayoría la usa sola». Nerea desmontó las analogías con lógica: «un casco contra tu propia herramienta no demuestra que sea buena». La prueba positiva de Brújula quedó debilitada:\n- Nigeria tiene el problema del tiempo extra [2021].\n- El «casi el doble» de Tennessee es un efecto implícito [1536].\n- La ilusión de competencia [2019] apenas tuvo respuesta.\n\n### Choque 2. Lo inevitable frente a lo beneficioso, y el «si»: gana Tribuna, por poco\nEl marco de Brújula fue lo mejor de su caso: comparar con el instituto real, donde el 92 % ya la usa [1534]. Además, consiguió que Adrián admitiera que el examen a mano es compatible con el uso guiado. Pero Tribuna acertó con la distinción decisiva: «estar en el móvil la hace inevitable, no beneficiosa». La pregunta dice «es», y Javier reconoció que hoy los docentes formados son una minoría. Por eso el beneficio del uso guiado quedó como condicional. La autoescuela (el curso de 40 horas [3602], Estonia [3601]) demuestra que hay medios para formar, no que hoy funcionen a la escala del sistema.\n\n### Choque 3. El tiempo del profesorado: gana Brújula con claridad\nTALIS [1504], la EEF [1008] y Stanford [1016] sostienen que hay más retroalimentación y de más calidad sin dedicarle más tiempo. Javier neutralizó [2537] fijándose en el verbo «dejaron» y en la cita de Loeb. Tribuna se limitó a repetir «tiempo ahorrado no es aprendizaje ganado» y nunca contestó a [1016]. Aun así, Brújula no conectó esa retroalimentación con el aprendizaje medido, que era el criterio pactado, así que el choque gana peso pero no compensa el primero.\n\n### Choque 4. La brecha y la confianza: reparto\n- **Confianza: Brújula.** Con [1021], Laura giró el estudio británico que había traído Tribuna: sus propios autores piden integrar la IA y volver al examen presencial.\n- **Brecha: equilibrado.** Brújula le dio la vuelta a Pew [2505] y Noelia obligó a Nerea a admitir que [2504] no es una conclusión general. Tribuna respondió con [2502], con que en Nigeria ganaron más los que ya iban mejor y con la minoría de docentes formados.\n\n**En conjunto**, Brújula gana ejes secundarios: el tiempo docente y la confianza. Tribuna gana el eje principal, que los dos aceptaron como vara, y además pondera de forma explícita: «lo que dura vale más que lo que se entrega». Tribuna también sacó concesiones más dañinas y respondió mejor a la pregunta tal como está formulada, en presente. En los ítems, Tribuna destaca en adecuación a la premisa, lógica y preguntas. Brújula queda un poco por debajo en veracidad y verosimilitud: omisiones selectivas en Nigeria y Tutor CoPilot y una escena final poco creíble. Tribuna también pierde un punto en veracidad, por el «a medio contener» de Rubén. Los avisos de tiempo (uno de Brújula y dos de Tribuna) no restan ítems.",
+  "feedback_equipos": {
+   "favor": "**Carmen Llorens (jueza de fondo):** **Noelia Cano.** Vuestra exposición inicial estaba muy bien construida: la escena de la sala de profesores, definiciones con fuente [1011], un criterio útil (quién lo paga, quién lo forma y cuándo) y tres razones con pruebas distintas. En el examen cruzado respondiste con honestidad y añadiendo contexto. Pero «evitaron sacar menos» y «ganaron más los que iban mejor» acabaron en boca de los cuatro oradores de Tribuna. Preparad para cada concesión previsible un contrapeso con dato. Para el tutor con salvaguardas, por ejemplo, la crónica de PISA [1533] trae que los usuarios semanales que usan la IA «para aprender» superan incluso a quienes nunca la usan. Y evitad «prohibirla en el aula»: atribuye al rival una postura que no defiende y os expone a la acusación de falso dilema.\n\n**Javier Serrano.** Fue la refutación más profunda de vuestro equipo. Le diste la vuelta a [1531] (uso por cuenta propia, pérdida concentrada en quien externaliza) y desactivaste [2537] con la cita de Loeb y con Tutor CoPilot [1003]. Así se va a la raíz. Revisa cómo concedes: «no suma y apenas resta» es honesto, pero sin una prueba inmediata de que la versión guiada sí suma, se convierte en el titular del rival. Prepara también una respuesta a «inevitable no es beneficioso», porque vuestro contrafactual necesita demostrar que el uso guiado en la escuela desplaza al uso a escondidas en casa, no solo suponerlo.\n\n**Laura Pérez.** Tu mejor momento fue usar [1021], los autores del estudio del 94 %, contra el argumento de la confianza, y contestar a [2021] con lo que dicen los autores de Nigeria. Las analogías (calculadora, casco, gimnasio, coche) se recuerdan, pero ocuparon el lugar de las pruebas y el rival las volvió contra ti. Antes de usar una, pregúntate si aguanta una disanalogía. No presentes un efecto implícito (0,14 DT en [1536]) como algo que se observó. Y te faltó responder al punto clave de Tennessee: el tutor ya estaba dentro del instituto y el alumnado aun así no lo usaba. En la refutación cruzada ordenaste muy bien los tres choques.\n\n**Óscar Román.** Tu conclusión fue clara: dos varas, tres choques y una buena imagen de los dos relojes. Te recomiendo dos cosas. Primera, no repitas casi literalmente la refutación cruzada de tu compañera: la conclusión debe ponderar y explicar por qué vuestro choque pesa más que el del rival. Segunda, no cierres con imágenes que ninguna ficha respalda. [1016] dice más retroalimentación sin más tiempo, no «terminar a las ocho y media». También te dejaste munición que el rival nunca contestó: Ghana [1501] y Tutor CoPilot [1003].\n\n**Equipo.** Habéis demostrado mucha preparación y equilibrio. Para el próximo debate: dad más peso a las pruebas que a las imágenes, buscad evidencia de que el uso guiado aporta aprendizaje medido sin pantalla, y atacad la metodología de la prueba principal del rival (en [1531], adopción autodeclarada, documento sin revisión por pares y contexto chino). Y vigilad el tiempo en las refutaciones.\n\n**Álex Moreno (juez de forma):** **Noelia Cano (introductora).** Empezáis muy bien: la sala de profesores a las ocho menos cuarto atrapa desde la primera frase. Las tres definiciones y el criterio de «quién lo paga, quién lo forma y cuándo» os dieron una columna vertebral que el equipo usó hasta el final. Para mejorar: en la primera razón juntas tres estudios en cuatro frases. Elige uno y tradúcelo a una imagen, como hiciste muy bien con el «bien» en rojo. En el examen cruzado, matiza antes de aceptar el criterio del rival: «sí, y también cuenta el tiempo docente y el uso que ya existe». Si lo aceptas tal cual, el contrario lo usa como vara durante todo el debate. Prepara también respuestas cortas sobre quién gana más en tus estudios estrella, porque esa pregunta llegará siempre.\n\n**Javier Serrano (refutador 1).** Muy buen puente entre la escena del rival y la vuestra («entre las ocho menos cuarto del lunes y las once y veinte del martes cabe todo este debate»). Aprovechaste bien la concesión de Lucía («por su cuenta») y fue un acierto convertir la receta de los autores del estudio de Estocolmo en «la nuestra». El Rincón del Vago suena natural. Para mejorar: en las interpelaciones, empieza por tu marco y no por la concesión. Una frase como «no suma y apenas resta» se convierte en munición del rival durante el resto del debate. El bloque final sobre el tiempo del profesorado encadena cinco fuentes seguidas y suena leído: deja dos y explica el mecanismo. Cuida el tiempo, te pasaste 12 segundos.\n\n**Laura Pérez (refutadora 2 y refutación cruzada).** Tu estructura de tres choques anunciados y cumplidos es modélica, y tus analogías hacen que el jurado entienda la idea a la primera. Para mejorar: una analogía por choque, y elegida para que no se pueda girar. La calculadora, el casco y el gimnasio fueron usados contra ti. En la respuesta sobre el casco reconociste que la caída la provoca la propia IA. Prepara una respuesta que distinga diseños (chatbot de serie frente a tutor con salvaguardas: los dos son IA) y que no regale el daño. No dejes amenazas vivas: el argumento de Tennessee en horario escolar no volvió a aparecer. Nombra tú a los personajes del rival antes de que te reprochen el silencio. La refutación cruzada fue clara y bien rematada.\n\n**Óscar Román (conclusor).** El arranque de los «dos relojes» es de los mejores del debate. Apropiarte del «algo encendido dentro» en la imagen final y cerrar con «No defendemos un aula llena de pantallas» deja una frase para recordar. Tus preguntas en el examen cruzado lograron una concesión que el equipo explotó en todos los turnos. Para mejorar: el centro de tu conclusión repite casi literalmente la refutación cruzada de Laura. El conclusor debe sopesar, no reproducir. Contesta de frente las frases más fuertes del rival (Tennessee, «inevitable no es beneficiosa», el «si») y explica por qué vuestra vara del instituto real debe pesar más que la de la pantalla apagada.\n\n**Equipo.** El motivo del lunes funciona, pero repetido igual en cuatro cierres pierde fuerza. Haced que evolucione en cada turno. Teníais pruebas que el rival nunca contestó, como Ghana y el estudio de Stanford sobre los borradores de corrección, y no volvisteis a ellas. Insistid en lo que el contrario deja sin respuesta. Y ensayad las interpelaciones con respuestas de dos frases: primero el marco, después la concesión si hace falta.\n\n**Isabel Garrigós (jueza principal):** **Equipo.** Tuvisteis un marco excelente: comparar con el instituto real y preguntar quién lo paga, quién lo forma y cuándo. Vuestras pruebas fueron muy variadas y todas fieles a las fichas. Para el próximo debate tenéis tres tareas. (1) Preparad una respuesta directa a la objeción «inevitable no es beneficiosa». Os la hicieron varias veces y vuestro mensaje de «uso guiado» quedó como algo que mitiga un daño, no como un beneficio. (2) Conectad el beneficio docente con el aprendizaje medido. [1016] también dice que el alumnado con retroalimentación de IA rinde igual o mejor, y no lo usasteis. (3) Controlad el tiempo: todas vuestras intervenciones se pasaron entre 6 y 12 segundos. El estribillo de las «ocho menos cuarto» funcionó al principio, pero al repetirlo en todas las fases perdió fuerza.\n\n**Noelia Cano (introductora).** Hiciste una apertura de gran nivel: escena concreta, definiciones con fuente [1011], criterio claro y tres razones bien sostenidas. En el examen cruzado fuiste honesta, pero concediste con las palabras que eligió el rival («evitaron sacar menos», «ganaron más los que ya iban mejor»). Encuadra antes de conceder; por ejemplo: «no perdieron nada y estaban protegidos frente al chatbot que ya tienen». Adelanta en tu discurso las limitaciones de tus estudios, como el tiempo extra de Nigeria, para que no las descubra el rival. Tu interpelación sobre [2504] fue un modelo de cómo leer a fondo la ficha del contrario.\n\n**Javier Serrano (refutador 1).** Tus giros fueron muy buenos: la receta de [1531], el verbo «dejaron» de [2537] y la cita de Loeb. En cambio, tu respuesta a la interpelación («usada a solas no suma y apenas resta, ese es el techo») se convirtió en la tesis del rival durante el resto del debate. En las interpelaciones evita las fórmulas absolutas y responde con tu mejor prueba por delante. Cuando cites estudios como Tutor CoPilot [1003], no omitas el resultado nulo de fin de curso: un rival atento te lo habría sacado. Ajusta el tiempo.\n\n**Laura Pérez (refutadora 2 y refutación cruzada).** Estructuraste tus choques con claridad, conseguiste la concesión de la compatibilidad y el giro de [1021] fue de lo mejor del debate. Usaste cuatro analogías seguidas (calculadora, gimnasio, casco y coche) y eso facilitó que las desmontaran todas a la vez, sobre todo el casco, que «protege contra la propia herramienta». Elige una sola, defiende su lógica y adelántate a la objeción. En la segunda refutación dejaste de lado a Yasmina y lo recuperaste en la cruzada. Ojo con atribuir al rival una prohibición que no defendió («dejar la IA fuera la abandona»): se acerca al hombre de paja.\n\n**Óscar Román (conclusor).** Tus preguntas del examen cruzado fueron eficaces: arrancaron la concesión sobre el tiempo docente. El marco de los «dos relojes» era elegante. Sin embargo, buena parte de tu conclusión repitió casi palabra por palabra la refutación cruzada. La conclusión debía enfrentarse a la prueba más dura del rival (Tennessee dentro del instituto, el tutor de PNAS sin mejora, la ilusión de competencia) y explicar por qué vuestros ejes deben pesar más que el suyo. La escena final, con ciento veinte redacciones terminadas a las ocho y media, resta verosimilitud. Mejor una imagen creíble que una ideal.",
+   "contra": "**Carmen Llorens (jueza de fondo):** **Lucía Navarro.** Una exposición inicial ejemplar. La anécdota de Marta tenía ritmo y frases cortas que respiran, y cada caso concreto (el Tirant, Madeleine) iba respaldado inmediatamente por un dato agregado ([1531], [2004]). Además, propusiste un criterio, la pantalla apagada, que acabó estructurando todo el debate. En el examen cruzado aportaste una prueba en cada respuesta. Cuidado con conceder sin matizar: «ahorra tiempo» podía ir acompañado de que en [1008] son unos 25 minutos semanales y de que la propia EEF pide cautela con la calidad. El rival usó esa concesión hasta el final.\n\n**Adrián Pastor.** Muy buen uso de las concesiones del rival: convertiste «no suma» en el eje del debate. La explicación de Tennessee [2540] y la objeción de diseño a Nigeria [2021] fueron a la raíz. También estuvo bien responder a la crónica de PISA con datos de la misma crónica. Te faltó cubrir el tiempo del profesorado, y el rival lo señaló en su turno siguiente. Tampoco respondisteis a Ghana [1501]. Si una prueba del rival no tiene contestación, aunque sea secundaria, en la conclusión queda en pie.\n\n**Nerea Gil.** Tu desmontaje de las analogías fue un ejercicio de lógica muy limpio, y también fue precisa la corrección del «casi el doble» de [1536]. Hilaste bien las concesiones de cada orador rival. Vigila dos cosas. Primera, Pew [2505] mide uso, no aprendizaje, y [2504] advierte de que no hay una conclusión general sobre la brecha. Por llevar el dato más lejos de lo que permite la fuente tuviste que conceder en la interpelación. Segunda, el tiempo: te pasaste en tus dos turnos. A «tiempo ahorrado no es aprendizaje ganado» le faltó responder a la distinción entre delegar y revisar un borrador, y a las fichas [1003] y [1016].\n\n**Rubén Sempere.** Tu conclusión ponderó de verdad («lo que dura vale más que lo que se entrega») y aplicó las dos varas con las concesiones del rival. El cierre de Marta, Iker, Yasmina y Madeleine fue muy redondo. Un aspecto lógico que mejorar: «un beneficio que agranda la brecha no beneficia al sistema» necesita justificación cuando todos los grupos mejoran en términos absolutos, como en Nigeria. Si no la das, parece una premisa oculta. Te convendría también responder expresamente a la retroalimentación de calidad [1016] en vez de repetir la fórmula del tiempo.\n\n**Equipo.** Un caso coherente, con pruebas bien leídas, incluidas las del rival, y un criterio que dominó el debate. Para el próximo debate: no dejéis pruebas del rival sin respuesta ([1501], [1003], [1016]), no estiréis los datos de uso para sacar conclusiones de aprendizaje, y gestionad mejor el reloj en refutación y en refutación cruzada.\n\n**Álex Moreno (juez de forma):** **Lucía Navarro (introductora).** Una apertura cinematográfica: frases cortas, «Pulsa intro», silencio y hoja en blanco. «Fijaos en el verbo» enmarca el debate con claridad. Traducir cifras a imágenes («un siete se queda en poco más de un cinco y medio») es exactamente lo que hace que el jurado entienda a la primera, y el cierre de «qué queda encendido» se recuerda. En el examen cruzado acuñaste el lema del equipo, «tiempo ahorrado no es aprendizaje ganado». Para mejorar: mantén la exposición autónoma y guarda las alusiones a lo que aceptó el rival para los turnos de refutación. Al responder «comparamos con alumnos que no la usan» abriste la puerta al «instituto que no existe». Prepara una respuesta sobre el escenario realista. Vigila la cantidad de personajes (Marta, Iker, Yasmina, Madeleine, el profesor del Ara): son muchos para un solo turno.\n\n**Adrián Pastor (refutador 1).** «Antes del cómo está el qué» es un arranque excelente. Construiste todo el turno sobre la concesión que lograste en tu interpelación. La historia del chaval de Tennessee («tenía el mejor tutor del mundo a un clic, y no hizo el clic») y «beneficiosa para un folleto, no para un sistema» son frases que se quedan. Gestionaste muy bien las interpelaciones: reconoces lo justo y giras. Para mejorar: dejaste sin contestar el tutor de Ghana y el hallazgo de Stanford sobre la calidad de los comentarios docentes. Un refutador debe cerrar también esos flancos. Cuidado con mezclar estudios de correlación con ensayos al hacer cuentas como la del «agujero de año y medio». Sé preciso con qué mide cada uno.\n\n**Nerea Gil (refutadora 2 y refutación cruzada).** Abrir reconociendo la escena del rival («queremos lo mismo») te da autoridad. Girar a la vez las tres analogías de Laura fue el mejor momento retórico de la ronda, y «Fijaos en un silencio» es un recurso muy eficaz. «Pero esa noche, en la cocina, no hay ningún lunes» abre la refutación cruzada con fuerza. Para mejorar: el tiempo, te pasaste dos veces. En el tercer choque repetiste el lema sin contestar el «borrador que la profesora revisa y firma», que el rival marcó expresamente como pendiente. Cuando concedas algo, como la advertencia de los economistas del Banco Mundial y Pensilvania, hazlo en menos palabras y vuelve antes a tu línea.\n\n**Rubén Sempere (conclusor).** Tu pregunta en el examen cruzado, que fijó el criterio de lo beneficioso, fue la jugada estratégica más rentable del equipo. La conclusión sopesa los choques con las dos varas, contesta los argumentos del rival y termina con un montaje de personajes que ata cabos (Madeleine y «delante de un paciente»). Para mejorar: el argumento de que la IA ya está en las mochilas merecía una respuesta propia y no solo una frase. Di qué ofrecéis para la noche del martes, o por qué no os toca proponer. La crítica del «si» ganaría con un dato sobre el coste o la escala de la formación.\n\n**Equipo.** Coordinación excelente: cada orador recoge las concesiones del examen cruzado y las devuelve con el mismo lenguaje. El flanco más expuesto fue la falta de propuesta para «el lunes» y la comparación con quien no usa la IA. Preparad un contramodelo o una justificación clara de por qué no lo necesitáis. Y ajustad el tiempo en los turnos largos.\n\n**Isabel Garrigós (jueza principal):** **Equipo.** Plantearos el verbo «es» y el criterio de la «pantalla apagada» como vara del debate fue una gran decisión estratégica. Sacasteis las concesiones del rival en las interpelaciones y las usasteis de forma coherente de principio a fin. Para el próximo debate tenéis tres tareas. (1) No dejéis ejes enteros sin respuesta: nunca contestasteis a Ghana [1501], a Tutor CoPilot [1003] ni a la mejora de la retroalimentación docente [1016]. (2) El lema «tiempo ahorrado no es aprendizaje ganado» se repitió en cuatro intervenciones sin prueba nueva; un eslogan no sustituye a una refutación. (3) Controlad el tiempo: dos intervenciones se pasaron entre 10 y 12 segundos, una de ellas en un turno de solo 1:30.\n\n**Lucía Navarro (introductora).** Tu apertura fue muy potente: la escena de Marta, el verbo «es», un criterio claro y tres argumentos con historias reales (Gual, Madeleine) y datos sólidos. Ten cuidado con apoyarte en concesiones del examen cruzado dentro de la exposición inicial («Noelia ya ha aceptado la primera»): roza la refutación, que no corresponde a ese turno. En tu examen cruzado, «por su cuenta» y «lo segundo» dieron al rival dos giros. Cuando sepas que una respuesta te abre un flanco, cierra con el dato que lo neutraliza, como hiciste con el 80 % que delega. Tu interpelación a Laura fue precisa.\n\n**Adrián Pastor (refutador 1).** Fue una primera refutación ejemplar. Convertiste una concesión en tesis, usaste Tennessee como prueba del uso guiado dentro del instituto, le diste la vuelta a la crónica de PISA [1533] y el argumento del «folleto» funcionó. Respondiste a la interpelación de Óscar con honestidad y con un giro bien elegido. Te faltó tocar el tiempo del profesorado y Ghana: un refutador debe repartir al menos una frase entre todos los ejes del rival.\n\n**Nerea Gil (refutadora 2 y refutación cruzada).** Desmontaste las analogías con lógica impecable, precisaste bien el dato de Tennessee y gestionaste las dos interpelaciones con concesiones controladas. Para mejorar: ajusta el tiempo, sobre todo en la cruzada. Ante [1016] trae un contraargumento con fuente en vez de repetir el lema. Cuando el rival te corrija una ficha, como pasó con [2504], ten preparada antes la cita complementaria; tú la tenías ([2502]), y eso es lo que hay que hacer.\n\n**Rubén Sempere (conclusor).** Tu conclusión estuvo bien ponderada («lo que dura vale más que lo que se entrega»), usaste las dos varas y el cierre fue contundente. Tus preguntas del examen cruzado, sobre la definición de beneficiosa y los subgrupos de Nigeria, fueron de lo más útil del debate. Cuida la precisión: «un daño a medio contener» no es lo que dice [2013], que habla de un efecto negativo «prácticamente eliminado». Un rival atento lo habría castigado. Integra también una respuesta breve al giro de [1021] sobre la confianza en lugar de solo reafirmar el argumento."
+  },
+  "feedback": "#### Brújula (a favor)\n\n**Carmen Llorens (jueza de fondo):** **Noelia Cano.** Vuestra exposición inicial estaba muy bien construida: la escena de la sala de profesores, definiciones con fuente [1011], un criterio útil (quién lo paga, quién lo forma y cuándo) y tres razones con pruebas distintas. En el examen cruzado respondiste con honestidad y añadiendo contexto. Pero «evitaron sacar menos» y «ganaron más los que iban mejor» acabaron en boca de los cuatro oradores de Tribuna. Preparad para cada concesión previsible un contrapeso con dato. Para el tutor con salvaguardas, por ejemplo, la crónica de PISA [1533] trae que los usuarios semanales que usan la IA «para aprender» superan incluso a quienes nunca la usan. Y evitad «prohibirla en el aula»: atribuye al rival una postura que no defiende y os expone a la acusación de falso dilema.\n\n**Javier Serrano.** Fue la refutación más profunda de vuestro equipo. Le diste la vuelta a [1531] (uso por cuenta propia, pérdida concentrada en quien externaliza) y desactivaste [2537] con la cita de Loeb y con Tutor CoPilot [1003]. Así se va a la raíz. Revisa cómo concedes: «no suma y apenas resta» es honesto, pero sin una prueba inmediata de que la versión guiada sí suma, se convierte en el titular del rival. Prepara también una respuesta a «inevitable no es beneficioso», porque vuestro contrafactual necesita demostrar que el uso guiado en la escuela desplaza al uso a escondidas en casa, no solo suponerlo.\n\n**Laura Pérez.** Tu mejor momento fue usar [1021], los autores del estudio del 94 %, contra el argumento de la confianza, y contestar a [2021] con lo que dicen los autores de Nigeria. Las analogías (calculadora, casco, gimnasio, coche) se recuerdan, pero ocuparon el lugar de las pruebas y el rival las volvió contra ti. Antes de usar una, pregúntate si aguanta una disanalogía. No presentes un efecto implícito (0,14 DT en [1536]) como algo que se observó. Y te faltó responder al punto clave de Tennessee: el tutor ya estaba dentro del instituto y el alumnado aun así no lo usaba. En la refutación cruzada ordenaste muy bien los tres choques.\n\n**Óscar Román.** Tu conclusión fue clara: dos varas, tres choques y una buena imagen de los dos relojes. Te recomiendo dos cosas. Primera, no repitas casi literalmente la refutación cruzada de tu compañera: la conclusión debe ponderar y explicar por qué vuestro choque pesa más que el del rival. Segunda, no cierres con imágenes que ninguna ficha respalda. [1016] dice más retroalimentación sin más tiempo, no «terminar a las ocho y media». También te dejaste munición que el rival nunca contestó: Ghana [1501] y Tutor CoPilot [1003].\n\n**Equipo.** Habéis demostrado mucha preparación y equilibrio. Para el próximo debate: dad más peso a las pruebas que a las imágenes, buscad evidencia de que el uso guiado aporta aprendizaje medido sin pantalla, y atacad la metodología de la prueba principal del rival (en [1531], adopción autodeclarada, documento sin revisión por pares y contexto chino). Y vigilad el tiempo en las refutaciones.\n\n**Álex Moreno (juez de forma):** **Noelia Cano (introductora).** Empezáis muy bien: la sala de profesores a las ocho menos cuarto atrapa desde la primera frase. Las tres definiciones y el criterio de «quién lo paga, quién lo forma y cuándo» os dieron una columna vertebral que el equipo usó hasta el final. Para mejorar: en la primera razón juntas tres estudios en cuatro frases. Elige uno y tradúcelo a una imagen, como hiciste muy bien con el «bien» en rojo. En el examen cruzado, matiza antes de aceptar el criterio del rival: «sí, y también cuenta el tiempo docente y el uso que ya existe». Si lo aceptas tal cual, el contrario lo usa como vara durante todo el debate. Prepara también respuestas cortas sobre quién gana más en tus estudios estrella, porque esa pregunta llegará siempre.\n\n**Javier Serrano (refutador 1).** Muy buen puente entre la escena del rival y la vuestra («entre las ocho menos cuarto del lunes y las once y veinte del martes cabe todo este debate»). Aprovechaste bien la concesión de Lucía («por su cuenta») y fue un acierto convertir la receta de los autores del estudio de Estocolmo en «la nuestra». El Rincón del Vago suena natural. Para mejorar: en las interpelaciones, empieza por tu marco y no por la concesión. Una frase como «no suma y apenas resta» se convierte en munición del rival durante el resto del debate. El bloque final sobre el tiempo del profesorado encadena cinco fuentes seguidas y suena leído: deja dos y explica el mecanismo. Cuida el tiempo, te pasaste 12 segundos.\n\n**Laura Pérez (refutadora 2 y refutación cruzada).** Tu estructura de tres choques anunciados y cumplidos es modélica, y tus analogías hacen que el jurado entienda la idea a la primera. Para mejorar: una analogía por choque, y elegida para que no se pueda girar. La calculadora, el casco y el gimnasio fueron usados contra ti. En la respuesta sobre el casco reconociste que la caída la provoca la propia IA. Prepara una respuesta que distinga diseños (chatbot de serie frente a tutor con salvaguardas: los dos son IA) y que no regale el daño. No dejes amenazas vivas: el argumento de Tennessee en horario escolar no volvió a aparecer. Nombra tú a los personajes del rival antes de que te reprochen el silencio. La refutación cruzada fue clara y bien rematada.\n\n**Óscar Román (conclusor).** El arranque de los «dos relojes» es de los mejores del debate. Apropiarte del «algo encendido dentro» en la imagen final y cerrar con «No defendemos un aula llena de pantallas» deja una frase para recordar. Tus preguntas en el examen cruzado lograron una concesión que el equipo explotó en todos los turnos. Para mejorar: el centro de tu conclusión repite casi literalmente la refutación cruzada de Laura. El conclusor debe sopesar, no reproducir. Contesta de frente las frases más fuertes del rival (Tennessee, «inevitable no es beneficiosa», el «si») y explica por qué vuestra vara del instituto real debe pesar más que la de la pantalla apagada.\n\n**Equipo.** El motivo del lunes funciona, pero repetido igual en cuatro cierres pierde fuerza. Haced que evolucione en cada turno. Teníais pruebas que el rival nunca contestó, como Ghana y el estudio de Stanford sobre los borradores de corrección, y no volvisteis a ellas. Insistid en lo que el contrario deja sin respuesta. Y ensayad las interpelaciones con respuestas de dos frases: primero el marco, después la concesión si hace falta.\n\n**Isabel Garrigós (jueza principal):** **Equipo.** Tuvisteis un marco excelente: comparar con el instituto real y preguntar quién lo paga, quién lo forma y cuándo. Vuestras pruebas fueron muy variadas y todas fieles a las fichas. Para el próximo debate tenéis tres tareas. (1) Preparad una respuesta directa a la objeción «inevitable no es beneficiosa». Os la hicieron varias veces y vuestro mensaje de «uso guiado» quedó como algo que mitiga un daño, no como un beneficio. (2) Conectad el beneficio docente con el aprendizaje medido. [1016] también dice que el alumnado con retroalimentación de IA rinde igual o mejor, y no lo usasteis. (3) Controlad el tiempo: todas vuestras intervenciones se pasaron entre 6 y 12 segundos. El estribillo de las «ocho menos cuarto» funcionó al principio, pero al repetirlo en todas las fases perdió fuerza.\n\n**Noelia Cano (introductora).** Hiciste una apertura de gran nivel: escena concreta, definiciones con fuente [1011], criterio claro y tres razones bien sostenidas. En el examen cruzado fuiste honesta, pero concediste con las palabras que eligió el rival («evitaron sacar menos», «ganaron más los que ya iban mejor»). Encuadra antes de conceder; por ejemplo: «no perdieron nada y estaban protegidos frente al chatbot que ya tienen». Adelanta en tu discurso las limitaciones de tus estudios, como el tiempo extra de Nigeria, para que no las descubra el rival. Tu interpelación sobre [2504] fue un modelo de cómo leer a fondo la ficha del contrario.\n\n**Javier Serrano (refutador 1).** Tus giros fueron muy buenos: la receta de [1531], el verbo «dejaron» de [2537] y la cita de Loeb. En cambio, tu respuesta a la interpelación («usada a solas no suma y apenas resta, ese es el techo») se convirtió en la tesis del rival durante el resto del debate. En las interpelaciones evita las fórmulas absolutas y responde con tu mejor prueba por delante. Cuando cites estudios como Tutor CoPilot [1003], no omitas el resultado nulo de fin de curso: un rival atento te lo habría sacado. Ajusta el tiempo.\n\n**Laura Pérez (refutadora 2 y refutación cruzada).** Estructuraste tus choques con claridad, conseguiste la concesión de la compatibilidad y el giro de [1021] fue de lo mejor del debate. Usaste cuatro analogías seguidas (calculadora, gimnasio, casco y coche) y eso facilitó que las desmontaran todas a la vez, sobre todo el casco, que «protege contra la propia herramienta». Elige una sola, defiende su lógica y adelántate a la objeción. En la segunda refutación dejaste de lado a Yasmina y lo recuperaste en la cruzada. Ojo con atribuir al rival una prohibición que no defendió («dejar la IA fuera la abandona»): se acerca al hombre de paja.\n\n**Óscar Román (conclusor).** Tus preguntas del examen cruzado fueron eficaces: arrancaron la concesión sobre el tiempo docente. El marco de los «dos relojes» era elegante. Sin embargo, buena parte de tu conclusión repitió casi palabra por palabra la refutación cruzada. La conclusión debía enfrentarse a la prueba más dura del rival (Tennessee dentro del instituto, el tutor de PNAS sin mejora, la ilusión de competencia) y explicar por qué vuestros ejes deben pesar más que el suyo. La escena final, con ciento veinte redacciones terminadas a las ocho y media, resta verosimilitud. Mejor una imagen creíble que una ideal.\n\n#### Tribuna (en contra)\n\n**Carmen Llorens (jueza de fondo):** **Lucía Navarro.** Una exposición inicial ejemplar. La anécdota de Marta tenía ritmo y frases cortas que respiran, y cada caso concreto (el Tirant, Madeleine) iba respaldado inmediatamente por un dato agregado ([1531], [2004]). Además, propusiste un criterio, la pantalla apagada, que acabó estructurando todo el debate. En el examen cruzado aportaste una prueba en cada respuesta. Cuidado con conceder sin matizar: «ahorra tiempo» podía ir acompañado de que en [1008] son unos 25 minutos semanales y de que la propia EEF pide cautela con la calidad. El rival usó esa concesión hasta el final.\n\n**Adrián Pastor.** Muy buen uso de las concesiones del rival: convertiste «no suma» en el eje del debate. La explicación de Tennessee [2540] y la objeción de diseño a Nigeria [2021] fueron a la raíz. También estuvo bien responder a la crónica de PISA con datos de la misma crónica. Te faltó cubrir el tiempo del profesorado, y el rival lo señaló en su turno siguiente. Tampoco respondisteis a Ghana [1501]. Si una prueba del rival no tiene contestación, aunque sea secundaria, en la conclusión queda en pie.\n\n**Nerea Gil.** Tu desmontaje de las analogías fue un ejercicio de lógica muy limpio, y también fue precisa la corrección del «casi el doble» de [1536]. Hilaste bien las concesiones de cada orador rival. Vigila dos cosas. Primera, Pew [2505] mide uso, no aprendizaje, y [2504] advierte de que no hay una conclusión general sobre la brecha. Por llevar el dato más lejos de lo que permite la fuente tuviste que conceder en la interpelación. Segunda, el tiempo: te pasaste en tus dos turnos. A «tiempo ahorrado no es aprendizaje ganado» le faltó responder a la distinción entre delegar y revisar un borrador, y a las fichas [1003] y [1016].\n\n**Rubén Sempere.** Tu conclusión ponderó de verdad («lo que dura vale más que lo que se entrega») y aplicó las dos varas con las concesiones del rival. El cierre de Marta, Iker, Yasmina y Madeleine fue muy redondo. Un aspecto lógico que mejorar: «un beneficio que agranda la brecha no beneficia al sistema» necesita justificación cuando todos los grupos mejoran en términos absolutos, como en Nigeria. Si no la das, parece una premisa oculta. Te convendría también responder expresamente a la retroalimentación de calidad [1016] en vez de repetir la fórmula del tiempo.\n\n**Equipo.** Un caso coherente, con pruebas bien leídas, incluidas las del rival, y un criterio que dominó el debate. Para el próximo debate: no dejéis pruebas del rival sin respuesta ([1501], [1003], [1016]), no estiréis los datos de uso para sacar conclusiones de aprendizaje, y gestionad mejor el reloj en refutación y en refutación cruzada.\n\n**Álex Moreno (juez de forma):** **Lucía Navarro (introductora).** Una apertura cinematográfica: frases cortas, «Pulsa intro», silencio y hoja en blanco. «Fijaos en el verbo» enmarca el debate con claridad. Traducir cifras a imágenes («un siete se queda en poco más de un cinco y medio») es exactamente lo que hace que el jurado entienda a la primera, y el cierre de «qué queda encendido» se recuerda. En el examen cruzado acuñaste el lema del equipo, «tiempo ahorrado no es aprendizaje ganado». Para mejorar: mantén la exposición autónoma y guarda las alusiones a lo que aceptó el rival para los turnos de refutación. Al responder «comparamos con alumnos que no la usan» abriste la puerta al «instituto que no existe». Prepara una respuesta sobre el escenario realista. Vigila la cantidad de personajes (Marta, Iker, Yasmina, Madeleine, el profesor del Ara): son muchos para un solo turno.\n\n**Adrián Pastor (refutador 1).** «Antes del cómo está el qué» es un arranque excelente. Construiste todo el turno sobre la concesión que lograste en tu interpelación. La historia del chaval de Tennessee («tenía el mejor tutor del mundo a un clic, y no hizo el clic») y «beneficiosa para un folleto, no para un sistema» son frases que se quedan. Gestionaste muy bien las interpelaciones: reconoces lo justo y giras. Para mejorar: dejaste sin contestar el tutor de Ghana y el hallazgo de Stanford sobre la calidad de los comentarios docentes. Un refutador debe cerrar también esos flancos. Cuidado con mezclar estudios de correlación con ensayos al hacer cuentas como la del «agujero de año y medio». Sé preciso con qué mide cada uno.\n\n**Nerea Gil (refutadora 2 y refutación cruzada).** Abrir reconociendo la escena del rival («queremos lo mismo») te da autoridad. Girar a la vez las tres analogías de Laura fue el mejor momento retórico de la ronda, y «Fijaos en un silencio» es un recurso muy eficaz. «Pero esa noche, en la cocina, no hay ningún lunes» abre la refutación cruzada con fuerza. Para mejorar: el tiempo, te pasaste dos veces. En el tercer choque repetiste el lema sin contestar el «borrador que la profesora revisa y firma», que el rival marcó expresamente como pendiente. Cuando concedas algo, como la advertencia de los economistas del Banco Mundial y Pensilvania, hazlo en menos palabras y vuelve antes a tu línea.\n\n**Rubén Sempere (conclusor).** Tu pregunta en el examen cruzado, que fijó el criterio de lo beneficioso, fue la jugada estratégica más rentable del equipo. La conclusión sopesa los choques con las dos varas, contesta los argumentos del rival y termina con un montaje de personajes que ata cabos (Madeleine y «delante de un paciente»). Para mejorar: el argumento de que la IA ya está en las mochilas merecía una respuesta propia y no solo una frase. Di qué ofrecéis para la noche del martes, o por qué no os toca proponer. La crítica del «si» ganaría con un dato sobre el coste o la escala de la formación.\n\n**Equipo.** Coordinación excelente: cada orador recoge las concesiones del examen cruzado y las devuelve con el mismo lenguaje. El flanco más expuesto fue la falta de propuesta para «el lunes» y la comparación con quien no usa la IA. Preparad un contramodelo o una justificación clara de por qué no lo necesitáis. Y ajustad el tiempo en los turnos largos.\n\n**Isabel Garrigós (jueza principal):** **Equipo.** Plantearos el verbo «es» y el criterio de la «pantalla apagada» como vara del debate fue una gran decisión estratégica. Sacasteis las concesiones del rival en las interpelaciones y las usasteis de forma coherente de principio a fin. Para el próximo debate tenéis tres tareas. (1) No dejéis ejes enteros sin respuesta: nunca contestasteis a Ghana [1501], a Tutor CoPilot [1003] ni a la mejora de la retroalimentación docente [1016]. (2) El lema «tiempo ahorrado no es aprendizaje ganado» se repitió en cuatro intervenciones sin prueba nueva; un eslogan no sustituye a una refutación. (3) Controlad el tiempo: dos intervenciones se pasaron entre 10 y 12 segundos, una de ellas en un turno de solo 1:30.\n\n**Lucía Navarro (introductora).** Tu apertura fue muy potente: la escena de Marta, el verbo «es», un criterio claro y tres argumentos con historias reales (Gual, Madeleine) y datos sólidos. Ten cuidado con apoyarte en concesiones del examen cruzado dentro de la exposición inicial («Noelia ya ha aceptado la primera»): roza la refutación, que no corresponde a ese turno. En tu examen cruzado, «por su cuenta» y «lo segundo» dieron al rival dos giros. Cuando sepas que una respuesta te abre un flanco, cierra con el dato que lo neutraliza, como hiciste con el 80 % que delega. Tu interpelación a Laura fue precisa.\n\n**Adrián Pastor (refutador 1).** Fue una primera refutación ejemplar. Convertiste una concesión en tesis, usaste Tennessee como prueba del uso guiado dentro del instituto, le diste la vuelta a la crónica de PISA [1533] y el argumento del «folleto» funcionó. Respondiste a la interpelación de Óscar con honestidad y con un giro bien elegido. Te faltó tocar el tiempo del profesorado y Ghana: un refutador debe repartir al menos una frase entre todos los ejes del rival.\n\n**Nerea Gil (refutadora 2 y refutación cruzada).** Desmontaste las analogías con lógica impecable, precisaste bien el dato de Tennessee y gestionaste las dos interpelaciones con concesiones controladas. Para mejorar: ajusta el tiempo, sobre todo en la cruzada. Ante [1016] trae un contraargumento con fuente en vez de repetir el lema. Cuando el rival te corrija una ficha, como pasó con [2504], ten preparada antes la cita complementaria; tú la tenías ([2502]), y eso es lo que hay que hacer.\n\n**Rubén Sempere (conclusor).** Tu conclusión estuvo bien ponderada («lo que dura vale más que lo que se entrega»), usaste las dos varas y el cierre fue contundente. Tus preguntas del examen cruzado, sobre la definición de beneficiosa y los subgrupos de Nigeria, fueron de lo más útil del debate. Cuida la precisión: «un daño a medio contener» no es lo que dice [2013], que habla de un efecto negativo «prácticamente eliminado». Un rival atento lo habría castigado. Integra también una respuesta breve al giro de [1021] sobre la confianza en lugar de solo reafirmar el argumento."
+ },
+ "volver": {
+  "url": "../../../torneo.html",
+  "texto": "Volver al torneo"
+ }
+}

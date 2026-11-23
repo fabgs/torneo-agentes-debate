@@ -1,0 +1,525 @@
+# I Torneo de Agentes de Debate · Final · Sala 1
+
+**¿Es la inteligencia artificial una herramienta beneficiosa para el sistema educativo?**
+
+- A favor: **Dialéctica** (Elena Bernabeu, Pablo Climent, Irene Soler, Mateo Andreu)
+- En contra: **Brújula** (Noelia Cano, Javier Serrano, Laura Pérez, Óscar Román)
+
+## 1. Exposición inicial de Dialéctica (a favor)
+
+*Elena Bernabeu (introductor/a)*
+
+Hace veinticuatro siglos, en un diálogo de Platón, el dios Theuth llevó al rey de Egipto un invento prodigioso, la escritura. «Hará más sabios a los egipcios», le prometió. Pero el rey Thamus le contestó que produciría olvido, y que daría a los alumnos la apariencia de la sabiduría, no la sabiduría [3401]. ¿Os suena? Hoy lo oímos de la inteligencia artificial. Y Thamus añadió que inventar un arte es cosa de uno, y juzgar su provecho o su daño, de otro. Ese juicio os pedimos hoy.
+
+Saludamos al jurado y al equipo de Brújula.
+
+Empecemos por las palabras. Por inteligencia artificial entendemos la de la ley europea [1011], del tutor educativo al chatbot del móvil, porque juzgar solo la versión amable sería trampa. Pero la pregunta dice «para el sistema», y una herramienta se juzga en manos de quien la empuña, por cómo enseña con ella la escuela y cómo evalúa. El bisturí es beneficioso para la cirugía aunque en la calle corte.
+
+Beneficiosa significa que aporta más de lo que cuesta frente a la alternativa real, que no es un mundo sin inteligencia artificial, porque en España, de cada veinticinco alumnos de quince años, apenas dos no la usan nunca para sus tareas [1534]. La alternativa es una inteligencia artificial sin escuela. Y educar es que cada alumno llegue a pensar por sí mismo sin que dependa de la renta de su casa, porque una escuela que solo hace avanzar a quien paga ayuda no educa, selecciona.
+
+De ahí nuestro criterio. ¿Qué escuela logra que más alumnos aprendan de verdad, lo que queda al apagar la pantalla, la que toma la inteligencia artificial en sus manos o la que la deja a la intemperie?
+
+Nuestra tesis: allí donde la escuela la toma en sus manos, la inteligencia artificial da a todos lo que hoy solo reciben algunos. Tres razones.
+
+La primera, educar es atender a cada uno. Pensad en la última vez que no entendisteis algo en clase y no os atrevisteis a preguntar. Un tutor resuelve justo eso, y por eso casi la mitad de las familias españolas paga clases particulares [1506]. ¿Y la otra mitad? En Nigeria, el Banco Mundial probó Copilot, un chatbot corriente, pero guiado por docentes. Seis semanas equivalieron a año y medio de escuela en inglés, y se notó en el examen ordinario del trimestre, que abarcaba todo el curso [1002]. En Sierra Leona, con clases diseñadas por profesores, ocho semanas mejoraron con claridad las matemáticas [2534]. Cuando la máquina contesta por el alumno, resta; cuando le corrige y le guía, suma, y esa frontera la traza la escuela.
+
+La segunda, el sistema también lo forman sus maestros. En Inglaterra, preparar las clases con inteligencia artificial y una guía llevó casi un tercio menos de tiempo [1008]. ¿Y eso llega al alumno? En Stanford, cuando solo cambiaba la inteligencia artificial al lado del tutor, más alumnos dominaron cada lección [1003]. Copiloto, no sustituto.
+
+La tercera, la decisiva, para quién. Sin escuela, la inteligencia artificial se reparte como las clases particulares. En Estados Unidos, los adolescentes humildes que le dejan la mayoría de los deberes a un chatbot casi triplican a los acomodados [2505]. Con escuela, el uso cambia. En PISA, entre quienes la usan a diario, los que en clase evalúan lo que dice la máquina sacan más de medio curso de ventaja [1533]. Es correlación, pero señala dónde mirar. Dejarla fuera del aula no cierra la brecha: se la entrega a quien ya tenía ventaja.
+
+Thamus acertó con el riesgo. Pero la respuesta no fue devolver la escritura, sino inventar la escuela que enseña a leer. Por eso, sí, la inteligencia artificial es beneficiosa para el sistema educativo.
+
+## 2. Examen cruzado a Dialéctica (a favor)
+
+*Levantan la mano: Noelia Cano, Javier Serrano, Óscar Román. Pregunta Noelia Cano.* *Se quedaron sin hacer: Javier Serrano: «En Nigeria, esas seis semanas con Copilot, ¿se dieron dentro del horario de clase o eran sesiones extra, por la tarde, además de las clases ordinarias?» · Óscar Román: «En el ensayo de Stanford que habéis citado, ¿mejoró también la prueba de matemáticas de fin de curso, o solo el dominio de cada lección?»*
+
+**Noelia Cano (introductor/a), pregunta:** Con vuestro bisturí: el chatbot que el alumno usa a solas en casa para los deberes, ¿cuenta en el saldo de la inteligencia artificial o lo dejáis fuera?
+
+**Elena Bernabeu (introductor/a), responde:** Cuenta, y se pesa: su daño es el del chatbot que contesta por el alumno, y ese ya está en casi todas las mochilas [1534]. Pero un chatbot corriente como ese, guiado por docentes, fue andamio en Nigeria [1002]. Lo que cambia es la escuela.
+
+*Levantan la mano: Óscar Román, Laura Pérez, Javier Serrano. Pregunta Laura Pérez.* *Se quedaron sin hacer: Óscar Román: «En el ensayo de Stanford que habéis citado, ¿mejoró la prueba de matemáticas de fin de curso, la que mide lo que queda al apagar la pantalla?» · Javier Serrano: «Las seis semanas de Nigeria, ¿se dieron dentro del horario de clase o en tardes añadidas a las clases?»*
+
+**Laura Pérez (refutador/a 2), pregunta:** En Nigeria y en Sierra Leona, ¿quién mejoró más: el alumno que entraba con mejor nivel o el que iba por detrás?
+
+**Elena Bernabeu (introductor/a), responde:** El que entraba con mejor nivel, en ambos, lo reconozco. Pero en Nigeria mejoraron todos los niveles de partida [1002]. Sin escuela, el humilde es quien más le deja la mayoría de los deberes al chatbot [2505]: dejarla fuera no cierra la brecha, la entrega.
+
+*Levantan la mano: Óscar Román, Javier Serrano. Pregunta Óscar Román.* *Se quedaron sin hacer: Javier Serrano: «En Nigeria, esas seis semanas con Copilot, ¿se dieron dentro del horario de clase o en tardes añadidas al horario?»*
+
+**Óscar Román (conclusor/a), pregunta:** En Stanford, con vuestro criterio de lo que queda al apagar la pantalla: ¿mejoró la prueba de matemáticas de fin de curso, o solo la prueba breve de cada sesión?
+
+**Elena Bernabeu (introductor/a), responde:** Solo la de cada sesión; a fin de curso no hubo mejora significativa, y duró dos meses [1003]. Demuestra que llega a cada lección. Lo que queda al apagar la pantalla lo prueba Nigeria, en el examen ordinario del trimestre, que abarcaba todo el curso [1002].
+
+*Levantan la mano: Javier Serrano. Pregunta Javier Serrano.*
+
+**Javier Serrano (refutador/a 1), pregunta:** En Nigeria, mientras unos alumnos recibían seis semanas de clases extraescolares con el chatbot, el grupo de control, ¿recibió alguna clase extra sin inteligencia artificial o no recibió nada?
+
+**Elena Bernabeu (introductor/a), responde:** No recibió nada extra: siguió con su clase ordinaria [2021], así que hay tiempo añadido, lo reconozco. Los autores creen que no es solo el tiempo, porque la tutoría en grupos grandes apenas rinde [1002]. Y en Stanford, donde solo cambiaba la máquina, más alumnos dominaron cada lección [1003].
+
+## 3. Exposición inicial de Brújula (en contra)
+
+*Noelia Cano (introductor/a)*
+
+Son las ocho y diez de un lunes y mi compañera de Lengua deja treinta redacciones en la sala de profesores. Están perfectas. Ni una falta, la misma estructura y, en casi todas, la palabra «crucial». Se quita las gafas y me pregunta: «Noelia, ¿y ahora cómo sé yo quién ha aprendido algo?».
+
+Buenas tardes al jurado y a Dialéctica. Elena nos ha traído a Platón; yo os traigo a una profesora de Lengua, porque su pregunta es la nuestra. ¿Es la inteligencia artificial beneficiosa para el sistema educativo? Nuestra respuesta es no.
+
+Hablamos de la inteligencia artificial generativa, chatbots y tutores basados en ellos, tal como ha entrado hoy en las aulas. Beneficiosa significa que el alumno sabe más cuando se la quitas y que su coste en dinero y horas compensa. El sistema es el nuestro, con su profesorado y su presupuesto. Y ojo, enseñar a comprobar un chatbot es educar sobre la máquina, no con ella; es un tema, no una maestra.
+
+De ahí nuestro criterio, la prueba del lunes. La pregunta dice «es», no «podría ser»; pesa lo medido en aulas reales durante un curso. Aceptamos el de Elena, lo que queda al apagar la pantalla, con las preguntas de cualquier jefe de estudios. ¿Queda a final de curso? ¿Cabe en las horas que tenemos? ¿Llega al que va detrás? Elena ya las ha contestado.
+
+Defendemos que hoy, en el aula real, la inteligencia artificial resta a quien delega en ella, carga al profesorado y llega antes que la formación y las horas. Tres razones.
+
+La primera, al aula no llega el tutor del laboratorio; llega el chatbot del móvil. Un estudio con veintisiete mil alumnos chinos durante dos años y medio vio subir las notas de los deberes y bajar un veinte por ciento las de los exámenes, sobre todo en quien delega, unos ocho de cada diez usuarios [1531]. A ese chaval, un siete se le queda en cinco y medio. ¿Y el tutor que no da respuestas? Dos cursos en institutos de Tennessee, y rindió parecido a practicar sin inteligencia artificial [2540].
+
+La segunda, el lunes el profesor tiene más trabajo, no menos. La guía del Ministerio admite que las tareas de siempre ya no prueban de verdad lo que sabe el alumno [2019]. Toca evaluar en clase, y eso son horas. ¿Y el ahorro? En Dinamarca, los docentes que la usan declaran ahorrar menos del uno por ciento de su jornada, lo menos de once profesiones, y muchos suman otra tarea, cazar deberes hechos con ella [3622]. Hecha nuestra cuenta, un cuarto de hora a la semana.
+
+La tercera, lo caro no es la máquina; son las horas y la formación. Donde ha mejorado resultados, venía con horas nuevas, tardes extra en Nigeria frente a un grupo sin nada extra [2021] y una hora más a la semana en Ghana [1501]. Y para enseñar con ella hay que saber. Según TALIS, de los profesores que no la usan, tres de cada cuatro dicen no saber hacerlo; hecha la cuenta, casi la mitad del claustro [1504].
+
+¿Y el lunes, sin comprar nada? Practicar sin la máquina al principio, como pide el Ministerio [2019], escribir en clase y defender los deberes en voz alta, para que copiar no puntúe. Y en la tutoría que ya existe, comprobar el chatbot contra el libro. Eso es enseñar a desconfiar de la máquina, no enseñar con ella.
+
+Volvamos a la sala de profesores. Mi compañera no necesita redacciones perfectas; necesita saber quién ha aprendido algo y tiempo para enseñar al que no. Hoy la inteligencia artificial le complica las dos. Por eso, en este instituto y con este claustro, nuestra respuesta es no.
+
+## 4. Examen cruzado a Brújula (en contra)
+
+*Levantan la mano: Elena Bernabeu, Pablo Climent, Mateo Andreu. Pregunta Elena Bernabeu.* *Se quedaron sin hacer: Pablo Climent: «El estudio chino de veintisiete mil alumnos, ¿mide la inteligencia artificial que guía la escuela o la que cada alumno usa por su cuenta? [1531]» · Mateo Andreu: «Vuestro plan del lunes incluye comprobar el chatbot contra el libro en la tutoría. ¿Lo proponéis porque con esa actividad el alumno aprende algo, o solo para que no copie?»*
+
+**Elena Bernabeu (introductor/a), pregunta:** Vuestra tesis dice que resta a quien delega en ella. Al alumno que no delega, el que le pide que le corrija en vez de que le conteste, ¿también le resta?
+
+**Noelia Cano (introductor/a), responde:** Apenas le resta, pero tampoco le suma, y beneficiosa es saber más. Quien dedicaba a los deberes el mismo tiempo sacaba notas parecidas a quien no la usa [1531]. Y el tutor que guía en vez de contestar, en Tennessee, rindió como practicar sin ella [2540].
+
+*Levantan la mano: Pablo Climent, Mateo Andreu, Irene Soler. Pregunta Irene Soler.* *Se quedaron sin hacer: Pablo Climent: «Vuestro estudio de veintisiete mil alumnos chinos [1531], ¿medía la inteligencia artificial guiada por la escuela o la que cada alumno elegía y usaba por su cuenta?» · Mateo Andreu: «En vuestro plan del lunes, cuando el alumno vuelve a casa a las once de la noche, ¿el chatbot sigue en su móvil o se lo habéis quitado?»*
+
+**Irene Soler (refutador/a 2), pregunta:** En vuestra tutoría del lunes, para comprobar el chatbot contra el libro, ¿el alumno tiene el chatbot delante, en clase y guiado por el docente?
+
+**Noelia Cano (introductor/a), responde:** Sí, delante, en clase y con su tutor, como llevamos un bulo al aula para desmontarlo, y nadie diría que el bulo es beneficioso. Es tema, no maestra; no enseña, se examina, en la tutoría que ya existe y sin formar a medio claustro [1504].
+
+*Levantan la mano: Mateo Andreu, Pablo Climent. Pregunta Pablo Climent.* *Se quedaron sin hacer: Mateo Andreu: «En vuestro plan del lunes, el chatbot que el alumno tiene en el móvil a las once de la noche, ¿desaparece o sigue ahí?»*
+
+**Pablo Climent (refutador/a 1), pregunta:** El estudio de los veintisiete mil alumnos chinos, ¿medía una inteligencia artificial guiada por la escuela o la que cada alumno usaba por su cuenta?
+
+**Noelia Cano (introductor/a), responde:** La que usaba cada uno por su cuenta, sin escuela, y es justo la que ya tienen casi todos nuestros alumnos [1534]. Cuando la metió la escuela, dos cursos en las horas de refuerzo de Tennessee, rindió parecido a practicar sin ella [2540].
+
+*Levantan la mano: Mateo Andreu. Pregunta Mateo Andreu.*
+
+**Mateo Andreu (conclusor/a), pregunta:** Decís que beneficiosa es que sepa más cuando se la quitas. ¿Más que quién: que quien nunca la ha tocado, o que ese mismo alumno con el chatbot a solas en casa?
+
+**Noelia Cano (introductor/a), responde:** Que ese mismo chaval, porque el chatbot de casa lo tiene igual en los dos institutos y no se pesa. Comparamos lo que añade la escuela, la hora con la máquina frente a practicar sin ella. En Tennessee, dos cursos, rindió parecido [2540].
+
+## 5. Primera refutación de Dialéctica (a favor)
+
+*Pablo Climent (refutador/a 1)*
+
+Noelia nos ha traído treinta redacciones perfectas. Hagámosle una sola pregunta a su profesora. ¿Dónde se escribieron? Si hubiera sido en clase, delante de ella, sabría quién ha aprendido. Se escribieron en casa, a solas, con el chatbot del móvil. Y esa escena no es la inteligencia artificial en manos de la escuela, sino la inteligencia artificial a la intemperie.
+
+Voy a mirar primero de dónde salen los daños de Brújula, después Tennessee, y luego reconstruiré nuestro tutor para quien no puede pagarlo.
+
+Empiezo por lo más serio que nos han traído, el estudio chino de los exámenes que bajan un veinte por ciento [1531]. Le pregunté a Noelia qué medía, y me contestó, palabra de Noelia, «la que usaba cada uno por su cuenta, sin escuela». Luego, a Mateo le dijo que ese chatbot de casa «no se pesa». ¿En qué quedamos? Si no se pesa, su primer argumento sale entero de la balanza. Y si se pesa, ese veinte por ciento es justo lo que cuesta dejar al alumno solo.
+
+Hay más. En ese mismo estudio, quien dedica a los deberes el mismo tiempo que quien no la usa saca notas de examen parecidas [1531], y Noelia concedió que a quien no delega «apenas le resta». La pregunta, entonces, no es si la máquina daña, sino quién decide si se delega. ¿Quién pone los deberes y decide cómo se evalúan? La escuela. Por eso sus propios autores piden más exámenes presenciales y docentes que vigilen el esfuerzo y no la nota de los deberes [1531]. Sí, adelante.
+
+*Levantan la mano: Javier Serrano, Laura Pérez, Óscar Román. Pregunta Laura Pérez.* *Se quedaron sin hacer: Javier Serrano: «Las dos recetas que acabas de citar, exámenes presenciales y vigilar el esfuerzo, ¿necesitan inteligencia artificial en el aula, o las aplica el lunes cualquier profesor sin ella? [1531]» · Óscar Román: «Si ese veinte por ciento es lo que cuesta dejar al alumno solo, las horas de evaluar en clase para evitarlo, ¿quién las pone: la máquina o el profesor que ya tenemos?»*
+
+**Laura Pérez (refutador/a 2), interpela:** En ese mismo estudio, los tutores que guían ya eran gratis y la mayoría no los elegía. Por la noche, a solas, ¿cómo logra vuestra escuela que los elija? [1531]
+
+**Pablo Climent (refutador/a 1), responde:** No a solas, Laura: en clase. Sus autores lo admiten, la mayoría no lo elige por su cuenta [1531]. Por eso en Sierra Leona no elegía el alumno: el docente diseñaba la clase [2534]. Eso hace la escuela.
+
+*Pablo Climent (refutador/a 1)*
+
+Y esto, Laura, nos lleva directos a Tennessee, lo único que le queda a vuestro primer argumento cuando el chatbot de casa sale de la balanza. Lo reconozco de entrada: dos cursos con un tutor que guía sin dar respuestas, y una mejora parecida a la de practicar sin inteligencia artificial [2540]. Pero hagámosle a ese estudio la misma pregunta que a las redacciones. ¿Lo usaban de verdad? El alumno típico le escribía uno de cada tres días que practicaba, y de cada seis sesiones en que se equivocaba, solo en una le pedía ayuda [2540]. Sus autores lo dicen claro: el límite decisivo es lograr que lo usen, no solo darles acceso. Y el efecto estimado de usarlo de verdad todo el curso ronda el doble [1536].
+
+Fijaos, además, en lo que no pasó en Tennessee. Dentro de la escuela, ni rastro de aquel veinte por ciento chino. Entonces, ¿dónde está el daño, en el aula o a la intemperie? Y cuando los docentes diseñan la clase y dirigen el debate, como en Sierra Leona, ocho semanas bastan para mejorar con claridad las matemáticas [2534]. Dar acceso no es tomarla en sus manos; diseñar la clase, sí.
+
+Esa es la frontera, y ahí empieza nuestro tutor para quien no puede pagarlo. Adelante.
+
+*Levantan la mano: Noelia Cano, Javier Serrano, Óscar Román. Pregunta Noelia Cano.* *Se quedaron sin hacer: Javier Serrano: «Ese doble de usarlo de verdad todo el curso, ¿lo midieron en los alumnos o lo calcularon los autores? [1536]» · Óscar Román: «Si tomarla en sus manos es diseñar la clase, los tres de cada cuatro profesores que no la usan y dicen no saber, ¿la diseñan el lunes o tras formarse? [1504]»*
+
+**Noelia Cano (introductor/a), interpela:** Dijisteis «no a solas: en clase». Tennessee era en clase, en la hora de refuerzo del instituto, y apenas lo usaban. ¿Qué pone vuestra escuela que aquella no pusiera? [2540]
+
+**Pablo Climent (refutador/a 1), responde:** Diseño docente, Noelia. En Tennessee se dio acceso y el alumno decidía si escribirle [2540]. En Sierra Leona, los docentes diseñaron las clases, fijaron los objetivos y dirigieron el debate [2534].
+
+*Pablo Climent (refutador/a 1)*
+
+Esa diferencia lleva nuestro tutor a quien no puede pagarlo. Casi la mitad de las familias españolas paga clases particulares [1506]. ¿Y el hijo de la otra mitad, a quién pregunta a medianoche? Al chatbot del móvil, a la intemperie. Guiado por docentes, ese chatbot hizo avanzar en Nigeria a alumnos de todas las rentas [2021], y se notó en el examen ordinario del trimestre [1002]. En Ghana, un tutor por WhatsApp mejoró las matemáticas en ocho meses, con un coste que puede bajar a cinco dólares al año [1501].
+
+Recapitulo. Sus daños nacen a la intemperie. Tennessee midió el acceso, no el diseño. Y donde la escuela diseña, el tutor llega a quien no podía pagarlo.
+
+¿Y cómo sabrá la compañera de Noelia quién ha aprendido? No quitando el móvil, que seguirá en la mochila [1534], sino escribiendo en clase, con la máquina corrigiendo y ella mirando. Por eso, sí, la inteligencia artificial es beneficiosa para el sistema educativo.
+
+## 6. Primera refutación de Brújula (en contra)
+
+*Javier Serrano (refutador/a 1)*
+
+Diseño docente. Con esas dos palabras, Pablo, nos has dado la llave de este debate, y voy a hacer con ellas lo que haría cualquier jefe de estudios un lunes a las ocho. Preguntar quién lo paga, quién lo forma y cuándo. Contesto primero a tu pregunta sobre el chatbot de casa, luego a Tennessee, y después os enseño la factura.
+
+¿En qué quedamos? En las dos cosas, porque responden a preguntas distintas. Si preguntamos qué es hoy la inteligencia artificial en nuestro sistema, es el chatbot que casi todos llevan en la mochila [1534], y lo que cuesta defenderse de él se apunta en su cuenta. Pero si preguntamos qué escuela es mejor, la vuestra o la nuestra, ese móvil no desempata, porque está igual en los dos institutos, y lo que está en los dos no se pesa. La escuela solo puede cambiar una cosa, lo que hace por la mañana.
+
+Y fijaos en lo que proponen para esa mañana los autores del estudio chino que citaba Pablo [1531]. Explicar al alumno lo que pierde copiando, dar más peso a los exámenes presenciales y vigilar el esfuerzo en vez de la nota de los deberes. Ninguna de las tres exige comprar un tutor de inteligencia artificial. Se parece mucho al lunes que os proponía Noelia, escribir en clase y defender los deberes en voz alta para que copiar no puntúe. Ese veinte por ciento no pide vuestra máquina; pide quitarle el premio a delegar. Sí, adelante.
+
+*Levantan la mano: Irene Soler, Mateo Andreu, Elena Bernabeu. Pregunta Irene Soler.* *Se quedaron sin hacer: Mateo Andreu: «Quitar el premio a delegar evita que reste. ¿Qué pone vuestro lunes para que sume al chaval cuya familia no puede pagar clases particulares?» · Elena Bernabeu: «La guía del Ministerio que citó Noelia recoge que, con acompañamiento docente, estas herramientas pueden aportar valor. ¿Estáis de acuerdo con vuestra propia fuente?»*
+
+**Irene Soler (refutador/a 2), interpela:** Vuestro lunes también pide escribir en clase y defender los deberes en voz alta. Esas horas, ¿las gasta solo nuestro instituto o también el vuestro?
+
+**Javier Serrano (refutador/a 1), responde:** Los dos, Irene, porque el chatbot ya está en todas las casas, y por eso esas horas van a la cuenta de la inteligencia artificial. Nos separa lo que ponéis encima, el tutor, sus horas y formar a medio claustro [1504].
+
+*Javier Serrano (refutador/a 1)*
+
+Y hablando de horas, Tennessee usó las que ya había, y Pablo lo ha tratado con honestidad. Reconoce que rindió como practicar sin inteligencia artificial [2540], porque los chavales apenas lo usaban. Pero ¿dónde estaban? En clase, en el refuerzo diario, y aun así el alumno típico le escribía un día de cada tres [2540]. Ese es el aula del lunes. Y ese doble que citaba Pablo es un cálculo, no una medida, y sus autores lo escriben en futuro, «exigirá» conseguir que lo usen [1536]. La pregunta dice «es», no «exigirá».
+
+Dentro de la escuela, dice Pablo, «ni rastro» del veinte por ciento chino. De acuerdo, pero lo que empata y además hay que pagar no es un beneficio. Es una factura.
+
+Abramos, pues, la factura del diseño docente. En Sierra Leona diseñaron las clases los docentes, y el ensayo lo pagaron Google y la Fundación Gates [2534]. Nigeria puso tardes extra frente a un grupo sin nada [2021], y Ghana, una hora más a la semana [1501]. Donde ha sumado, había horas nuevas y alguien que las pagaba. ¿Y aquí, quién diseña esas clases, y cuándo? Un claustro donde, hecha la cuenta con TALIS, casi la mitad dice no saber enseñar con ella [1504]. Sí, adelante.
+
+*Levantan la mano: Mateo Andreu, Pablo Climent, Elena Bernabeu. Pregunta Mateo Andreu.* *Se quedaron sin hacer: Pablo Climent: «En Stanford, donde más alumnos dominaron cada lección cambiando solo la inteligencia artificial, por unos veinte dólares por tutor al año, ¿qué horas nuevas hubo? [1003]» · Elena Bernabeu: «En esa misma encuesta TALIS, ¿qué parte del profesorado de secundaria ya usa la inteligencia artificial en su trabajo? [1504]»*
+
+**Mateo Andreu (conclusor/a), interpela:** Has dicho «donde ha sumado». ¿Concedéis que, guiada por docentes, la inteligencia artificial suma, y que lo que discutimos ya no es si beneficia, sino cuánto cuesta?
+
+**Javier Serrano (refutador/a 1), responde:** Suma donde hubo horas nuevas, Mateo, y lo decimos; en las que ya había, en Tennessee, rindió como practicar sin ella [2540]. Y beneficiosa, lo definió Noelia, incluye que el coste compense: discutir la factura es discutir si beneficia.
+
+*Javier Serrano (refutador/a 1)*
+
+Y eso importa, Mateo, porque en un instituto el precio no va aparte; es parte de si algo es bueno. ¿Y sin horas nuevas? En Stanford mejoró la prueba de cada sesión, pero a fin de curso nada significativo, lo reconoció Elena [1003].
+
+Y ahora, ¿quién diseña esas clases? Un profesorado al que la máquina apenas ahorra tiempo. En Dinamarca declaran ahorrar menos del uno por ciento de su jornada, y muchos han sumado otra tarea, cazar deberes hechos con ella [3622].
+
+Recapitulo. Lo de casa no lo arregla vuestra máquina, sino quitarle el premio a copiar. En clase, en Tennessee, rindió como practicar sin ella [2540]. Y el diseño docente es una factura que nadie ha dicho quién paga.
+
+Pablo cerraba con la compañera de Noelia «escribiendo en clase, con la máquina corrigiendo y ella mirando». Quitad la máquina y mirad lo que queda. El alumno escribiendo, ella mirando, y por fin sabe quién ha aprendido. Eso no lo pone ningún chatbot; lo pone su tiempo. Por eso, en este instituto y con este claustro, nuestra respuesta es no.
+
+## 7. Segunda refutación de Dialéctica (a favor)
+
+*Irene Soler (refutador/a 2)*
+
+Javier nos pedía que quitáramos la máquina y miráramos lo que queda. Hagámoslo. Queda la profesora mirando, sí. Pero queda también el mismo alumno a las once de la noche, solo, con el chatbot en la mochila [1534]. Esa máquina no se va cuando apagamos el aula.
+
+A estas alturas, el debate cabe en tres preguntas. Frente a qué comparamos, si suma de verdad y quién paga la factura. Voy por orden, y dejo la factura para el final, porque es donde Brújula cree que gana.
+
+La primera, ¿frente a qué? Javier nos dio una regla, lo que está en los dos institutos no se pesa. Me parece justa, y la acepto. Pero cuando le pregunté por las horas de escribir en clase y defender los deberes en voz alta, que gastan los dos institutos, me contestó, palabra de Javier, «esas horas van a la cuenta de la inteligencia artificial». Fijaos en lo que pasa. El móvil de casa desaparece cuando es nuestra alternativa y reaparece cuando toca pasarnos una factura. Pues apliquemos su regla hasta el final. Si esas horas las pagan los dos, se anulan. Y en la balanza solo queda lo que cada escuela hace distinto por la mañana. Una enseña con la máquina, y la otra, como reconocía Noelia, solo enseña a desconfiar de ella. Y esa es justo la pregunta del criterio de Elena.
+
+¿Y qué pasa cuando la escuela la toma en sus manos? Esa es la segunda pregunta. Sí, adelante.
+
+*Levantan la mano: Javier Serrano, Noelia Cano, Óscar Román. Pregunta Javier Serrano.* *Se quedaron sin hacer: Noelia Cano: «La ventaja de PISA que trajo Elena era que en clase se evalúe lo que dice la máquina [1533]. Comprobarla contra el libro, ¿lo hace solo vuestra escuela o también la nuestra?» · Óscar Román: «Con esa regla, pesa lo que solo hace vuestra escuela: formar a casi la mitad del claustro, que dice no saber enseñar con ella [1504]. ¿En qué horas lo forma?»*
+
+**Javier Serrano (refutador/a 1), interpela:** Con tu balanza, queda la hora con máquina frente a la hora sin ella. En Tennessee, dos cursos y en clase, ¿cuál rindió más? [2540]
+
+**Irene Soler (refutador/a 2), responde:** Parecido, Javier, y lo dijo Pablo antes que tú [2540]. Pero allí solo se dio acceso, y el alumno típico le escribía uno de cada tres días que practicaba. Donde los docentes diseñaron la clase, en Sierra Leona, las matemáticas mejoraron con claridad [2534].
+
+*Irene Soler (refutador/a 2)*
+
+Y eso me lleva a la segunda pregunta, si suma de verdad, que Brújula ya ha contestado. Mateo le preguntó a Javier si, guiada por docentes, suma, y Javier respondió «suma donde hubo horas nuevas». Quedaos con el verbo, suma. Ya no discuten si suma, sino de dónde sale lo que suma, de la máquina o de las horas.
+
+Y esa duda tiene respuesta. En Stanford no se añadió ni una hora. Las sesiones eran las mismas, y solo cambiaba que unos tutores tenían la inteligencia artificial al lado y otros no. ¿Y qué pasó? Que más alumnos dominaron cada lección [1003]. En dos meses no llegó al examen de fin de curso, lo reconoció Elena, pero prueba que, con las mismas horas, la máquina suma. En Tennessee se dio acceso; en Stanford y en Sierra Leona se diseñó su uso, y sumó.
+
+Queda la factura, y la duda de Javier, ¿quién diseña esas clases, y cuándo? Los docentes, con el tiempo que la máquina les devuelve. En un ensayo en institutos ingleses, preparar las clases con ella y una guía llevó casi un tercio menos de tiempo [1008]. Dinamarca cuenta lo que declaran quienes la usan; Inglaterra, lo que pasa cuando además tienen una guía. La diferencia, otra vez, es el diseño. Sí, adelante.
+
+*Levantan la mano: Laura Pérez, Noelia Cano, Óscar Román. Pregunta Laura Pérez.* *Se quedaron sin hacer: Noelia Cano: «Sierra Leona duró ocho semanas [2534]. ¿Qué ensayo de un curso entero, en las horas que ya había y con diseño docente, sumó más que practicar sin la máquina?» · Óscar Román: «Irene, en Stanford a fin de curso no hubo mejora significativa, lo reconoció Elena [1003]. Con vuestro criterio, lo que queda al apagar la pantalla, ¿eso suma o empata?»*
+
+**Laura Pérez (refutador/a 2), interpela:** Irene, ese tercio menos en Inglaterra son unos veinticinco minutos semanales preparando clases [1008]. ¿Bastan para que casi la mitad del claustro aprenda a enseñar con ella y diseñe esas clases [1504]?
+
+**Irene Soler (refutador/a 2), responde:** Veinticinco minutos por docente cada semana, Laura, solo con una guía [1008]. Y el mismo TALIS dice que más de un tercio ya la usa [1504]. No hay que formar a medio claustro desde cero, sino darle esa guía.
+
+*Irene Soler (refutador/a 2)*
+
+Y esa es la tercera pregunta, Laura, la factura. Javier decía que donde sumó había horas nuevas y alguien que las pagaba. Pero en Stanford no hubo ni una hora nueva, y la máquina costaba unos veinte dólares al año por tutor [1003]. La factura cara es otra, y ya se está pagando. La paga casi la mitad de las familias en clases particulares [1506], y la otra mitad, con un chatbot a solas a medianoche.
+
+Recapitulo. ¿Frente a qué? Frente a la misma máquina sin escuela, porque defenderse de ella cuesta igual en los dos institutos. ¿Suma? Javier ya ha dicho que suma, y en Stanford sumó con las mismas horas. ¿Y la factura? La más cara es la que ya paga quien no tiene tutor.
+
+Thamus temía que la escritura diera solo la apariencia de saber. La escuela no la devolvió, enseñó a leer. Eso os pedimos para la inteligencia artificial. Por eso, sí, es beneficiosa para el sistema educativo.
+
+## 8. Segunda refutación de Brújula (en contra)
+
+*Laura Pérez (refutador/a 2)*
+
+Irene nos dejaba al chaval de las once de la noche con el móvil. Miremos a su vecino del cuarto. Mismo móvil, mismo chatbot, misma hora. Si en casa tienen lo mismo, lo que los separa solo puede pasar a las nueve, en el aula. Es la regla de Javier, Irene la ha aceptado, y vamos a cobrarla.
+
+Sigo sus tres choques en su orden, frente a qué comparamos, de dónde sale lo que suma y quién paga la factura.
+
+Frente a qué. Dice Irene que nuestro móvil de casa desaparece y reaparece. Pues hagamos su cuenta. Si las horas de defenderse se anulan, en la balanza solo queda lo que vuestra escuela pone encima, la hora con la máquina frente a la hora sin ella. Javier te lo preguntó con Tennessee, dos cursos en el refuerzo que ya existía, y contestaste con una palabra, «parecido» [2540]. Con tu balanza, Irene, el plato de la máquina pesa lo mismo que el de practicar sin ella. Y si esas horas no se anulan, van a la factura de la máquina. Elijáis la cuenta que elijáis, el saldo no sale a favor.
+
+¿Y nuestra escuela, que según Irene solo enseña a desconfiar? Volved al criterio de Elena, lo que queda al apagar la pantalla. Al apagarla queda un chaval que ha escrito delante de su profesora y sabe defender en voz alta lo que ha hecho. Eso es justo lo que entrena nuestro lunes, sin comprar nada. Sí, adelante.
+
+*Levantan la mano: Mateo Andreu, Irene Soler, Pablo Climent. Pregunta Irene Soler.* *Se quedaron sin hacer: Mateo Andreu: «Vuestro lunes pone el chatbot delante del alumno, en clase y con su tutor. Lo que aprende comprobándolo, ¿queda al apagar la pantalla, sí o no?» · Pablo Climent: «Si lo que separa a los vecinos pasa a las nueve, ¿en qué hora de vuestro lunes aprenden a que el chatbot de las once les corrija en vez de contestarles?»*
+
+**Irene Soler (refutador/a 2), interpela:** Tu balanza solo pesa Tennessee. En Stanford, con las mismas sesiones y solo la máquina al lado del tutor, ¿más alumnos dominaron cada lección, sí o no? [1003]
+
+**Laura Pérez (refutador/a 2), responde:** En la prueba breve de cada sesión, sí; a fin de curso, nada significativo, y lo reconoció Elena [1003]. Y vuestro criterio es lo que queda al apagar la pantalla.
+
+*Laura Pérez (refutador/a 2)*
+
+Y con eso entro en el segundo choque, de dónde sale lo que suma. Pensad en el chaval que clava el ejercicio que acaba de ver en la pizarra y en el examen final saca lo mismo que su compañero. Eso es Stanford, durante dos meses [1003]. Es poco, diréis. De acuerdo, pero Tennessee duró dos cursos, en las horas de siempre, y rindió parecido a practicar sin ella [2540]. Lo corto brilla al salir de clase; lo largo, con las mismas horas, empata.
+
+Irene se quedaba con un verbo de Javier. Yo me quedo con la frase entera, «suma donde hubo horas nuevas, y lo decimos; en las que ya había, en Tennessee, rindió como practicar sin ella». Y la segunda mitad contesta a Irene. Donde sumó, había tardes extra en Nigeria [2021] y una hora más en Ghana [1501]. Donde solo estaba la máquina, en las horas de siempre, empató.
+
+¿Y Sierra Leona, su ejemplo de diseño docente? La pregunta de Noelia era si llega al que va detrás. Llega, sí, pero llega más al que ya iba delante, y lo reconoció Elena [2534].
+
+Recapitulo. Con horas nuevas, suma; con las de siempre, se queda en la prueba del día o empata. Lo que suma llega con horas nuevas, y las horas se pagan, que es el tercer choque. Sí, adelante.
+
+*Levantan la mano: Pablo Climent, Mateo Andreu, Elena Bernabeu. Pregunta Pablo Climent.* *Se quedaron sin hacer: Mateo Andreu: «Noelia pidió pesar lo medido en aulas reales durante un curso. Vuestro lunes sin máquina, ¿en qué aula y durante qué curso se ha medido?» · Elena Bernabeu: «Tu vecino del cuarto tiene el mismo móvil. Según la encuesta de Pew, ¿el adolescente humilde y el acomodado le dejan al chatbot los mismos deberes? [2505]»*
+
+**Pablo Climent (refutador/a 1), interpela:** Para lo que suma has citado horas nuevas en Nigeria y en Ghana, pero no en Sierra Leona. Allí, con clases diseñadas por docentes, ¿sumó o empató? [2534]
+
+**Laura Pérez (refutador/a 2), responde:** Sumó, Pablo, en ocho semanas, y lo digo. Pero ese ensayo lo financiaron Google y la Fundación Gates, y ganó más quien ya iba delante [2534]. Sumar con la cartera de otro no es nuestro lunes.
+
+*Laura Pérez (refutador/a 2)*
+
+Y llegamos a la factura. Irene decía que la factura cara son las clases particulares [1506]. Pero en Stanford la máquina costaba veinte dólares al año por tutor [1003]. Por tutor, fijaos. Al lado de cada máquina había una persona enseñando, y esa persona se paga igual. Es una clase particular con un chatbot al lado. Lo caro no es la máquina, decía Noelia; son las horas.
+
+¿Y quién forma al claustro? Irene contesta «darle esa guía». Esa guía ahorra veinticinco minutos semanales de preparar clases [1008], pero no forma para enseñar con ella a esa casi mitad del claustro que dice no saber [1504]. Una guía no es un plan.
+
+Volvamos a la sala de profesores. La compañera de Noelia no necesita una máquina de veinte dólares. Necesita ver escribir en clase al chaval de las once y a su vecino del cuarto, y saber por fin quién ha aprendido. Eso no cuesta veinte dólares; cuesta su tiempo. Por eso, en este instituto y con este claustro, nuestra respuesta es no.
+
+## 9. Refutación cruzada de Dialéctica (a favor)
+
+*Irene Soler (refutador/a 2)*
+
+Laura nos traía al vecino del cuarto. Con él, este debate se cierra en tres preguntas.
+
+¿Frente a qué comparamos? Laura acepta que lo de casa se anula. Pero escribir en clase y defenderlo en voz alta también lo hace nuestro instituto. A esos dos vecinos solo los separa una cosa, si su escuela enseña con la máquina o solo a desconfiar de ella. Es el criterio de Elena.
+
+¿Suma? Pablo preguntó por Sierra Leona, donde nadie señaló horas nuevas, y Laura respondió, «sumó, en ocho semanas, y lo digo» [2534]. Objetó quién pagaba y quién ganaba más, pero ninguna niega que sume. Tennessee solo dio acceso, y empató [2540]; en Sierra Leona los docentes diseñaron la clase, y sumó. Brújula pesa el acceso; nosotros, el diseño.
+
+¿Y la factura? En Stanford, dice Laura, junto a cada máquina había una persona, y «esa persona se paga igual». Igual, con máquina o sin ella. Por su propia regla se anula, y en la factura quedan unos veinte dólares al año [1003]. Y fijaos cómo lo llamó, una clase particular con un chatbot al lado. Esa es nuestra tesis, la clase particular que hoy paga casi la mitad de las familias [1506], al alcance de la otra mitad.
+
+Ganamos la primera con su regla, la segunda con su concesión y la tercera con su propia imagen. Thamus pedía juzgar el provecho, y Brújula lo ha juzgado por nosotros. Por eso, sí, la inteligencia artificial es beneficiosa para el sistema educativo.
+
+## 10. Refutación cruzada de Brújula (en contra)
+
+*Laura Pérez (refutador/a 2)*
+
+Irene ha cerrado con nuestras frases. Voy a leerlas enteras, porque tenían segunda mitad.
+
+Primer choque, frente a qué comparamos. Dice Irene que a los dos vecinos solo los separa enseñar con la máquina. Acepto la balanza. Y en ella, dos cursos en las horas de siempre en Tennessee, Irene contestó con una palabra, «parecido» [2540]. Si lo único que los separa rinde parecido, no hay beneficio. Lo ganamos con su balanza.
+
+Segundo, si suma. Dije «sumó, en ocho semanas, y lo digo», y la frase seguía. Lo pagaron Google y la Fundación Gates, y aunque mejoró la mayoría, ganó más quien ya iba delante [2534]. Elena pedía que aprender no dependa de la renta de casa. Un ejemplo que premia al que iba delante, con la cartera de otro, no prueba vuestra tesis.
+
+Tercero, la factura. Veinte dólares, dice Irene. ¿Y qué compran, al apagar la pantalla? A fin de curso, nada significativo, lo reconoció Elena [1003]. Sí, lo llamé clase particular con un chatbot al lado. Lo que enseña es la clase particular; el chatbot va al lado. Con veinte dólares le compráis al hijo de la otra mitad el bolígrafo del profesor particular, pero no al profesor.
+
+Su balanza empata, su ejemplo favorece al que iba delante y su factura compra la prueba del día. Lo que necesita la compañera de Noelia no cuesta veinte dólares; cuesta tiempo. Por eso, en este instituto y con este claustro, nuestra respuesta es no.
+
+## 11. Conclusión de Brújula (en contra)
+
+*Óscar Román (conclusor/a)*
+
+Thamus le dijo a Theuth que inventar un arte es cosa de uno, y juzgar su provecho, de otro. Elena nos pidió ese juicio con una vara, lo que queda al apagar la pantalla, y la aceptamos desde el primer minuto. Apaguemos, pues, la pantalla en cada choque.
+
+El primero, frente a qué comparamos. Ahí coincidimos. Lo que está en los dos institutos no se pesa, y a los dos vecinos de Laura solo los separa la hora con la máquina frente a la hora sin ella. En esa balanza, lo único largo y medido en aulas reales son dos cursos en Tennessee, en el refuerzo que ya existía [2540], e Irene lo resumió con una palabra, «parecido». Responde que allí solo se dio acceso, pero eso es justo lo que puede hacer un instituto el lunes, con las horas de siempre. Y la pregunta dice «es», no «exigirá».
+
+El segundo, si suma. Lo decimos sin rodeos, Sierra Leona sumó. Pero leamos la frase entera. Lo pagaron Google y la Fundación Gates, y aunque mejoró la mayoría, ganó más quien ya iba delante [2534]. Elena prometía dar a todos lo que hoy solo reciben algunos, y su mejor ejemplo ensancha la distancia. ¿Y Stanford, su dato más repetido? Más alumnos dominaron cada lección, y a fin de curso, nada significativo, lo reconoció Elena [1003]. Eso no queda al apagar la pantalla; brilla al salir de clase.
+
+El tercero, quién paga. Si el tutor humano se anula, como dice Irene, quedan veinte dólares que compran la prueba del día, no la de junio. Y lo que nos separa, el diseño de las clases y formar a esa casi mitad del claustro que dice no saber enseñar con ella [1504], se confía a una guía, y una guía no es un plan.
+
+Pesadlos como un jefe de estudios. Lo largo pesa más que lo corto, lo medido en aulas como las nuestras más que lo pagado por otro, y lo que queda en junio más que lo que brilla el martes. Por eso sigue en pie nuestra tesis. Hoy, en el aula real, la inteligencia artificial resta a quien delega en ella, carga al profesorado y llega antes que la formación y las horas.
+
+Volvamos a la sala de profesores. Lunes, ocho y diez. La compañera de Noelia ya no tiene treinta redacciones perfectas. Tiene treinta folios escritos en clase, con tachones y alguna idea torcida. Los ha visto escribir. Sabe quién se atasca con los conectores y quién, por fin, se ha leído el libro. El chaval de las once y su vecino del cuarto han defendido en voz alta lo suyo, y ella sabe quién ha aprendido algo. Eso es lo que queda al apagar la pantalla. Por eso, en este instituto y con este claustro, nuestra respuesta es no.
+
+## 12. Conclusión de Dialéctica (a favor)
+
+*Mateo Andreu (conclusor/a)*
+
+Thamus le dijo a Theuth que inventar un arte es cosa de uno, y juzgar su provecho, de otro. Hoy ese otro sois vosotros. Y para juzgarlo hay que responder antes una pregunta más vieja que Platón. ¿Para qué sirve la escuela?
+
+Elena la contestó en el primer minuto. Educar es que cada alumno llegue a pensar por sí mismo sin que dependa de la renta de su casa. De ahí nuestro criterio, lo que queda al apagar la pantalla, y para cuántos. Y de ahí nuestra tesis, que allí donde la escuela toma la inteligencia artificial en sus manos, da a todos lo que hoy solo reciben algunos. Pesemos con esa vara los tres choques.
+
+El primero, frente a qué comparamos. Aceptamos la regla de Javier, lo que está en los dos institutos no se pesa. El móvil de casa está en los dos, y escribir en clase, también. A los dos vecinos de Laura solo los separa si su escuela enseña con la máquina o solo a desconfiar de ella. Donde solo se dio acceso, en Tennessee, rindió parecido, y lo dijimos nosotros [2540]. Donde los docentes diseñaron la clase, Óscar lo ha dicho sin rodeos, «Sierra Leona sumó» [2534]. Acceso o diseño, eso pregunta nuestro criterio.
+
+El segundo, lo que queda. Stanford no llegó a fin de curso, lo reconoció Elena [1003], pero allí no se añadió ni una hora; con el mismo tutor y la máquina a su lado, más alumnos dominaron cada lección. Y lo que queda lo prueba Nigeria, en un examen ordinario que abarcaba todo el curso [1002].
+
+El tercero, el decisivo, para quién. En Sierra Leona ganó más quien iba delante, y lo concedimos. Pero hay algo que nadie ha contestado. Sin escuela, los humildes que le dejan la mayoría de los deberes al chatbot casi triplican a los acomodados [2505]. El lunes de Brújula no cambia eso, porque a las once de la noche ese chaval sigue solo. Y esto pesa más que todo, porque una escuela que solo hace avanzar a quien paga ayuda no educa, selecciona. La factura cara no son veinte dólares, sino las clases particulares que ya paga casi la mitad de las familias [1506].
+
+La profesora de Noelia preguntaba cómo saber quién ha aprendido. Es justa, pero la escuela existe para una pregunta más difícil, cómo lograr que aprenda quien no tiene en casa a nadie a quien preguntar.
+
+Elena llamó andamio a ese chatbot guiado. Un andamio se juzga el día que se retira, y en Nigeria, el día del examen, el edificio seguía en pie. Thamus acertó con el riesgo de la escritura, pero nadie la devolvió. Inventamos la escuela que enseña a leer. Eso os pedimos hoy. Por eso, sí, la inteligencia artificial es beneficiosa para el sistema educativo.
+
+## Fallo
+
+Gana **Dialéctica** por 2-1 · ítems: 59.5 a favor, 59.01 en contra · mejor orador: Laura Pérez
+
+### Deliberación
+
+### Carmen Llorens · Jueza de fondo · vota Dialéctica
+
+## Ganador: A favor (Dialéctica), por poco y por el fondo
+
+Lo he decidido por el fondo, ítems 1 a 8: Dialéctica 35,5 y Brújula 32. En la forma Brújula fue algo superior (23 frente a 22). Como el fondo no está igualado, la forma no cambia mi voto.
+
+### Choque 1. Frente a qué comparamos: gana Dialéctica, y es el choque que decide
+- La regla del debate la propuso Brújula: «lo que está en los dos institutos no se pesa». Dialéctica la aceptó y la aplicó hasta el final, que es refutar a la raíz.
+- **Primer efecto de la regla.** El daño más serio de Brújula sale de la balanza. Es el estudio chino [1531], y la propia Noelia admitió que mide la IA que cada alumno usa «sin escuela».
+- **La pillada de Pablo.** Señaló la contradicción: ese uso «se pesa» cuando es el daño y «no se pesa» cuando es la alternativa.
+- **El intento de arreglo de Javier.** Separó dos preguntas distintas, lo cual es sutil y válido en parte. Pero al decir que las horas de defenderse del chatbot «van a la cuenta de la IA» volvió a caer en la asimetría, e Irene se lo hizo ver.
+- **El rescate de Laura.** Su dilema («elijáis la cuenta que elijáis») rescata algo.
+- **El cierre incoherente.** Óscar vuelve a cerrar con «resta a quien delega en ella», un daño que su propia regla ya había dejado fuera.
+- **Mérito de Brújula.** Javier mostró que los remedios de los autores chinos (exámenes presenciales, vigilar el esfuerzo) no exigen IA. Es buena refutación, pero solo deja el choque en tablas en la parte doméstica, no lo gana.
+
+### Choque 2. ¿Suma la IA en manos de la escuela?: ajustado, ligera ventaja de Dialéctica
+- **Lo mejor de Brújula.** Tenía el dato más sólido: Tennessee, dos cursos, en aulas reales, rinde parecido a practicar sin IA [2540]. Y castigó con razón que Stanford no llegue a fin de curso [1003], que es justo el criterio de Dialéctica.
+- **La respuesta de Dialéctica.** Distinguió entre dar acceso y diseñar el uso, y se apoyó en la conclusión de los propios autores (lo que limita es que el alumno lo use) y en Sierra Leona [2534].
+- **Dónde se rompe Brújula.** Su regla general («solo suma con horas nuevas») cae cuando Laura concede «sumó» en Sierra Leona sin que nadie señale horas nuevas.
+- **La réplica de Brújula no sirve.** «Lo pagaron Google y Gates» confunde a quien financió el ensayo con lo que cuesta la intervención. No se sigue.
+- **Lo que Brújula dejó sin contestar.** Los autores de Nigeria sostienen que el efecto no se explica solo por el tiempo [1002].
+- **Lo que pesa contra Dialéctica.** Sobrevendió Stanford («con las mismas horas, la máquina suma»), que solo mide aprendizaje próximo. Y nadie impugnó la fiabilidad de [2534], el blog del fabricante con ocho semanas de ensayo. Por eso la ventaja es pequeña.
+
+### Choque 3. La factura: ligera ventaja de Brújula
+- **Buen uso de la evidencia.** TALIS [1504] y Dinamarca [3622] están bien usados.
+- **Lo que desmontó Laura.** Que 25 minutos semanales [1008] basten para formar a medio claustro. Y que Stanford sea la clase particular al alcance de la otra mitad: hace falta el tutor humano, «el bolígrafo, no el profesor».
+- **Lo que acertó Irene.** En lógica tiene razón: el coste del tutor humano se anula en la comparación. Pero eso no salva el argumento de acceso.
+- **El límite de Brújula.** Nunca cuantificó el coste de la formación ni probó que supere el beneficio, y «una guía no es un plan» es una frase, no una prueba.
+
+### Choque 4. Para quién: empate con matices
+- **Lo que hirió Brújula.** La tesis de equidad de Dialéctica: en Nigeria y en Sierra Leona ganó más quien ya iba delante, y Elena lo concedió.
+- **Lo que no rebatió.** En los dos estudios mejoraron todos los niveles, y el dato de Pew [2505] quedó sin respuesta: sin escuela, el adolescente humilde delega casi el triple.
+- **Lo que nadie probó.** Ningún equipo demostró que la IA en el aula cierre o abra la brecha a largo plazo.
+
+### Balance
+Dialéctica llega al final con sus tres argumentos tocados pero en pie y sin falacias relevantes; solo sobrevende Stanford y saca de contexto «suma». Brújula llega así:
+- su primer argumento, fuera de la balanza por su propia regla;
+- el segundo (la carga de evaluar), en gran parte nacido del uso doméstico, que también se anula;
+- el tercero, sin cuantificar;
+- y dos fallos lógicos: tratar la financiación del ensayo como coste de la intervención y reafirmar en la conclusión un daño ya neutralizado.
+
+La narrativa de Brújula (la sala de profesores, el vecino del cuarto) fue excelente. Pero es justo lo bonito que hay que separar de lo probado.
+
+### Álex Moreno · Juez de forma · vota Brújula
+
+## Papeleta de Álex Moreno (juez de forma): gana Brújula (EN CONTRA), por poco
+
+Ha sido una final de nivel alto. Los dos equipos han sido honestos con sus concesiones, todas las evidencias que he comprobado se sostienen y ninguna intervención supera el tiempo de aviso. Decide el resultado quién aprovechó mejor las concesiones del rival dentro del criterio común y quién lo contó de forma más memorable.
+
+### Choque 1. ¿Frente a qué comparamos? (empate técnico, con ventaja final para Brújula)
+Pablo abrió una contradicción real: «¿En qué quedamos?». Noelia había dicho que el estudio chino medía el uso «sin escuela» y luego que el chatbot de casa «no se pesa». Javier la resolvió con limpieza: son dos preguntas distintas, y lo que está en los dos institutos no desempata. Irene le devolvió la regla con mucha habilidad: si las horas de defenderse se pagan en los dos institutos, se anulan. Laura cerró el choque: «Elijáis la cuenta que elijáis, el saldo no sale a favor». Si solo queda la hora con máquina frente a la hora sin ella, la única medida larga en aulas reales es Tennessee, y Tennessee dio «parecido» [2540]. Los dos equipos acaban aceptando la misma balanza, y Brújula pone algo en ella.
+
+### Choque 2. ¿Suma lo que queda al apagar la pantalla? (Brújula)
+Este es el choque decisivo. Dialéctica tiene su mejor idea, acceso frente a diseño, y saca a Brújula dos verbos: «suma» (Javier) y «sumó» (Laura, sobre Sierra Leona). Pero el criterio era de Elena, y en el examen cruzado ella concedió tres cosas que Brújula usó durante todo el debate:
+- Stanford no llegó a fin de curso [1003].
+- En Nigeria hubo tiempo añadido frente a un grupo sin nada [2021].
+- En Sierra Leona y en Nigeria ganó más quien iba delante.
+
+Con eso Brújula construyó la regla de peso más clara del debate: «lo corto brilla al salir de clase; lo largo, con las mismas horas, empata». Óscar la convirtió en criterio de jefe de estudios: «lo largo pesa más que lo corto… lo que queda en junio más que lo que brilla el martes». Dialéctica respondió con Nigeria, el examen ordinario del trimestre [1002], pero arrastraba la duda del tiempo extra, ya concedida. Nunca contestó de frente al «lo largo pesa más».
+
+### Choque 3. La factura y para quién (dividido; me inclina hacia Brújula)
+Irene ganó la parte del coste en Stanford. El tutor humano estaba en los dos grupos, así que el «por tutor» de Laura se anula por la propia regla de Brújula. «Ganamos la tercera con su propia imagen» es la mejor frase de Dialéctica. Pero Laura respondió en la refutación cruzada con una imagen igual de potente: «le compráis el bolígrafo del profesor particular, pero no al profesor». En equidad, el argumento que Dialéctica llamó decisivo quedó tocado por sus propias evidencias, porque su mejor ejemplo ensancha la distancia [2534]. El dato de los adolescentes humildes [2505] chocaba con la regla de que lo de casa está igual en los dos institutos. Mateo dijo que «nadie lo ha contestado», pero no lo conectó con lo que cambia la escuela que enseña con la máquina. El dato de PISA [1533] podía hacer de puente y no se volvió a usar. Brújula forzó la cartera de Google y Gates, que es financiación del ensayo y no de la intervención, y Dialéctica no se lo señaló con claridad.
+
+### Forma (ítems 9-13, los que más pesan en mi papeleta)
+Los dos equipos cierran su relato en círculo: Dialéctica con Thamus y la escuela que enseña a leer; Brújula con la sala de profesores, el lunes a las ocho y diez y las treinta redacciones. El de Brújula es más concreto y está mejor tejido entre los cuatro oradores:
+- Recuperan personajes de uno a otro: la compañera de Noelia, el vecino del cuarto de Laura, el jefe de estudios de Javier.
+- Los cuatro cierran con el mismo estribillo: «en este instituto y con este claustro».
+- Dejan frases que respiran y se recuerdan: «No es un beneficio. Es una factura», «tenían segunda mitad».
+- El cierre de Óscar, con «tachones y alguna idea torcida», es el final más memorable del debate.
+
+Dialéctica tuvo momentos de primer nivel: el «¿Dónde se escribieron?» de Pablo, la refutación cruzada de Irene y el andamio de Mateo. Pero también tuvo párrafos con demasiadas cifras (la exposición de Elena y el bloque de Tennessee de Pablo). Mateo abrió con la misma frase de Thamus, palabra por palabra, que Óscar acababa de usar, sin reaccionar a que se la habían apropiado, y eso sonó leído.
+
+**Resultado:** el fondo está muy igualado, con ligera ventaja de Brújula en el choque 2. La forma es claramente de Brújula. Gana EN CONTRA.
+
+### Isabel Garrigós · Jueza principal · vota Dialéctica
+
+## Gana Dialéctica (a favor) por poco: 64 a 62
+
+Final de altísimo nivel por ambos lados. No hay penalizaciones de tiempo: todas las desviaciones quedan por debajo de 10 s. Tampoco hay datos falsos. He comprobado las fichas que deciden choques (1531, 2540/1536, 1003, 2534, 1002/2021, 1501, 1504, 1008, 3622, 2505, 1506) y todas sostienen lo que se les atribuye, con matices menores que detallo en las incidencias. El debate se decidió en cuatro choques.
+
+### 1. Frente a qué se compara (gana Dialéctica)
+Brújula abrió con su prueba de daño más fuerte, el −20 % en los exámenes de los alumnos chinos [1531]. En el examen cruzado admitió dos cosas: que ese estudio medía el uso de cada alumno por su cuenta, sin escuela, y que el chatbot de casa «no se pesa». Pablo lo convirtió en una contradicción («¿en qué quedamos?») de la que Brújula no salió limpia. Javier distinguió con acierto dos preguntas distintas. Pero al cargar a la IA las horas de defenderse de ella («van a la cuenta de la inteligencia artificial»), dejó a Irene la réplica perfecta: el móvil de casa desaparece cuando es la alternativa y reaparece cuando toca pasar la factura. Además, esas horas las gastan los dos institutos, así que se anulan.
+
+Brújula terminó aceptando la regla de que lo que está en los dos institutos no se pesa (Laura y Óscar lo hicieron). Con ello su primer argumento salió de la balanza, y aun así Óscar lo volvió a presentar como tesis en pie («resta a quien delega en ella»). El dilema de Laura («elijáis la cuenta que elijáis, el saldo no sale a favor») fue un buen rescate, pero solo trasladó la disputa al choque 2.
+
+### 2. ¿Suma cuando la escuela la toma en sus manos? (gana Dialéctica, por poco)
+Aquí estuvieron las mejores bazas de Brújula:
+- Tennessee: dos cursos con las horas de siempre, y rindió como practicar sin IA [2540].
+- Stanford: mejoró la prueba de cada sesión, pero no la de fin de curso [1003], y esto se medía con el propio criterio de Dialéctica.
+- Nigeria y Ghana llevaban horas añadidas [2021][1501].
+- Dos frases muy eficaces: «lo corto brilla, lo largo empata» y «la pregunta dice "es", no "exigirá"».
+
+Pero Brújula concedió dos veces que la IA guiada suma. Javier dijo «suma donde hubo horas nuevas» y Laura, sobre Sierra Leona, «Sumó, Pablo», en un ensayo donde nadie señaló horas nuevas y los docentes diseñaron las clases [2534]. Sus objeciones a Sierra Leona (quién financió el ensayo y quién ganó más) no niegan el efecto, y financiar un ensayo no es lo mismo que pagar su aplicación. La distinción entre dar acceso y diseñar el uso la respaldan los propios autores de Tennessee: el límite está en que los alumnos lo usen, no en darles acceso [2540].
+
+### 3. La factura y el profesorado (gana Brújula, por poco)
+Brújula defendió bien que el coste forma parte de «beneficiosa»:
+- casi la mitad del claustro dice no saber enseñar con IA [1504];
+- donde sumó, hubo horas nuevas;
+- en Dinamarca los docentes declaran ahorrar menos del 1 % de su jornada y han sumado la tarea de cazar deberes hechos con IA [3622].
+
+Dialéctica respondió con datos sólidos: 20 $ al año por tutor [1003], un 31 % menos de tiempo de planificación con guía [1008] y el argumento de que el sueldo del tutor humano se paga igual con máquina o sin ella, así que se anula. Pero «darle esa guía» se quedó corto frente a «una guía no es un plan». Y la imagen de Laura (con 20 $ compráis el bolígrafo del profesor particular, no al profesor) neutralizó parte del giro de Irene.
+
+### 4. Para quién (casi empate, con ligera ventaja de Dialéctica)
+Brújula hirió el pilar de equidad con una concesión limpia del examen cruzado: en Nigeria y en Sierra Leona ganó más quien ya iba delante. Dialéctica respondió con tres datos:
+- en Nigeria mejoraron todos los niveles de partida;
+- sin escuela, los adolescentes humildes que dejan casi todos los deberes al chatbot casi triplican a los acomodados [2505];
+- casi la mitad de las familias ya paga clases particulares [1506].
+
+Brújula nunca respondió directamente al dato de [2505]. Su respuesta implícita fue quitarle el premio a copiar. Tampoco aprovechó que el «no a solas: en clase» de Pablo deja igual de solo al chaval de las once de la noche en la escuela de Dialéctica.
+
+### Balance
+Brújula ganó la factura y obligó a Dialéctica a rebajar sus pruebas: efectos a corto plazo, horas añadidas y más ventaja para quien ya iba delante. Pero perdió su prueba de daño por su propia regla y concedió que la IA guiada suma. Ante la pregunta de si es beneficiosa, «empata y cuesta» no bastó frente a varios ensayos aleatorizados positivos y la concesión de que suma. Dialéctica respondió mejor a la pregunta en conjunto.
+
+### Feedback
+
+#### Dialéctica (a favor)
+
+**Carmen Llorens (jueza de fondo):** **Elena Bernabeu (introductora).** Fondo: el marco es de lo mejor del torneo. Define con la ley europea, plantea la alternativa real con [1534] y une el criterio a la equidad. En el examen cruzado respondió de forma ejemplar a cuatro preguntas duras: concede lo que es cierto y lo reconduce sin perder el hilo. Para mejorar: vuestros propios estudios (Nigeria y Sierra Leona) favorecen más al alumno aventajado, así que no prometáis «dar a todos lo que solo reciben algunos». Formulad la tesis en absoluto, «todos mejoran, también el que va detrás», y ese flanco desaparece. Con [2505], Pew dice «con ayuda de» chatbots, no que «le dejan» los deberes; no lo forcéis. Forma: Thamus es un gancho magnífico, pero no dejéis que la analogía haga de prueba.
+
+**Pablo Climent (refutador 1).** Fondo: hizo la refutación más a la raíz del debate. Encontró la contradicción de Brújula (el chatbot de casa se pesa o no se pesa) y la convirtió en estructura. La distinción entre acceso y diseño, apoyada en los datos de uso de Tennessee, es muy buena. Para mejorar: presenta «el doble» [1536] como lo que es, una estimación implícita, antes de que te lo señalen. Y cuando digas que en Nigeria avanzaron todas las rentas [2021], añade «aunque más las altas», para no regalar el flanco. Forma: anuncia la estructura y la cumple, y gestiona bien las interpelaciones.
+
+**Irene Soler (refutadora 2 y refutación cruzada).** Fondo: aplicar la regla de Javier hasta el final decidió el choque del marco, y lo de que el coste del tutor humano se anula es lógica limpia. Pero «quedaos con el verbo, suma» fue sacar la frase de contexto, y Laura lo castigó leyéndola entera. Stanford no prueba que la máquina sume en lo que queda; no lo vendáis así. En la cruzada, «la tercera con su propia imagen» es atribuirse más de lo ganado: una clase particular con un chatbot al lado no da tutor a quien no lo tiene. Ante Dinamarca, compara magnitudes en lugar de solo metodologías. Forma: buen ritmo, pero el 1:39 está al borde del aviso.
+
+**Mateo Andreu (conclusor).** Fondo: buena conclusión, ordenada por el criterio del equipo y con un acierto claro, recuperar que [2505] quedó sin respuesta. Su pregunta en el examen cruzado (¿más que quién?) fue de las mejores. Para mejorar: no respondiste directamente al «es, no exigirá», que era el mecanismo de ponderación de Brújula. Lo de que en Nigeria «el edificio seguía en pie» va más allá de la ficha: el examen es del mismo trimestre y la persistencia no se estudió [2021]. Forma: el andamio y el cierre circular con Thamus dan un final contundente.
+
+**Equipo.** Muy equilibrado, sin datos falsos, con concesiones honestas que os dieron credibilidad. Para el próximo debate: no os apoyéis en evidencia que no pasa vuestro propio criterio, y preparad la objeción de equidad contra vuestros mejores ejemplos.
+
+**Álex Moreno (juez de forma):** **Equipo:** vuestro marco (Thamus, la alternativa real, acceso frente a diseño) es excelente y todo el debate se jugó en vuestro terreno. Os faltaron dos cosas:
+- Una respuesta preparada a «ganó más quien iba delante». Vuestro argumento decisivo era la equidad, y vuestras propias fichas ([2534], [1002]) lo matizaban.
+- Una regla de peso propia frente al «lo largo pesa más que lo corto» de Brújula.
+
+Thamus aparece cinco veces. A partir de la tercera deja de sorprender. Reservadlo para la apertura y el cierre.
+
+**Elena Bernabeu:** el comienzo con el Fedro atrapa, y cerrar con «la escuela que enseña a leer» es redondo. Cuidado con la densidad: en 4 minutos citasteis seis estudios. Quedaos con tres casos ancla y dadles una imagen a cada uno, como hiciste muy bien con «de cada veinticinco alumnos, apenas dos». En el examen cruzado, tu honestidad es una virtud, pero concediste Stanford, Nigeria y la desigualdad sin un giro preparado, y Brújula vivió de esas tres respuestas. Ensaya concesiones que terminen en tu terreno, por ejemplo: «Sí, más quien iba delante; pero avanzaron todos, y sin escuela el que va detrás delega el triple».
+
+**Pablo Climent:** «¿Dónde se escribieron?» es el mejor arranque de refutación de la final: le da la vuelta a la historia del rival en una frase. El dilema «¿En qué quedamos?» fue nítido y tus respuestas a las interpelaciones, cortas y firmes («No a solas, Laura: en clase»). Lo mejorable: el párrafo de Tennessee amontona cifras (uno de cada tres días, una de cada seis sesiones, el doble). Elige una y conviértela en escena.
+
+**Irene Soler:** la mejor de vuestro equipo. Las tres preguntas ordenan, aplicaste con precisión la regla de Javier y tu refutación cruzada («con su regla, con su concesión y con su propia imagen») es de manual. Un aviso: tu «Parecido, Javier» de una palabra se convirtió en el estribillo de Brújula. Responde siempre con tu marco en la misma frase: «Parecido con acceso; con diseño, Sierra Leona sumó». Y debiste desmontar la cartera de Google y Gates: financiaron el ensayo, no la intervención.
+
+**Mateo Andreu:** «un andamio se juzga el día que se retira» es un gran final. Pero abriste con la misma frase de Thamus, palabra por palabra, que Óscar acababa de usar, y sonó leído. Cuando el rival se apropia de tu imagen, reacciona: «Óscar nos ha devuelto a Thamus; aceptamos su juicio…». En el fondo, dijiste que «nadie ha contestado» lo de los adolescentes humildes [2505], pero Brújula sí lo había neutralizado («lo de casa está en los dos institutos»). Tenías que unirlo a cómo cambia ese uso la escuela que enseña con la máquina, con el dato de PISA [1533], y contestar de frente al «lo largo pesa más».
+
+**Isabel Garrigós (jueza principal):** **Equipo.** Marco excelente y coherente (Thamus, el bisturí, la alternativa real, acceso frente a diseño), y muy buen trabajo convirtiendo las concesiones del rival en vuestros argumentos. Vuestro punto débil es el pilar de equidad: vuestra mejor prueba (Nigeria y Sierra Leona) beneficia más a quien ya iba delante, y no habéis explicado cómo el diseño en clase cambia lo que hace el chaval a las once de la noche. La próxima vez, traed una pieza que lo una, por ejemplo PISA [1533] explicado como mecanismo.
+
+**Elena Bernabeu (introductora).** Fondo: la mejor contextualización del debate. La definición del Reglamento europeo, la alternativa real y un criterio que acabaron usando los dos equipos. En el examen cruzado fuiste honesta y serena, pero concediste tres puntos que Brújula usó durante todo el debate: fin de curso en Stanford, tiempo añadido en Nigeria y quién mejoró más. Ensaya respuestas que concedan sin entregar el punto: empieza por lo que juega a tu favor (examen trimestral de todo el curso, todos los niveles mejoraron) y deja el «lo reconozco» para el final. Forma: gran apertura y buen cierre en bucle; ritmo muy bueno (+7 s).
+
+**Pablo Climent (refutador 1).** Fondo: la refutación más limpia del debate. Desmontaste el estudio chino con las palabras de Noelia y trataste Tennessee con honestidad. Pero tu respuesta a Laura («no a solas: en clase») reconoce que el diseño no llega a casa y debilita vuestra línea de equidad. Prepara una respuesta sobre cómo lo que se hace en clase cambia el uso en casa. Forma: hoja de ruta clara y buen manejo de las interpelaciones; tu pregunta sobre Sierra Leona fue decisiva.
+
+**Irene Soler (refutadora 2 y de la refutación cruzada).** Fondo: aplicar la regla del rival y estructurar en tres preguntas fue lo mejor del debate. Evita citar frases a medias («quedaos con el verbo, suma»): Laura lo desmontó leyendo la frase entera. Tu respuesta sobre formar al claustro («darle esa guía») necesitaba un mecanismo concreto. Forma: excelente. Vigila el tiempo de la refutación cruzada: 9 s de más, al borde del aviso.
+
+**Mateo Andreu (conclusor).** Fondo: buena síntesis, ordenada por choques, y bien la concesión sobre Sierra Leona. Pero «nadie ha contestado» exagera, y presentar Nigeria como prueba de lo que queda sin mencionar el tiempo añadido ya concedido es débil. Te dejaste dos bazas: que Óscar repitió «resta a quien delega» tras aceptar que lo de casa no se pesa, y el «sí, delante, en clase» de Noelia, que demuestra que su propio lunes usa la máquina como herramienta. Forma: la imagen del andamio y el cierre con Thamus, muy contundentes.
+
+#### Brújula (en contra)
+
+**Carmen Llorens (jueza de fondo):** **Noelia Cano (introductora).** Fondo: la escena de la sala de profesores y el marco de «es, no podría ser» con las preguntas del jefe de estudios son muy buenos. Pero usar en la exposición las respuestas de Elena («Elena ya las ha contestado») roza refutar en la exposición inicial. En el examen cruzado concediste tres cosas que desarmaron tu primer argumento: que el estudio chino era «sin escuela», que al alumno que no delega «apenas le resta» y que el chatbot está «delante, en clase». Prepara respuestas que reconozcan los hechos sin regalar el marco. La analogía del bulo es falsa: un bulo no tiene uso educativo propio y la IA sí, y [1533] apunta justo a eso. Forma: tienes una voz narrativa excelente.
+
+**Javier Serrano (refutador 1).** Fondo: la regla de que lo que está en los dos institutos no se pesa es inteligente. Señalar que los remedios de los autores chinos no exigen IA y que el doble es «un cálculo, no una medida» fue refutación de primera. Error decisivo: decir que las horas de defenderse del chatbot «van a la cuenta de la IA» rompió tu propia regla e Irene lo explotó. La objeción de que Google y Gates pagaron el ensayo no prueba nada sobre el coste de la intervención. Lo eficaz habría sido atacar la fiabilidad: es el blog del fabricante, ocho semanas y sin revisión. Forma: muy segura, con un buen manejo de la interpelación de Mateo.
+
+**Laura Pérez (refutadora 2 y refutación cruzada).** Fondo: la mejor oradora de Brújula. Tu dilema (elijáis la cuenta que elijáis), leer la frase entera y lo del bolígrafo frente al profesor son refutación de calidad. Pero tu recapitulación («con las de siempre, se queda en la prueba del día o empata») contradice tu propia concesión sobre Sierra Leona. Quedaron sin contestar [2505] y el argumento de los autores de Nigeria sobre el tiempo, y la cartera de otro es otra vez un non sequitur. Forma: frases que respiran («lo corto brilla al salir de clase»), excelente.
+
+**Óscar Román (conclusor).** Fondo: una conclusión con un mecanismo de ponderación explícito (lo largo pesa más que lo corto, junio más que el martes) es justo lo que un jurado necesita. Pero reafirmar «resta a quien delega en ella» cuando tu equipo aceptó que lo de casa no se pesa es incoherente. «Lo único largo y medido en aulas reales es Tennessee» olvida Ghana (ocho meses); mejor matizar que es lo único largo con las mismas horas. Y «lo pagado por otro» como criterio arrastra la falacia de la financiación. Forma: el cierre de los treinta folios con tachones es extraordinario.
+
+**Equipo.** Datos impecables, cálculos propios correctos (TALIS, Dinamarca, el 7 que se queda en 5,6) y la mejor forma del debate. Para el próximo debate: antes de proponer una regla, comprobad que no os quita vuestro propio argumento principal. Atacad la fiabilidad de la evidencia rival, no quién la pagó. Y contestad siempre el argumento de equidad del contrario.
+
+**Álex Moreno (juez de forma):** **Equipo:** la cohesión ha sido sobresaliente. Hay un escenario común (la sala de profesores, el lunes, el jefe de estudios), personajes que pasan de un orador a otro y un estribillo que el jurado recuerda. Habéis usado las concesiones del rival dentro de su propio criterio, que es lo más difícil. Para el siguiente debate, cuidad dos cosas:
+- No forcéis las fichas. «Lo pagaron Google y Gates» es financiación del ensayo, no coste de la intervención.
+- Preparad algo contra el dato de PISA [1533] y contra el de equidad [2505], que dejasteis sin respuesta directa.
+
+**Noelia Cano:** el arranque de las treinta redacciones y la palabra «crucial» es el mejor comienzo del debate: concreto, visual y con una pregunta que sostiene todo el caso. Dos cosas que pulir:
+- No refutes en la exposición. «Elena ya las ha contestado» y el ataque al grupo de control de Nigeria te han costado un aviso en mi papeleta. Guárdalos para el examen cruzado o para la refutación.
+- Algunas frases suenan telegráficas («Hecha nuestra cuenta, un cuarto de hora a la semana»). Dales verbo y aire.
+
+En el examen cruzado respondiste con firmeza, y la analogía del bulo fue muy buena. Pero volver tres veces seguidas a Tennessee sonó a respuesta aprendida. Además, decir a la vez «sin escuela» y «no se pesa» abrió el dilema que explotó Pablo. Fija ese marco desde el principio.
+
+**Javier Serrano:** «Diseño docente. Con esas dos palabras nos has dado la llave» es un arranque excelente, y la imagen de la factura ordenó vuestro caso. «Quitad la máquina y mirad lo que queda» era un gran cierre, pero Irene le dio la vuelta. Cuando cierres con una imagen, comprueba que no se puede girar. Tus dos respuestas a interpelaciones («esas horas van a la cuenta de la IA» y «suma») le dieron a Irene sus dos mejores armas. Responde siempre dentro de tu regla: «No suma la máquina; suman las horas nuevas».
+
+**Laura Pérez:** la mejor oradora de la final. El vecino del cuarto, «lo corto brilla al salir de clase; lo largo empata», «sumar con la cartera de otro» y, sobre todo, la refutación cruzada («voy a leerlas enteras, porque tenían segunda mitad», «el bolígrafo del profesor particular») son ritmo y memoria. Pero lo de Stanford, «por tutor… esa persona se paga igual», fue un error lógico: el tutor estaba en los dos grupos, e Irene lo cazó. Antes de lanzar una imagen, comprueba que resiste tu propia regla.
+
+**Óscar Román:** gran conclusión. Fue un acierto apropiarte de Thamus, ordenaste por choques y tu regla de peso en tres miembros («lo largo… lo medido… lo que queda en junio») es lo que un jurado se lleva a casa. El cierre con «tachones y alguna idea torcida», que vuelve a la escena de Noelia, es el mejor final del debate. Te faltó cerrar la puerta de la equidad. Mateo dijo después que nadie había contestado lo de los adolescentes humildes, y tenías la respuesta en vuestra propia regla: lo de casa está en los dos institutos.
+
+**Isabel Garrigós (jueza principal):** **Equipo.** Caso muy bien construido: «la prueba del lunes», aceptar el criterio del rival y volverlo en su contra, y un examen cruzado brillante, el mejor de la final. Perdisteis por dos cosas. Primero, la incoherencia sobre si el chatbot de casa se pesa, que os costó vuestro argumento de daño. Segundo, conceder que la IA guiada suma sin dar una razón de peso para que esa suma no cuente. Antes del debate, decidid una sola contabilidad y defendedla de principio a fin. Y traed alguna prueba de que vuestra alternativa (escribir en clase, defender en voz alta) funciona: ahora solo es verosímil.
+
+**Noelia Cano (introductora).** Fondo: apertura muy viva, la distinción entre «es» y «podría ser», y un uso inmediato de las concesiones del examen cruzado. Anoto un aviso por refutar de forma anticipada en la exposición inicial: reserva esos golpes para los refutadores. En tus respuestas, «no se pesa» abrió la contradicción que explotó Pablo, y «sí, delante, en clase» admite el chatbot en el aula como herramienta. Fondo y forma de la pregunta de Mateo: prepara esa respuesta en equipo. Forma: lenguaje concreto y natural, con imágenes como la del siete que se queda en cinco y medio; muy eficaz.
+
+**Javier Serrano (refutador 1).** Fondo: «la factura» y «ninguna de las tres exige comprar un tutor de IA» fueron de lo mejor de Brújula, igual que señalar el «exigirá» de Tennessee. Pero «esas horas van a la cuenta de la inteligencia artificial» reabrió la contradicción, y «suma donde hubo horas nuevas» regaló el verbo: empieza por la condición. La objeción de que Google y la Fundación Gates pagaron el ensayo confunde financiar una investigación con el coste de aplicarla; argumenta directamente la escala y el tiempo del profesorado. Forma: el cierre que da la vuelta a la imagen de Pablo («quitad la máquina y mirad lo que queda»), excelente.
+
+**Laura Pérez (refutadora 2 y de la refutación cruzada).** Fondo: el dilema sobre la contabilidad, leer las frases del rival enteras y «lo corto brilla, lo largo empata» sostuvieron a Brújula. Tu pregunta sobre quién mejoró más fue la mejor del debate. La imagen de la «clase particular con un chatbot al lado» le dio a Irene un asidero: prueba tus imágenes contra el rival antes de usarlas. Te faltó usar el «no a solas: en clase» de Pablo contra el argumento del chaval de las once y responder directamente al dato de Pew [2505]. Forma: impecable; el bolígrafo del profesor particular, muy bueno.
+
+**Óscar Román (conclusor).** Fondo: la ponderación más explícita y útil del debate (lo largo pesa más que lo corto, lo medido aquí más que lo pagado por otro, junio más que el martes). Pero repetir «resta a quien delega» como tesis en pie contradice la regla que tu equipo aceptó. Y «lo único largo y medido en aulas reales» deja fuera Ghana (ocho meses). Necesitabas responder al dato de Pew [2505] y explicar por qué el diseño docente no está al alcance de un instituto, más allá de TALIS. Forma: el cierre con los treinta folios con tachones, magnífico.

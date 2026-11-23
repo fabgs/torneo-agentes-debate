@@ -1,0 +1,915 @@
+{
+ "tema": "¿Es la inteligencia artificial una herramienta beneficiosa para el sistema educativo?",
+ "subtitulo": "I Torneo de Agentes de Debate · Ronda 1 · Sala 1",
+ "ppm": 150,
+ "equipos": {
+  "favor": {
+   "nombre": "Contrapunto",
+   "lema": "Cada idea tiene su réplica",
+   "tesis": "La IA es una herramienta beneficiosa para el sistema educativo porque, en manos de docentes y centros, enseña más, devuelve tiempo al profesor y lleva a todos el apoyo que hoy solo pagan algunos: andamio, no muleta.",
+   "argumentos": [
+    "A1. El andamio enseña",
+    "A2. El docente gana",
+    "A3. La igualdad se juega en el aula"
+   ],
+   "oradores": {
+    "introductor": "Carla Vidal",
+    "refutador1": "Sergio Mas",
+    "refutador2": "Alba Ruiz",
+    "conclusor": "Víctor Ortega"
+   },
+   "aspectos": {
+    "introductor": {
+     "piel": "#5c3a21",
+     "pelo": "#e8d7a8",
+     "estilo": "tupe",
+     "accesorio": "ninguno",
+     "prenda": "polo",
+     "color": "#4a5568",
+     "oscuro": "#353d4a"
+    },
+    "refutador1": {
+     "piel": "#8d5524",
+     "pelo": "#3b2416",
+     "estilo": "mono",
+     "accesorio": "pendientes",
+     "prenda": "corbata",
+     "color": "#4a5568",
+     "oscuro": "#353d4a"
+    },
+    "refutador2": {
+     "piel": "#c68642",
+     "pelo": "#1b1b1b",
+     "estilo": "rizado",
+     "accesorio": "gafas",
+     "prenda": "jersey",
+     "color": "#4a5568",
+     "oscuro": "#353d4a"
+    },
+    "conclusor": {
+     "piel": "#c68642",
+     "pelo": "#d9b25e",
+     "estilo": "melena",
+     "accesorio": "bigote",
+     "prenda": "jersey",
+     "color": "#4a5568",
+     "oscuro": "#353d4a"
+    }
+   }
+  },
+  "contra": {
+   "nombre": "Faro",
+   "lema": "Que nadie se quede atrás",
+   "tesis": "No: la IA que hoy entra en el sistema educativo no es beneficiosa, porque no mejora el aprendizaje duradero de quien más depende de la escuela y lleva sus ventajas hacia quien ya iba delante y sus riesgos hacia quien iba detrás. Ensancha la brecha que la escuela existe para cerrar.",
+   "argumentos": [
+    "Tutor para unos, muleta para otros",
+    "Gana quien ya iba ganando",
+    "Los riesgos los pagan quienes menos voz tienen"
+   ],
+   "oradores": {
+    "introductor": "Ainhoa Martí",
+    "refutador1": "Hugo Bravo",
+    "refutador2": "Candela Ríos",
+    "conclusor": "Samuel Ibarra"
+   },
+   "aspectos": {
+    "introductor": {
+     "piel": "#c68642",
+     "pelo": "#2f6fb0",
+     "estilo": "corto",
+     "accesorio": "ninguno",
+     "prenda": "corbata",
+     "color": "#f08a24",
+     "oscuro": "#ac6319"
+    },
+    "refutador1": {
+     "piel": "#ffdbac",
+     "pelo": "#d9b25e",
+     "estilo": "largo",
+     "accesorio": "pecas",
+     "prenda": "corbata",
+     "color": "#f08a24",
+     "oscuro": "#ac6319"
+    },
+    "refutador2": {
+     "piel": "#5c3a21",
+     "pelo": "#a0522d",
+     "estilo": "rapado",
+     "accesorio": "diadema",
+     "prenda": "jersey",
+     "color": "#f08a24",
+     "oscuro": "#ac6319"
+    },
+    "conclusor": {
+     "piel": "#e0ac69",
+     "pelo": "#7b3fa0",
+     "estilo": "rizado",
+     "accesorio": "lazo",
+     "prenda": "jersey",
+     "color": "#f08a24",
+     "oscuro": "#ac6319"
+    }
+   }
+  }
+ },
+ "fases": [
+  {
+   "n": 1,
+   "key": "intro_favor",
+   "nombre": "Exposición inicial de Contrapunto (a favor)",
+   "seg": 240,
+   "equipo": "favor",
+   "tipo": "intro",
+   "rol": "introductor",
+   "turnos": [
+    {
+     "equipo": "favor",
+     "rol": "introductor",
+     "nombre": "Carla Vidal",
+     "tipo": "discurso",
+     "texto": "Empiezo por el estudio que más se cita contra la IA en las aulas, y así le ahorro trabajo al rival. En Turquía, alumnos de bachillerato practicaron matemáticas con el motor de ChatGPT. Cuando se lo quitaron, sacaron un diecisiete por ciento menos que quienes nunca lo habían usado [2001]. Es verdad. Pero un tercer grupo usó la misma IA configurada para dar pistas, no respuestas. Ahí, el daño prácticamente desapareció [2013]. Misma tecnología, mismos alumnos, distinto diseño.\n\nBuenas tardes al jurado, y a Ainhoa, Hugo, Candela y Samuel, que hoy defienden el no.\n\nEl director de Educación de la OCDE nos deja la imagen de la tarde: andamio, no muleta [1533]. La muleta te sostiene y te desacostumbra a andar. El andamio te sostiene mientras construyes, y se retira cuando el edificio se tiene en pie.\n\nPor eso no debatimos si la IA puede usarse mal, que todo puede, sino si el sistema educativo gana al incorporarla. La IA, según el Reglamento europeo, es todo sistema que genera contenidos, recomendaciones o decisiones [1011]. Una herramienta se juzga en manos de docentes y centros, con su mal uso en la balanza. Beneficiosa es que aporta más de lo que cuesta, no que sea perfecta. Y lo que gana un docente lo gana el sistema.\n\n¿Cómo decidir? Con sistemas reales, no con un aula ideal. En España, según PISA, solo ocho de cada cien alumnos de quince años no usan nunca chatbots para sus tareas [1534]. La IA ya está en sus mochilas, y la alternativa no es un mundo sin ella, sino uno donde la usan solos. Gana quien demuestre qué sistema aprende más, enseña mejor y reparte mejor.\n\nNuestra tesis es esta. En manos de docentes y centros, la IA enseña más, devuelve tiempo al profesor y lleva a todos el apoyo que hoy solo pagan algunos. Tres ideas: el andamio enseña, el docente gana y la igualdad se juega en el aula.\n\nPrimero, el andamio enseña. Un ensayo de Harvard de 2025 comparó un tutor de IA con una buena clase de aprendizaje activo, y con el tutor se aprendió más del doble en menos tiempo [1001]. En Nigeria, el Banco Mundial dio seis semanas de tutoría con IA guiada por profesores, y los alumnos ganaron lo que allí se aprende en año y medio o dos de escuela [1002]. Docentes que diseñan, herramienta que guía. Andamio.\n\nSegundo, el docente gana. Dos de cada tres profesores españoles de secundaria sufren estrés por el papeleo [1504]. En sesenta y ocho institutos ingleses, quienes usaron ChatGPT con una guía prepararon clases en casi un tercio menos de tiempo, sin peor calidad [1008]. Cada hora que la máquina le quita al papeleo vuelve al alumno.\n\nTercero, la igualdad se juega en el aula. Casi la mitad de los hogares españoles con escolares paga clases particulares, y gastan sobre todo los que más tienen [1506]. En Ghana, un tutor de matemáticas por WhatsApp mejoró resultados por un coste que puede bajar a cinco dólares por alumno y año [1501]. Un economista del Banco Mundial advierte de que la IA privada ya se extiende como esas clases [2502]. Si la escuela no enseña a usarla, la aprovecharán los de siempre. La brecha no la abre la IA en el aula. La abre la IA sin aula.\n\nVuelvo a Turquía. Aquel estudio demuestra que una muleta, sin nadie que la piense, debilita. Nosotros defendemos el andamio, y el andamio lo pone el sistema educativo. Ante cada daño que oigáis hoy, preguntaos si era muleta o andamio. Y otra pregunta: si la IA ya está en sus mochilas, ¿quién preferís que les enseñe a usarla, su profesor o nadie?"
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 2,
+   "key": "preguntas_favor",
+   "nombre": "Examen cruzado a Contrapunto (a favor)",
+   "seg": 120,
+   "equipo": "favor",
+   "tipo": "preguntas",
+   "rol": "introductor",
+   "turnos": [
+    {
+     "equipo": "contra",
+     "rol": "introductor",
+     "nombre": "Ainhoa Martí",
+     "tipo": "pregunta",
+     "texto": "Carla, decís que una herramienta se juzga «en manos de docentes y centros, con su mal uso en la balanza». ¿Entra en esa balanza el alumno que la usa solo en casa para copiar?"
+    },
+    {
+     "equipo": "favor",
+     "rol": "introductor",
+     "nombre": "Carla Vidal",
+     "tipo": "respuesta",
+     "texto": "Sí, entra. Pero ese alumno copia en casa haya o no IA en el aula. Lo que la escuela decide es cómo evalúa y quién le enseña a usarla. Y según Stanford, la copia en secundaria no subió con ChatGPT [1017]."
+    },
+    {
+     "equipo": "contra",
+     "rol": "introductor",
+     "nombre": "Ainhoa Martí",
+     "tipo": "pregunta",
+     "texto": "Habéis dicho que gana quien demuestre qué sistema «reparte mejor». Si con la IA sube la media pero el alumno que iba detrás queda más lejos, ¿lo consideraríais beneficioso?"
+    },
+    {
+     "equipo": "favor",
+     "rol": "introductor",
+     "nombre": "Carla Vidal",
+     "tipo": "respuesta",
+     "texto": "Si el que iba detrás también mejora, sí, porque mejorar no es igualar. Si retrocede, no. En Nigeria, con docentes, mejoraron todos los niveles, también los que iban detrás [1002]. La brecha que debería preocuparnos es la de quienes la usan solos, en casa."
+    },
+    {
+     "equipo": "contra",
+     "rol": "conclusor",
+     "nombre": "Samuel Ibarra",
+     "tipo": "pregunta",
+     "texto": "Carla, de Turquía habéis dicho que con la IA de pistas «el daño prácticamente desapareció». En el examen sin IA, ¿esos alumnos sacaron más nota que quienes nunca la usaron, o la misma?"
+    },
+    {
+     "equipo": "favor",
+     "rol": "introductor",
+     "nombre": "Carla Vidal",
+     "tipo": "respuesta",
+     "texto": "La misma, estadísticamente igual que el grupo de control. Por eso hablé de daño evitado, no de mejora. La mejora en exámenes sin IA la tenéis en Nigeria, donde mejoraron incluso en el examen ordinario del trimestre, con docentes guiando [1002]."
+    },
+    {
+     "equipo": "contra",
+     "rol": "conclusor",
+     "nombre": "Samuel Ibarra",
+     "tipo": "pregunta",
+     "texto": "Acabáis de citar Nigeria. El grupo de comparación, ¿recibió también seis semanas de clases extra sin IA, o siguió solo con su horario normal?"
+    },
+    {
+     "equipo": "favor",
+     "rol": "introductor",
+     "nombre": "Carla Vidal",
+     "tipo": "respuesta",
+     "texto": "Siguió con su horario normal. Y los autores lo analizan: el refuerzo en grupo, sin atención individual, apenas mueve resultados, así que más horas por sí solas no explican el efecto [1002]. Seis semanas de refuerzo no dan casi dos años de escuela. Eso es andamio."
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 3,
+   "key": "intro_contra",
+   "nombre": "Exposición inicial de Faro (en contra)",
+   "seg": 240,
+   "equipo": "contra",
+   "tipo": "intro",
+   "rol": "introductor",
+   "turnos": [
+    {
+     "equipo": "contra",
+     "rol": "introductor",
+     "nombre": "Ainhoa Martí",
+     "tipo": "discurso",
+     "texto": "Esta noche, en dos cocinas, dos chicas de catorce años abrirán el mismo chatbot para hacer los deberes. En la primera, su madre se sienta al lado y le pregunta: «¿y eso cómo lo has sacado?». En la segunda no hay nadie, porque su madre entra a trabajar a las diez. Una usará la inteligencia artificial para entender. La otra, para copiar. Misma herramienta, mismo examen, resultados opuestos.\n\nBuenas tardes al jurado, y a Carla, Sergio, Alba y Víctor. Venimos a hablar de la segunda cocina.\n\nCarla lo dijo hace un momento: la brecha que debería preocuparnos es la de quienes la usan solos, en casa. Estamos de acuerdo. Por eso el sistema educativo no acaba en la puerta del aula. También es la casa donde nadie ayuda. Y juzgamos la inteligencia artificial que de verdad llega, chatbots y tutores, no los apoyos prescritos para una discapacidad.\n\n¿Y qué es beneficiosa? Carla le reconoció a Samuel que en Turquía la IA de pistas solo evitó el daño, porque sin pantalla sacaron lo mismo que quienes nunca la usaron. Para nosotros, beneficio es lo que el alumno sabe hacer cuando le quitan la pantalla, que es justo lo que la OCDE considera esencial [2002].\n\nDe ahí nuestro criterio, la prueba de la segunda cocina. Si una herramienta sube la media pero deja más lejos a quien ya iba detrás, no es beneficiosa para el sistema. Es lo justo, porque casi la mitad de las familias paga clases particulares, y quien más gasta es quien más tiene [1506]. Para la otra mitad, la escuela es el único profesor.\n\nPor eso decimos que no. La inteligencia artificial que hoy entra en la escuela lleva sus ventajas hacia quien ya iba delante y sus riesgos hacia quien iba detrás. Tres razones. Tutor para unos, muleta para otros. Gana quien ya iba ganando. Y los riesgos los pagan quienes menos voz tienen.\n\nEmpecemos por casa. Según el Pew Research Center [2505], en Estados Unidos uno de cada cinco adolescentes de familias humildes hace casi todos sus deberes con un chatbot. En las acomodadas, uno de cada catorce. En una clase de treinta, seis frente a dos. ¿Y qué le pasa al que delega? Un estudio con casi veintisiete mil alumnos chinos [1531] lo muestra: las notas de los deberes suben y las de los exámenes caen una quinta parte. La nota que sube es la de la máquina. Y en la segunda cocina nadie monta el andamio.\n\nQuizá penséis que, dentro del aula y bien diseñada, el problema desaparece. Ni siquiera entonces. Dos economistas, del Banco Mundial y de Pensilvania, acaban de revisar los ensayos [2502], y en los pocos que miran por grupos, gana más quien partía con ventaja. En Nigeria, el efecto crecía con la nota previa y el nivel socioeconómico familiar [2504], y hasta Google DeepMind reconoce que en Sierra Leona ganaron más los que ya iban mejor [2534]. Eso no ayuda a la escuela. Trabaja contra ella.\n\nY queda lo que no sale en las notas. Los detectores de IA tomaron por artificiales seis de cada diez redacciones de quienes no escribían en su lengua materna [2006]. Pensad en la chica recién llegada, acusada de copiar lo que escribió sola. Y según PISA, en España la pública queda muy por debajo de la privada en capacidad para enseñar con medios digitales [3721]. Los riesgos viajan hacia abajo.\n\nLa inteligencia artificial ya sabe ayudar a la primera cocina. Lo que nadie ha demostrado es que ayude a la segunda. Y mientras no lo haga, no será un beneficio para el sistema, sino una ventaja más para quien ya tenía muchas. Por la chica de la segunda cocina, os pedimos el voto en contra."
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 4,
+   "key": "preguntas_contra",
+   "nombre": "Examen cruzado a Faro (en contra)",
+   "seg": 120,
+   "equipo": "contra",
+   "tipo": "preguntas",
+   "rol": "introductor",
+   "turnos": [
+    {
+     "equipo": "favor",
+     "rol": "introductor",
+     "nombre": "Carla Vidal",
+     "tipo": "pregunta",
+     "texto": "Ainhoa, en vuestra segunda cocina la chica ya usa el chatbot sola. ¿Qué proponéis que haga la escuela con eso, prohibírselo, ignorarlo o enseñarle a usarlo?"
+    },
+    {
+     "equipo": "contra",
+     "rol": "introductor",
+     "nombre": "Ainhoa Martí",
+     "tipo": "respuesta",
+     "texto": "Ni prohibir ni ignorar. Enseñarle a desconfiar, sí, pero eso no hace beneficiosa a la herramienta. Lo que necesita es lo que el chatbot no da, alguien que la acompañe, tutoría humana en horario escolar [1503] y práctica sin pantalla al principio, como pide el Ministerio [2019]."
+    },
+    {
+     "equipo": "favor",
+     "rol": "introductor",
+     "nombre": "Carla Vidal",
+     "tipo": "pregunta",
+     "texto": "Ainhoa, decís que en Nigeria y en Sierra Leona ganaron más los que ya iban mejor. Y los que iban detrás, ¿quedaron peor que sin la IA o también avanzaron, aunque menos?"
+    },
+    {
+     "equipo": "contra",
+     "rol": "introductor",
+     "nombre": "Ainhoa Martí",
+     "tipo": "respuesta",
+     "texto": "Avanzaron, aunque menos, y por eso quedaron más lejos de los de delante. Para una escuela que existe para cerrar distancias, eso no es beneficio. Además, en Nigeria el grupo de comparación no recibió nada [2021], y nadie separó la IA de las horas extra [2503]."
+    },
+    {
+     "equipo": "favor",
+     "rol": "conclusor",
+     "nombre": "Víctor Ortega",
+     "tipo": "pregunta",
+     "texto": "Ainhoa, dices que en Nigeria los que iban detrás avanzaron, aunque menos. Para la chica de vuestra segunda cocina, ¿qué es mejor, avanzar menos que la de la primera o no avanzar?"
+    },
+    {
+     "equipo": "contra",
+     "rol": "introductor",
+     "nombre": "Ainhoa Martí",
+     "tipo": "respuesta",
+     "texto": "Avanzar, claro, pero ese no es el dilema. La alternativa no es nada, sino esas mismas horas con un profesor, y Nigeria nunca lo comparó [2021]. Y en su cocina real, sola, no avanza: delega, y sus exámenes caen una quinta parte [1531]."
+    },
+    {
+     "equipo": "favor",
+     "rol": "conclusor",
+     "nombre": "Víctor Ortega",
+     "tipo": "pregunta",
+     "texto": "Ainhoa, si un profesor prepara sus clases en casi un tercio menos de tiempo y sin peor calidad, como en los institutos ingleses [1008], ¿eso cuenta como beneficio para el sistema educativo?"
+    },
+    {
+     "equipo": "contra",
+     "rol": "introductor",
+     "nombre": "Ainhoa Martí",
+     "tipo": "respuesta",
+     "texto": "Para el profesor, sí, y lo celebramos. Para el sistema, solo si llega al alumno. Ese ensayo midió minutos, no aprendizaje, y la propia fundación pide cautela con la calidad [1008]. Y según Stanford, con docentes flojos, preparar clases con IA empeoró al alumnado [2537]."
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 5,
+   "key": "ref1_favor",
+   "nombre": "Primera refutación de Contrapunto (a favor)",
+   "seg": 300,
+   "equipo": "favor",
+   "tipo": "refutacion",
+   "rol": "refutador1",
+   "turnos": [
+    {
+     "equipo": "favor",
+     "rol": "refutador1",
+     "nombre": "Sergio Mas",
+     "tipo": "discurso",
+     "texto": "Ainhoa nos ha regalado la imagen de la tarde. En la primera cocina, la madre se sienta al lado y pregunta «¿y eso cómo lo has sacado?». Eso es un andamio, porque no da la respuesta, obliga a pensarla. Es el tutor de pistas de Turquía, que prácticamente eliminó el daño [2013]. La cuestión no es si la chica de la segunda cocina usa la IA, sino quién le hace esa pregunta.\n\nVamos con su primer argumento, «tutor para unos, muleta para otros». Según Pew, uno de cada cinco adolescentes humildes hace la mayoría de sus deberes con un chatbot [2505]. De acuerdo, pero eso no prueba que la IA en la escuela perjudique, sino que ya está en casa sin escuela. Y el estudio de los veintisiete mil alumnos chinos mide justo eso, el uso autodirigido [1531]. Pierde quien le pasa los deberes a la máquina, y quien les dedica el mismo tiempo saca notas parecidas. ¿Y qué proponen sus autores? Enseñar a usarla para aprender, exámenes presenciales y docentes que supervisen. Es decir, nuestro caso. Y la propia Ainhoa le respondió a Carla «ni prohibir ni ignorar». Gracias. Entonces se enseña, y enseñar es aula.\n\nAdelante."
+    },
+    {
+     "equipo": "contra",
+     "rol": "refutador1",
+     "nombre": "Hugo Bravo",
+     "tipo": "interpelacion",
+     "texto": "Sergio, del estudio chino has dicho que quien les dedica el mismo tiempo a los deberes saca «notas parecidas». ¿Parecidas a las de quien nunca usó la IA, o sea, sin ninguna mejora?"
+    },
+    {
+     "equipo": "favor",
+     "rol": "refutador1",
+     "nombre": "Sergio Mas",
+     "tipo": "respuesta",
+     "texto": "«Sin ninguna mejora», sí, Hugo, pero también sin la caída de una quinta parte [1531]. Parecidas a las de quien no la usa, porque es la IA sola, sin escuela. La mejora llega cuando entra el profesor, y eso nos lleva a vuestro criterio."
+    },
+    {
+     "equipo": "favor",
+     "rol": "refutador1",
+     "nombre": "Sergio Mas",
+     "tipo": "discurso",
+     "texto": "Sigo con vuestro criterio, donde se decide el debate. Ainhoa dijo que beneficio es «lo que el alumno sabe hacer cuando le quitan la pantalla». Lo aceptamos, y lo superamos. En Nigeria, la tutoría con IA guiada por docentes mejoró el examen ordinario del trimestre, un examen sin pantalla y de todo el curso [1002]. La OCDE recoge estudios donde, con andamiaje, la mejora se sostiene al retirar la IA [1019]. Y en PISA, también sin máquina, los usuarios diarios que en clase evalúan lo que produce la IA sacan más de medio curso de ventaja [1533]. Andamio que se retira, edificio que se queda.\n\nAinhoa le dijo a Víctor que la alternativa son «esas mismas horas con un profesor, y Nigeria nunca lo comparó». Harvard sí lo comparó. Enfrentó un tutor de IA a una buena clase de aprendizaje activo, con su profesor, y con el tutor se aprendió más del doble en menos tiempo [1001]. Y no son solo horas, explican los autores de Nigeria, porque la tutoría humana apenas mueve resultados si no es individual o en grupos pequeños [1002]. Ainhoa acierta en que, para quien no paga clases, la escuela es el único profesor. Pues démosle la herramienta a ese profesor, no solo a la academia.\n\nAdelante."
+    },
+    {
+     "equipo": "contra",
+     "rol": "conclusor",
+     "nombre": "Samuel Ibarra",
+     "tipo": "interpelacion",
+     "texto": "Sergio, el ensayo de Harvard que oponéis a la tutoría humana, ¿se hizo con chicas de catorce años como las de nuestras cocinas o con universitarios de Física de Harvard?"
+    },
+    {
+     "equipo": "favor",
+     "rol": "refutador1",
+     "nombre": "Sergio Mas",
+     "tipo": "respuesta",
+     "texto": "«Universitarios de Física de Harvard», sí, Samuel [1001], y por eso no viene solo. Las chicas de vuestras cocinas se parecen a los adolescentes de secundaria de Nigeria, que con docentes ganaron casi dos años de escuela [1002]. Y Nigeria me lleva al corazón de vuestro caso."
+    },
+    {
+     "equipo": "favor",
+     "rol": "refutador1",
+     "nombre": "Sergio Mas",
+     "tipo": "discurso",
+     "texto": "Llego al corazón de su caso, «gana quien ya iba ganando». Sobre los que iban detrás, Ainhoa le dijo a Carla «avanzaron, aunque menos», y a Víctor, «avanzar, claro». En Nigeria mejoraron todos los niveles de partida [1002], y en Sierra Leona, con clases diseñadas por docentes, se benefició la mayoría [2534]. Mejorar no es igualar, pero tampoco es empeorar. ¿Y por qué los de delante ganan algo más? Lo explica la revisión que citaba Ainhoa: los favorecidos aprenden más a menudo a evaluar lo que produce la IA [2504]. Eso no viene de cuna, se enseña en clase. Ainhoa lo dijo, «enseñarle a desconfiar, sí». Eso es un andamio.\n\nRecapitulo. Su primer argumento mide la cocina sin escuela, y sus autores piden escuela. Su criterio de la pantalla apagada lo superan Nigeria, la OCDE y PISA. Y su brecha es la de saber usar la IA, que se cierra en el aula. Faro nos enseña muletas para condenar andamios. De los detectores y de la pública os hablará Alba.\n\nEsta noche, en la segunda cocina, quizá nadie le pregunte cómo lo ha sacado. Pero mañana a las nueve tiene un profesor, y con él la herramienta pregunta como la madre de la primera. La pregunta de Carla sigue en pie: ¿quién preferís que le enseñe a usarla, su profesor o nadie?"
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 6,
+   "key": "ref1_contra",
+   "nombre": "Primera refutación de Faro (en contra)",
+   "seg": 300,
+   "equipo": "contra",
+   "tipo": "refutacion",
+   "rol": "refutador1",
+   "turnos": [
+    {
+     "equipo": "contra",
+     "rol": "refutador1",
+     "nombre": "Hugo Bravo",
+     "tipo": "discurso",
+     "texto": "Sergio ha cerrado con una frase que suscribo entera. La cuestión no es si la chica de la segunda cocina usa la inteligencia artificial, sino quién le hace la pregunta. Pues yo tengo otra para cada argumento de Contrapunto. ¿Y para quién?\n\nEmpiezo por nuestro criterio, donde según Sergio se decide el debate. Nos dice que lo superan Nigeria y PISA. ¿Nigeria? Sus propios autores reconocen que el grupo de comparación no recibió nada, que no pueden separar la IA de las horas extra y que el efecto crecía con la nota previa y el nivel de la familia [2021]. ¿Los trece puntos de PISA por evaluar la IA en clase? ¿Y para quién? Según la revisión de Dang y Behrman, esa enseñanza les llega más a menudo a los favorecidos [2504]. ¿Y Harvard? Universitarios de Física, como reconoció Sergio, y su propio autor admite que, si les das ChatGPT para los deberes, a menudo rinden peor en el examen [2536]. Así que sí, el criterio se supera. Para la primera cocina."
+    },
+    {
+     "equipo": "favor",
+     "rol": "refutador2",
+     "nombre": "Alba Ruiz",
+     "tipo": "interpelacion",
+     "texto": "Hugo, dices que el criterio se supera «para la primera cocina». Si aprender a evaluar la IA llega más a los favorecidos, ¿la solución es sacarla del aula o enseñárselo a todos?"
+    },
+    {
+     "equipo": "contra",
+     "rol": "refutador1",
+     "nombre": "Hugo Bravo",
+     "tipo": "respuesta",
+     "texto": "Enseñárselo a todos, claro. Pero hoy no llega a todos, porque la pública está muy por debajo de la privada en capacidad para enseñar con medios digitales [3721]. Y si el beneficio depende del profesor, es del profesor. Y en casa, ni eso."
+    },
+    {
+     "equipo": "contra",
+     "rol": "refutador1",
+     "nombre": "Hugo Bravo",
+     "tipo": "discurso",
+     "texto": "Vuelvo a nuestro primer argumento, tutor para unos y muleta para otros. Sergio dice que mide la casa sin escuela. Pero Carla le dijo a Ainhoa que el alumno que copia solo en casa «sí, entra» en su balanza. Pues pesémoslo.\n\nEl estudio chino lo dice sin rodeos. En condiciones reales, lo que domina no es la tutoría, sino delegar los deberes, con una gran penalización en el aprendizaje [1531]. Cuatro de cada cinco usuarios delegan. ¿Y el quinto, el que la usa bien? Sergio me respondió «sin ninguna mejora». Fijaos en lo que significa. En su mejor uso, la IA en casa suma cero, y en su uso real le resta al examen una quinta parte. En Turquía, Carla concedió que el tutor de pistas solo igualó a quien nunca la usó, aunque los alumnos creían haber aprendido más [2013]. Un daño que ni notan. ¿Y quién lo nota? La madre de la primera cocina. Por eso «depende del uso» quiere decir «depende de la familia», y según Pew hacen la mayoría de sus deberes con un chatbot uno de cada cinco adolescentes humildes y uno de cada catorce acomodados [2505].\n\n¿Que esos autores recetan exámenes presenciales y supervisión? Claro. Pero quien receta un remedio no describe un beneficio, contiene un daño."
+    },
+    {
+     "equipo": "favor",
+     "rol": "conclusor",
+     "nombre": "Víctor Ortega",
+     "tipo": "interpelacion",
+     "texto": "Hugo, si «depende del uso» es «depende de la familia», a la chica sin nadie en casa, ¿quién le enseña a usarla para aprender, su profesor o nadie?"
+    },
+    {
+     "equipo": "contra",
+     "rol": "refutador1",
+     "nombre": "Hugo Bravo",
+     "tipo": "respuesta",
+     "texto": "Su profesor, sin duda. Pero a las diez de la noche su profesor no está en la cocina, y allí lo que domina es delegar [1531]. Y cuando sí está, en clase, ¿qué añade la máquina? Justo eso es lo que pinta Sergio."
+    },
+    {
+     "equipo": "contra",
+     "rol": "refutador1",
+     "nombre": "Hugo Bravo",
+     "tipo": "discurso",
+     "texto": "Llego a la imagen final de Sergio, mañana a las nueve, con un profesor y una herramienta que pregunta como la madre. Ya se ha probado. En dieciocho institutos de Tennessee, durante dos cursos, Khanmigo se usó en las clases de refuerzo, configurado para guiar, no para responder. Exactamente su andamio. ¿El resultado? Según un ensayo de agosto, ganancias parecidas a las de practicar en la misma plataforma sin IA [2540]. El alumno típico solo le escribía uno de cada tres días. Tener acceso no es usarla.\n\nFijaos en lo que enseñan sus propios ejemplos. En Nigeria, en Sierra Leona y en Harvard, el andamio lo montaba una persona, el docente que diseñaba y guiaba [1002][2534][2015]. Quitad al profesor y os queda la segunda cocina. Quitad la IA y en Tennessee os queda lo mismo. El andamio no es la máquina. Es el profesor. Y en España, según TALIS, tres de cada cuatro profesores de secundaria dicen no saber enseñar con ella [2007].\n\nCarla preguntaba quién preferimos que le enseñe a usarla, su profesor o nadie. Su profesor, siempre. Pero que haga falta un profesor para que la herramienta no haga daño no demuestra que sea beneficiosa. Demuestra que el beneficio lo pone el profesor. A cada argumento le hemos preguntado para quién, y siempre ha respondido lo mismo. Para la primera cocina. Esta noche, a las diez, en la segunda, nadie montará el andamio. Por esa chica, seguimos diciendo que no."
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 7,
+   "key": "ref2_favor",
+   "nombre": "Segunda refutación de Contrapunto (a favor)",
+   "seg": 300,
+   "equipo": "favor",
+   "tipo": "refutacion",
+   "rol": "refutador2",
+   "turnos": [
+    {
+     "equipo": "favor",
+     "rol": "refutador2",
+     "nombre": "Alba Ruiz",
+     "tipo": "discurso",
+     "texto": "Hugo nos ha dejado una frase que pienso enmarcar. «El andamio no es la máquina. Es el profesor.» Gracias, Hugo, porque un andamio nunca se ha montado solo. Por eso se llama andamio y no ascensor.\n\nTres choques. Quién pone el beneficio, para quién es la igualdad y qué gana el docente.\n\nPrimero, quién pone el beneficio. Faro dice que, si hace falta un profesor, el mérito es del profesor. Pero Carla definió la herramienta desde el principio «en manos de docentes y centros», y nadie lo discutió. Es como decir que el bisturí no sirve a la medicina porque lo maneja un cirujano.\n\n¿Y Tennessee? Hugo nos dio la clave, «tener acceso no es usarla», y sus autores piden conseguir que los alumnos la usen [2540]. ¿Y quién consigue que un adolescente haga lo que no le apetece? Un profesor. Y esos tres de cada cuatro que no saben enseñar con ella son, por cierto, profesores que aún no la usan [1504]. No es motivo para sacarla del aula, es la lista de tareas del sistema. Hugo me lo concedió, «enseñárselo a todos, claro».\n\nAdelante."
+    },
+    {
+     "equipo": "contra",
+     "rol": "refutador2",
+     "nombre": "Candela Ríos",
+     "tipo": "interpelacion",
+     "texto": "Alba, en Tennessee el bisturí pasó dos cursos en manos de docentes, en sus propias clases de refuerzo. ¿Aportó algo más que la misma práctica sin IA [2540]?"
+    },
+    {
+     "equipo": "favor",
+     "rol": "refutador2",
+     "nombre": "Alba Ruiz",
+     "tipo": "respuesta",
+     "texto": "Parecido, sí, Candela. Dos cursos de IA en el aula y ni rastro de la muleta. Pero un bisturí en la bandeja no opera, y el alumno le escribía uno de cada tres días [2540]. Que lo use es cosa del profesor. Vamos con la igualdad."
+    },
+    {
+     "equipo": "favor",
+     "rol": "refutador2",
+     "nombre": "Alba Ruiz",
+     "tipo": "discurso",
+     "texto": "Segundo choque, la igualdad. Ainhoa le dijo a Carla que los de detrás «avanzaron, aunque menos», y a Víctor, «avanzar, claro». Su alternativa, «esas mismas horas con un profesor». Ojalá. Es lo que hoy compra casi la mitad de las familias, sobre todo las que más tienen [1506]. Faro propone un tutor humano para todos sin decir con qué dinero. Nosotros proponemos multiplicar al profesor que ya está.\n\n¿Y a quién ayuda más la IA al servicio de ese profesor? En el Tutor CoPilot de Stanford, con alumnos desfavorecidos, mejoraron más los alumnos de los tutores peor valorados, por unos veinte dólares al año [1003]. Ahí no gana quien ya iba ganando. Gana quien tenía peor suerte.\n\nHugo dijo que «depende del uso» quiere decir «depende de la familia». Exacto. ¿Y qué institución existe para que el futuro de un niño no dependa de su familia? La escuela. Si la pública va por detrás, renunciar no la iguala, porque la privada no renunciará y la IA de pago ya se extiende como las academias [2502].\n\n¿Y la chica recién llegada a la que un detector acusa en falso [2006]? Eso pasa cuando la escuela persigue la IA en vez de enseñarla. Se evalúa en clase, en voz alta, ante un profesor que la conoce.\n\nAdelante."
+    },
+    {
+     "equipo": "contra",
+     "rol": "introductor",
+     "nombre": "Ainhoa Martí",
+     "tipo": "interpelacion",
+     "texto": "Alba, según sus propios autores de Stanford, en Tutor CoPilot, ¿mejoró el examen de fin de curso o solo la prueba breve al final de cada sesión [1003]?"
+    },
+    {
+     "equipo": "favor",
+     "rol": "refutador2",
+     "nombre": "Alba Ruiz",
+     "tipo": "respuesta",
+     "texto": "Solo la de cada sesión, Ainhoa. En el examen final no hubo mejora clara, y sus autores apuntan a que duró dos meses [1003]. Pero ¿para quién?, como pregunta Hugo. Para quien tenía peor tutor, al revés de vuestro caso. Eso me lleva al docente."
+    },
+    {
+     "equipo": "favor",
+     "rol": "refutador2",
+     "nombre": "Alba Ruiz",
+     "tipo": "discurso",
+     "texto": "Tercer choque, el docente, donde Faro ya nos dio la mitad. Ainhoa le respondió a Víctor «para el profesor, sí, y lo celebramos». Celebrado queda. Objetó que solo cuenta si llega al alumno. Pues llega. La misma revisión de Stanford que citaba Ainhoa muestra que, con borradores de IA, los docentes dieron más y mejor retroalimentación sin más tiempo [1016], y eso acaba en el cuaderno. ¿Y los docentes flojos que empeoraron? Su directora lo resume, dañan «por sí solas, sin reflexión», y lo que desaconseja es usarlas sin diseñar las clases para aprovecharlas [2537]. Muleta no, andamio sí.\n\nRecapitulo. Primero, la herramienta se juzga en manos del profesor, como dijo Carla y acabó diciendo Hugo. Segundo, los de detrás avanzan, y solo la escuela hace que eso no dependa de la familia. Tercero, el tiempo del docente, que el rival celebra, llega al alumno.\n\nAinhoa nos habló de dos cocinas. En la primera, una madre pregunta «¿y eso cómo lo has sacado?». En la segunda, nadie. Faro dice que hace falta un profesor. De acuerdo. Por eso queremos que mañana a las nueve ese profesor tenga la herramienta y haga en clase la pregunta de esa madre. Carla os preguntó quién preferís que les enseñe a usarla, su profesor o nadie. Hugo respondió «su profesor, siempre». Faro ya ha contestado. Solo os pedimos que votéis su respuesta."
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 8,
+   "key": "ref2_contra",
+   "nombre": "Segunda refutación de Faro (en contra)",
+   "seg": 300,
+   "equipo": "contra",
+   "tipo": "refutacion",
+   "rol": "refutador2",
+   "turnos": [
+    {
+     "equipo": "contra",
+     "rol": "refutador2",
+     "nombre": "Candela Ríos",
+     "tipo": "discurso",
+     "texto": "Alba nos ha regalado el bisturí, y lo acepto, porque un bisturí se juzga con una pregunta sencilla. ¿El paciente operado con él sale mejor que sin él? Se probó dos cursos en Tennessee, en manos de sus propios profesores y con la herramienta configurada para guiar. ¿Resultado? Lo mismo que practicar sin IA [2540]. Se lo pregunté a Alba y me contestó «parecido». Carla definió beneficiosa como lo que aporta más de lo que cuesta. Un bisturí que opera igual que el de antes no aporta, y cuesta.\n\nSigo los tres choques de Alba. Primero, quién pone el beneficio. Alba dice que nadie discutió lo de «en manos de docentes». Lo discutió Ainhoa, para quien el sistema no acaba en la puerta del aula, y Carla aceptó que el alumno que copia en casa «sí, entra» en la balanza. ¿Qué significa entonces que usarla sea «cosa del profesor»? En la familia acomodada, la chica tiene cirujano dos veces, su profesor por la mañana y su madre por la noche. En la humilde, solo por la mañana, y por la mañana la máquina no añade nada."
+    },
+    {
+     "equipo": "favor",
+     "rol": "refutador1",
+     "nombre": "Sergio Mas",
+     "tipo": "interpelacion",
+     "texto": "Candela, con tu prueba del bisturí: en Tennessee, según el NBER, quienes usaron Khanmigo mejoraron en matemáticas frente a su grupo de control [2540]. ¿Salió el paciente mejor que sin él, sí o no?"
+    },
+    {
+     "equipo": "contra",
+     "rol": "refutador2",
+     "nombre": "Candela Ríos",
+     "tipo": "respuesta",
+     "texto": "Mejor que sin operar, sí, Sergio, algo. Mejor que con el bisturí de antes, no, porque sus autores dicen que se parece a practicar en Khan Academy sin IA [2540]. Curó la práctica, no la máquina. Y lo que no añade, tampoco reparte."
+    },
+    {
+     "equipo": "contra",
+     "rol": "refutador2",
+     "nombre": "Candela Ríos",
+     "tipo": "discurso",
+     "texto": "Segundo choque, la igualdad. Alba pregunta con qué dinero y ofrece multiplicar al profesor por unos veinte dólares al año [1003]. Pero le concedió a Ainhoa que Tutor CoPilot mejoró la prueba breve de cada sesión, no el examen final, y sus propios autores, para un curso entero, calculan prácticamente cero [2531]. Y multiplicar por cero da cero.\n\n¿Por qué no iguala? Porque la misma herramienta cae en casas distintas. Según Dang y Behrman, quién gana depende de qué sustituye la herramienta y de cómo responde cada hogar, y por eso repartirla puede ampliar el acceso sin reducir la brecha [2502]. En la familia que paga academia, y casi la mitad lo hace, con más gasto cuanto más rica [1506], la IA se suma al profesor particular. En la que no puede pagarla, ocupa su sitio. Una suma y una sustitución no dan una igualdad.\n\n¿Que la privada no renunciará? Claro, y esa es nuestra prueba. La misma herramienta entra en los dos colegios, y según PISA la pública queda muy por debajo en capacidad para enseñar con medios digitales, que incluye formación y tiempo para planificar [3721]. Y la «lista de tareas» de Alba, formar a tres de cada cuatro docentes que no saben enseñar con ella [2007], también se paga. La pregunta del dinero vale para los dos."
+    },
+    {
+     "equipo": "favor",
+     "rol": "introductor",
+     "nombre": "Carla Vidal",
+     "tipo": "interpelacion",
+     "texto": "Candela, la capacidad que dices que le falta a la pública incluye tiempo para planificar. Si en los institutos ingleses la IA recortó casi un tercio ese tiempo [1008], ¿no ayuda justo a la pública?"
+    },
+    {
+     "equipo": "contra",
+     "rol": "refutador2",
+     "nombre": "Candela Ríos",
+     "tipo": "respuesta",
+     "texto": "Al profesor, sí, Carla, unos veinticinco minutos a la semana y con guía [1008]. Al alumno, ese ensayo no lo midió. Y el minuto ahorrado rinde donde hay formación, que según PISA también le falta a la pública [3721]. Por ahí va mi tercer choque."
+    },
+    {
+     "equipo": "contra",
+     "rol": "refutador2",
+     "nombre": "Candela Ríos",
+     "tipo": "discurso",
+     "texto": "Tercer choque, el docente. Alba dice que, con borradores de IA, los profesores dan más y mejor retroalimentación [1016]. Pero esa misma revisión de Stanford concluye que la IA no mejora el aprendizaje de forma consistente [1016]. Mejora el comentario en el margen, no lo que sabe el alumno. Y su directora advierte que, si un centro no va a diseñar sus clases para aprovecharla, ella no la usaría [2537]. ¿Qué centros tienen tiempo para diseñar? Los que PISA sitúa arriba, que no son los públicos [3721].\n\nHago el marcador. En aprendizaje real, Tennessee da lo mismo que sin IA y Tutor CoPilot no llega al examen final. En la brecha, Nigeria y Sierra Leona dieron más a quien ya iba delante [2504][2534]. Y los riesgos, del detector que acusa a la recién llegada [2006] a la pública peor preparada, viajan hacia abajo.\n\nAlba nos pide votar la respuesta de Hugo, «su profesor, siempre». Votadla, porque es la nuestra. Si el beneficio lo pone el profesor, no lo pone la herramienta. Esta noche, en la primera cocina, una madre preguntará «¿y eso cómo lo has sacado?». En la segunda contestará la pantalla. Contrapunto ha demostrado que la inteligencia artificial acompaña a quien ya tiene compañía, no que ayude a quien está sola. Por la chica de la segunda cocina, os pedimos el voto en contra."
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 9,
+   "key": "ref3_favor",
+   "nombre": "Refutación cruzada de Contrapunto (a favor)",
+   "seg": 90,
+   "equipo": "favor",
+   "tipo": "cruzada",
+   "rol": "refutador2",
+   "turnos": [
+    {
+     "equipo": "favor",
+     "rol": "refutador2",
+     "nombre": "Alba Ruiz",
+     "tipo": "discurso",
+     "texto": "Candela dice que, si el beneficio lo pone el profesor, no lo pone la herramienta. Con esa regla, el bisturí que ella aceptó no ha curado nunca a nadie. Cierro tres choques.\n\nPrimero, quién pone el beneficio. Carla juzgó la IA en manos de docentes desde el principio, y Hugo ha acabado diciendo «su profesor, siempre». Sergio preguntó si en Tennessee el paciente salía mejor, y Candela contestó «mejor que sin operar, sí» [2540]. Dos cursos en el aula, ni rastro de muleta y algo de mejora. Ya no se discute si aporta, sino cuánto.\n\nSegundo, la igualdad. Ainhoa concedió que los que iban detrás «avanzaron», y Candela, que repartirla «puede ampliar el acceso» [2502]. Proponen un tutor humano para todos, y del dinero solo dicen que la pregunta «vale para los dos». Exacto. Gana quien multiplica al profesor que ya está, no quien promete otro que hoy solo pagan algunos [1506].\n\nTercero, el docente, ganado por concesión. «Para el profesor, sí, y lo celebramos», dijo Ainhoa, y Candela lo repitió. Solo pedían que llegara al alumno, y llega, porque mejor retroalimentación acaba en su cuaderno [1016].\n\nY la segunda cocina. Candela lo admite, esta noche «contestará la pantalla», con escuela o sin ella. Solo se decide si a las nueve alguien le enseñó a pedirle pistas y no respuestas. Muleta o andamio. Faro quiere al profesor. Nosotros también, con la herramienta en la mano. Por eso, sí."
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 10,
+   "key": "ref3_contra",
+   "nombre": "Refutación cruzada de Faro (en contra)",
+   "seg": 90,
+   "equipo": "contra",
+   "tipo": "cruzada",
+   "rol": "refutador2",
+   "turnos": [
+    {
+     "equipo": "contra",
+     "rol": "refutador2",
+     "nombre": "Candela Ríos",
+     "tipo": "discurso",
+     "texto": "Según Alba, con nuestra regla el bisturí no ha curado nunca a nadie. No, Alba, la regla la puso Carla. Beneficioso es lo que aporta más de lo que cuesta. Cierro tres choques.\n\nPrimero, el aprendizaje. Alba dice que ya solo se discute cuánto. Tennessee lo respondió. Dos cursos con docentes y tutor de pistas dieron lo mismo que practicar sin IA [2540], y Tutor CoPilot, para un curso entero, prácticamente cero [2531]. Y su retroalimentación mejora el comentario, no el aprendizaje [1016]. El paciente mejora, pero igual que con el bisturí de antes. Aporta lo mismo y cuesta más. Choque nuestro.\n\nSegundo, la igualdad. Alba me atribuye que repartirla «puede ampliar el acceso», y se deja la mitad de la frase de Dang y Behrman, «sin reducir la brecha» [2502]. En la familia que paga academia [1506], la IA se suma al profesor particular. En la que no puede, ocupa su sitio. Una suma y una sustitución no dan una igualdad. Por eso en Nigeria y Sierra Leona ganó más quien ya iba delante [2504][2534]. Choque nuestro.\n\nTercero, la segunda cocina. Esta noche contestará la pantalla, «con escuela o sin ella», dice Alba. Entonces su IA en el aula no cambia esa cocina, y ese es nuestro caso. Allí domina delegar [1531], y su andamio no llega hasta las nueve.\n\nContrapunto ha demostrado que ayuda a la primera cocina, donde ya había alguien. Nadie ha demostrado que ayude a la segunda. Por esa chica, en contra."
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 11,
+   "key": "conclusion_contra",
+   "nombre": "Conclusión de Faro (en contra)",
+   "seg": 180,
+   "equipo": "contra",
+   "tipo": "conclusion",
+   "rol": "conclusor",
+   "turnos": [
+    {
+     "equipo": "contra",
+     "rol": "conclusor",
+     "nombre": "Samuel Ibarra",
+     "tipo": "discurso",
+     "texto": "Al empezar, Ainhoa os habló de dos cocinas. Contrapunto nos ha contado, y bien, lo que la inteligencia artificial puede hacer en la primera. Nosotros hemos preguntado, una y otra vez, qué hace en la segunda. Ahí está la diferencia.\n\nCarla defendió que, en manos de docentes, la inteligencia artificial enseña más, devuelve tiempo al profesor y reparte mejor. Nosotros dijimos que la que hoy entra en el sistema lleva sus ventajas hacia quien ya iba delante y sus riesgos hacia quien iba detrás. Y propusimos la prueba de la segunda cocina, que mide lo que el alumno sabe hacer cuando le quitan la pantalla y no llama beneficio a lo que deja más lejos al último. Sergio aceptó medirse así. Veamos quién ha superado la prueba.\n\nEl primer choque fue el aprendizaje. Contrapunto trajo Harvard, con universitarios de Física, y Nigeria, frente a un grupo que no recibió nada [2021]. En Tennessee, en institutos de verdad, con profesores y su tutor de pistas, la IA dio lo mismo que practicar sin ella [2540], y Alba lo llamó «parecido». En Turquía, Carla reconoció que el mejor diseño solo evitó el daño [2013]. Y en la casa real domina delegar, y el examen cae una quinta parte [1531]. Lo que queda sin pantalla pesa más que lo que se hace con ella, y millones de cocinas pesan más que seis semanas de un buen programa.\n\nEl segundo choque, la igualdad, decide el debate. Contrapunto dice que los de detrás también avanzan. Es verdad. Pero en Nigeria y en Sierra Leona ganó más quien ya iba delante [2504][2534], y Dang y Behrman advierten que repartirla puede ampliar el acceso sin reducir la brecha [2502]. Alba preguntó qué institución existe para que el futuro de un niño no dependa de su familia. La escuela, claro. Por eso no puede llamar beneficio a una herramienta cuyo beneficio depende de la familia.\n\nEl tercer choque fue el docente, y su tiempo lo celebramos desde el principio. Pero Alba quiso enmarcar la frase de Hugo, «el andamio no es la máquina, es el profesor». Si el beneficio lo pone el profesor, la pregunta de Carla, su profesor o nadie, tiene respuesta fácil. Su profesor, siempre. Pero la pregunta del debate era otra, y quien dice que sí tenía que demostrarlo también para la segunda cocina.\n\nEsta noche, a las diez, una madre saldrá a trabajar y su hija abrirá el chatbot sola. Como dijo Alba, contestará la pantalla, «con escuela o sin ella». Y el día del examen, cuando se la quiten, pagará lo que la pantalla le prestó. No os pedimos miedo a la tecnología. Os pedimos que no llaméis beneficio a lo que solo beneficia a quien ya iba delante. Por la chica de la segunda cocina, os pedimos el voto en contra."
+    }
+   ],
+   "completa": true
+  },
+  {
+   "n": 12,
+   "key": "conclusion_favor",
+   "nombre": "Conclusión de Contrapunto (a favor)",
+   "seg": 180,
+   "equipo": "favor",
+   "tipo": "conclusion",
+   "rol": "conclusor",
+   "turnos": [
+    {
+     "equipo": "favor",
+     "rol": "conclusor",
+     "nombre": "Víctor Ortega",
+     "tipo": "discurso",
+     "texto": "Empezamos la tarde con el estudio favorito de Faro, el de Turquía, y lo hemos citado tanto que ya casi es nuestro. Hagamos el marcador con él en la mano.\n\nCarla defendió que, en manos de docentes y centros, la inteligencia artificial enseña más, devuelve tiempo al profesor y lleva a todos el apoyo que hoy solo pagan algunos. Y propuso juzgar sistemas reales, porque la IA ya está en las mochilas y la alternativa es que la usen solos. Faro trajo su prueba, lo que el alumno sabe cuando le quitan la pantalla, y Sergio la aceptó. Hagamos las cuentas.\n\nPrimer choque, el aprendizaje. Faro nos ha enseñado muletas, el chatbot libre de Turquía y los deberes que en China se delegan sin nadie al lado. Nosotros, andamios, el tutor de pistas que evita el daño y Nigeria, donde mejoró hasta el examen del trimestre [1002]. ¿Y Tennessee? Candela le concedió a Sergio «mejor que sin operar, sí». El daño aparece cuando nadie diseña, y el diseño lo controla la escuela. Choque nuestro.\n\nSegundo choque, la igualdad, el que Faro llamó decisivo. Ainhoa dijo que los de detrás «avanzaron, aunque menos», y Hugo, sobre enseñar a evaluar la IA, «enseñárselo a todos, claro». Su alternativa era un tutor humano para todos, y de quién lo paga solo dijeron que la pregunta «vale para los dos». Mientras, casi la mitad de las familias ya lo compra [1506]. Mejorar no es igualar, pero tampoco es empeorar. Y entre un sistema donde todos avanzan y otro donde la chica de la segunda cocina se queda sola con la pantalla, la brecha la abre el segundo. Choque nuestro.\n\nTercer choque, el docente, y aquí ni hubo partido. «Para el profesor, sí, y lo celebramos», dijo Ainhoa, y Candela lo repitió. Y lo que gana un docente, como dijo Carla, lo gana el sistema. Concedido.\n\nQueda el choque de fondo, quién pone el beneficio. Hugo nos dejó la frase, «el andamio no es la máquina, es el profesor». Alba la quiso enmarcar, porque un andamio nunca se ha montado solo. Que funcione en manos del profesor es justo lo que vinimos a defender.\n\nMarcador final. Aprendizaje, nuestro, porque el daño era muleta. Igualdad, nuestra, porque los de detrás avanzan. Docente, concedido. Y cuando el rival contesta a tu pregunta con tu respuesta, el marcador se hace solo.\n\nVuelvo a Turquía. Aquel estudio nos ha enseñado toda la tarde que una muleta, sin nadie que la piense, debilita. Faro nos pide que, como existen muletas, renunciemos a los andamios. Nosotros pedimos que el sistema coja esta herramienta, la diseñe, la enseñe y la retire cuando el edificio se tenga en pie. Carla os preguntó quién preferís que les enseñe a usarla, su profesor o nadie. Hugo respondió «su profesor, siempre». Nosotros también. Por eso, sí."
+    }
+   ],
+   "completa": true
+  }
+ ],
+ "jurado": {
+  "ganador": "contra",
+  "votos": [
+   {
+    "juez": "Carmen Llorens",
+    "perfil": "Jueza de fondo",
+    "voto": "contra"
+   },
+   {
+    "juez": "Álex Moreno",
+    "perfil": "Juez de forma",
+    "voto": "contra"
+   },
+   {
+    "juez": "Isabel Garrigós",
+    "perfil": "Jueza principal",
+    "voto": "favor"
+   }
+  ],
+  "decision": "2-1",
+  "items": {
+   "nombres": [
+    "Contextualización de la pregunta",
+    "Veracidad y verosimilitud de los argumentos",
+    "Profundidad y complejidad de los argumentos",
+    "Diversidad y veracidad de evidencias, citas y ejemplos",
+    "Adecuación a la premisa del debate",
+    "Refuta los argumentos del contrario",
+    "Uso adecuado de la lógica y ausencia de falacias",
+    "Preguntas (concesión, realización y respuestas)",
+    "Comienzos cautivadores y finales contundentes",
+    "Naturalidad y expresividad",
+    "Dominio del espacio",
+    "Contacto visual y dominio de voz y silencios",
+    "Equilibrio entre los miembros del equipo"
+   ],
+   "favor": [
+    5.0,
+    4.0,
+    4.0,
+    4.33,
+    4.33,
+    4.33,
+    3.67,
+    4.33,
+    4.0,
+    4.33,
+    3.33,
+    4.33,
+    4.67
+   ],
+   "contra": [
+    4.33,
+    4.0,
+    4.33,
+    4.67,
+    4.0,
+    4.33,
+    3.67,
+    5.0,
+    5.0,
+    4.33,
+    4.0,
+    4.67,
+    4.67
+   ]
+  },
+  "puntuacion": {
+   "favor": {
+    "items": 54.65,
+    "penalizaciones": 3,
+    "total": 51.65,
+    "avisos": 2,
+    "leves": 0,
+    "graves": 0
+   },
+   "contra": {
+    "items": 57.0,
+    "penalizaciones": 0,
+    "total": 57.0,
+    "avisos": 1,
+    "leves": 0,
+    "graves": 0
+   }
+  },
+  "puntos_oradores": {
+   "Candela Ríos": 9,
+   "Hugo Bravo": 3,
+   "Carla Vidal": 1,
+   "Ainhoa Martí": 2,
+   "Alba Ruiz": 1,
+   "Sergio Mas": 2
+  },
+  "mejor_orador": "Candela Ríos",
+  "mejores": [
+   "Candela Ríos",
+   "Hugo Bravo",
+   "Ainhoa Martí"
+  ],
+  "mejor_por_puesto": {
+   "introductor": "Carla Vidal",
+   "refutador1": "Hugo Bravo",
+   "refutador2": "Candela Ríos",
+   "conclusor": "Samuel Ibarra"
+  },
+  "notas_intervenciones": [
+   {
+    "n": 1,
+    "orador": "Carla Vidal",
+    "nota": 4.7,
+    "comentario": ""
+   },
+   {
+    "n": 2,
+    "orador": "Carla Vidal",
+    "nota": 4.3,
+    "comentario": ""
+   },
+   {
+    "n": 3,
+    "orador": "Ainhoa Martí",
+    "nota": 5.0,
+    "comentario": ""
+   },
+   {
+    "n": 4,
+    "orador": "Ainhoa Martí",
+    "nota": 4.3,
+    "comentario": ""
+   },
+   {
+    "n": 5,
+    "orador": "Sergio Mas",
+    "nota": 4.3,
+    "comentario": ""
+   },
+   {
+    "n": 6,
+    "orador": "Hugo Bravo",
+    "nota": 4.7,
+    "comentario": ""
+   },
+   {
+    "n": 7,
+    "orador": "Alba Ruiz",
+    "nota": 4.3,
+    "comentario": ""
+   },
+   {
+    "n": 8,
+    "orador": "Candela Ríos",
+    "nota": 5.0,
+    "comentario": ""
+   },
+   {
+    "n": 9,
+    "orador": "Alba Ruiz",
+    "nota": 3.7,
+    "comentario": ""
+   },
+   {
+    "n": 10,
+    "orador": "Candela Ríos",
+    "nota": 4.7,
+    "comentario": ""
+   },
+   {
+    "n": 11,
+    "orador": "Samuel Ibarra",
+    "nota": 4.0,
+    "comentario": ""
+   },
+   {
+    "n": 12,
+    "orador": "Víctor Ortega",
+    "nota": 3.7,
+    "comentario": ""
+   }
+  ],
+  "incidencias_evidencias": [
+   {
+    "id": 2502,
+    "problema": "Refutación cruzada de Alba Ruiz (fase 9): presenta como concesión de Candela que repartir la IA «puede ampliar el acceso» y corta la frase justo antes de «sin reducir las brechas de aprendizaje», que es lo que dice la ficha. Al cortarla le da la vuelta al sentido. Candela lo señaló en la fase 10. No lo cuento como dato falso, pero es un uso fraudulento de la cita."
+   },
+   {
+    "id": 2504,
+    "problema": "Sergio Mas (fase 5) dice que la revisión «explica» que los favorecidos ganan más porque aprenden más a menudo a evaluar lo que produce la IA. La ficha solo recoge ese dato de PISA y añade expresamente que «ninguno de los dos gradientes muestra una diferencia en el aprendizaje». La explicación causal no está en la fuente."
+   },
+   {
+    "id": 2540,
+    "problema": "Comprobado: Khanmigo en Tennessee mejoró frente al control (de 0,06 a 0,08 DE), con ganancias «parecidas a las de practicar con Khan Academy sin asistencia de IA», y el alumno mediano escribía en un tercio de los días. Faro lo usa bien. Alba y Víctor (fases 9 y 12) convierten el «mejor que sin operar» de Candela en «ya no se discute si aporta», cuando la concesión se refería al control y no a la alternativa sin IA. La ficha 2503 da un intervalo [−0,01; 0,13] que incluye el cero y que ningún equipo usó."
+   },
+   {
+    "id": 1001,
+    "problema": "Carla Vidal (fase 1) presenta el ensayo de Harvard como prueba general sin decir que son 194 universitarios de Física. La ficha 2015 recoge la cautela de los propios autores sobre su generalización. Sergio tuvo que concederlo en una interpelación."
+   },
+   {
+    "id": 1533,
+    "problema": "Comprobado que los usuarios diarios a los que en clase se les pide evaluar la IA sacan 13 puntos más que los demás usuarios diarios. Pero es un dato correlacional, y la misma ficha dice que quien redacta con IA a diario saca 28 puntos menos que quien nunca la usa. Sergio lo omite al presentarlo como prueba de que supera el criterio de la «pantalla apagada», y Faro no lo aprovechó."
+   },
+   {
+    "id": 2505,
+    "problema": "Ainhoa Martí (fase 3) dice «casi todos sus deberes». La ficha de Pew dice «todos o la mayoría» y «con ayuda de chatbots», así que el dato está ligeramente inflado. Además son datos de Estados Unidos aplicados al sistema español sin advertirlo. No llega a dato falso, y Hugo lo citó después correctamente."
+   },
+   {
+    "id": 2531,
+    "problema": "Candela Ríos llama «prácticamente cero» a la estimación de los autores para un curso completo de Tutor CoPilot. Es razonable: los autores dan 0,024 DE como cálculo aproximado y advierten de que su diseño no permite estimarlo directamente. Pero «multiplicar por cero da cero» exagera lo que dice la fuente."
+   },
+   {
+    "id": 1016,
+    "problema": "Uso forzado por los dos lados. Alba afirma que la mejor retroalimentación «acaba en el cuaderno», y la ficha no lo dice. Candela usa contra la retroalimentación docente la frase de que la IA «no mejora el aprendizaje de forma consistente», que en la ficha se refiere a los tipos de uso del alumnado."
+   },
+   {
+    "id": 1504,
+    "problema": "Verificado a favor de Alba: según TALIS, el 75 % que dice no saber enseñar con IA son docentes que no la han usado. Hugo citó el 75 % de la ficha 2007 sin ese matiz. Es una corrección precisa que va a la raíz del dato."
+   },
+   {
+    "id": 1008,
+    "problema": "Verificado a favor de Candela: el ahorro es de 81,5 a 56,2 minutos semanales (unos 25 minutos), con guía, y la EEF pide cautela con la calidad. Contrapunto lo presentó como «casi un tercio», que también es correcto."
+   },
+   {
+    "id": 2502,
+    "problema": "Refutación cruzada de Alba Ruiz: presenta como concesión de Candela que repartir la IA «puede ampliar el acceso» y corta la frase. La ficha dice «puede ampliar el acceso sin reducir las brechas de aprendizaje». Es una cita mutilada que cambia el sentido. Candela lo denunció en su turno. No la sanciono como dato falso porque el fragmento está en la ficha, pero le costó credibilidad a Contrapunto."
+   },
+   {
+    "id": 2504,
+    "problema": "Sergio Mas dice que la revisión «lo explica»: los de delante ganan más porque aprenden más a menudo a evaluar lo que produce la IA. La ficha sí dice que los favorecidos aprenden con más frecuencia a evaluar la IA, pero añade que «ninguno de los dos gradientes muestra una diferencia en el aprendizaje». La relación causal la pone el orador, no la ficha. Lo trato como una exageración leve, sin sanción."
+   },
+   {
+    "id": 2007,
+    "problema": "Hugo Bravo: «tres de cada cuatro profesores de secundaria dicen no saber enseñar con ella». La ficha 2007 lo formula de manera ambigua, y la 1504 (TALIS) aclara que ese 75 % es de los docentes que no usan IA, que son el 65 %. Alba lo corrigió bien con la [1504]. Sin sanción: la redacción de la 2007 admite la lectura de Hugo."
+   },
+   {
+    "id": 2540,
+    "problema": "Lo he comprobado: las ganancias de Khanmigo «se parecen a las de practicar con Khan Academy sin asistencia de IA», y el alumno mediano le escribió en un tercio de los días de práctica. Las dos lecturas tienen respaldo en la ficha: la de Faro («lo mismo que sin IA») y la de Sergio (mejora frente al control, +0,06-0,08 DT). Este choque decidió buena parte del aprendizaje."
+   },
+   {
+    "id": 1002,
+    "problema": "Comprobado. Todos los niveles iniciales mejoraron, más los de mejor nivel previo. El examen ordinario del tercer trimestre subió 0,21 DT. Los autores atribuyen el efecto a algo más que a las horas extra. Las versiones de Carla y de Sergio son fieles. Que fuera un examen «sin pantalla» lo infiere Sergio; es verosímil."
+   },
+   {
+    "id": 2013,
+    "problema": "Comprobado: el daño «queda prácticamente eliminado» con GPT Tutor, sin efecto positivo, y los alumnos creían haber rendido mejor. Carla, Hugo y Samuel lo citan bien."
+   },
+   {
+    "id": 1533,
+    "problema": "Comprobado. La cita de Schleicher («un andamio, no una muleta») y los 13 puntos de los usuarios diarios a los que en clase se les pide evaluar la IA están en la ficha."
+   },
+   {
+    "id": 2505,
+    "problema": "Ainhoa dice «casi todos sus deberes» y la ficha dice «todos o la mayoría». Lo de uno de cada catorce en los hogares acomodados (7 %) está bien. Diferencia menor, sin sanción."
+   },
+   {
+    "id": 2007,
+    "problema": "Hugo (y luego Candela) dijeron que «tres de cada cuatro profesores de secundaria dicen no saber enseñar con ella». La ficha 2007 (INEE) lo dice tal cual, así que no es un dato falso. Pero la ficha 1504 (nota de país de la OCDE) precisa que ese 75 % se refiere a los docentes que no han usado la IA. Alba lo corrigió bien y Candela repitió la cifra sin contestar a la corrección. No se sanciona."
+   },
+   {
+    "id": 2502,
+    "problema": "En la refutación cruzada, Alba atribuyó a Candela que repartir la IA «puede ampliar el acceso» y omitió el final de la frase de Dang y Behrman, «sin reducir la brecha». Candela lo detectó y lo corrigió. No es un dato falso, pero sí una cita recortada que tergiversa al rival; se valora en el ítem 7."
+   },
+   {
+    "id": 2531,
+    "problema": "Candela resumió como «prácticamente cero» el +0,024 DE que los autores estiman a ojo para un curso entero, y remató con «multiplicar por cero da cero». La caracterización se puede aceptar, pero el remate exagera: no es una medición, es un cálculo aproximado, y el efecto no es nulo. No se sanciona."
+   },
+   {
+    "id": 2540,
+    "problema": "Faro dijo que Tennessee «dio lo mismo que practicar sin IA». En la ficha, el parecido con Khan Academy sin IA es una observación de los autores, no un grupo del ensayo, y el efecto frente al control es positivo (+0,06 a 0,08 DE; según la 2503, con un intervalo que incluye el cero). La formulación de Faro se sostiene, y la interpelación de Sergio también es correcta."
+   },
+   {
+    "id": 2504,
+    "problema": "Sergio dijo que la revisión «lo explica»: que los favorecidos ganan más porque aprenden más a menudo a evaluar lo que produce la IA. La ficha recoge ese gradiente de PISA, pero no lo presenta como explicación del gradiente de Nigeria, y añade que ninguno de los dos gradientes muestra diferencia en el aprendizaje. Es un estiramiento de la ficha; no se sanciona."
+   },
+   {
+    "id": 1001,
+    "problema": "Sergio dijo que «Harvard sí lo comparó» para responder a la alternativa de «esas mismas horas con un profesor». El ensayo compara con aprendizaje activo en clase, en dos lecciones y con universitarios de Física (ficha 2015), no con horas equivalentes de tutoría. Él mismo concedió la población. La comparación solo es parcial; no se sanciona."
+   },
+   {
+    "id": 2505,
+    "problema": "Ainhoa habló de «casi todos sus deberes»; la ficha dice «todos o la mayoría». Imprecisión menor que no cambia el argumento. «Uno de cada catorce» se ajusta al 7 %."
+   },
+   {
+    "id": 1531,
+    "problema": "Sergio atribuyó a los autores la propuesta de «enseñar a usarla para aprender, exámenes presenciales y docentes que supervisen». La etiqueta de la ficha lo respalda; la cita habla de informar de los costes, dar más peso a la evaluación presencial y supervisar los insumos. Se acepta."
+   },
+   {
+    "id": 1008,
+    "problema": "Verificada. Lo de «casi un tercio» (31 %) y los «unos veinticinco minutos a la semana» que dio Candela (81,5 menos 56,2) son exactos, y también la cautela de la EEF sobre la calidad."
+   },
+   {
+    "id": 1002,
+    "problema": "Verificada. Los efectos son positivos y significativos en todos los niveles de partida y mayores en los de mejor nivel; hubo mejora en el examen del tercer trimestre y los autores argumentan sobre la tutoría en grupo. Las limitaciones (control sin intervención, mayor pérdida de muestra en el control, ningún brazo que separe el tiempo extra) están en la 2021. Ambos equipos la usaron fielmente."
+   }
+  ],
+  "acta": "### Carmen Llorens · Jueza de fondo · vota Faro\n\n## Papeleta de Carmen Llorens: gana Faro (EN CONTRA), por poco y por el fondo\n\nEl debate fue de alto nivel y muy igualado. Lo decido en los ítems 1 a 8, sobre todo en cómo se usaron las evidencias y en la lógica de las refutaciones. La forma solo confirma el resultado.\n\n### Choque 1. ¿Enseña más la IA en manos de docentes? Lo gana Faro\nContrapunto se apoyó en varios ensayos aleatorizados con efectos positivos: Nigeria [1002], con mejora también en el examen trimestral sin pantalla, Sierra Leona, Ghana y Harvard [1001]. Además usó la OCDE [1019] y PISA [1533]. Faro fue a la raíz con un criterio metodológico correcto: hay que comparar con la alternativa, no con no hacer nada.\n- En Nigeria, el grupo de control no recibió nada [2021].\n- Harvard son universitarios de Física, y Sergio lo concedió.\n- El tutor de pistas de Turquía solo igualó al control [2013].\n- Tutor CoPilot no mejora el examen final [1003][2531].\n- Tennessee [2540] fue decisivo. El andamio de Contrapunto se probó tal cual: dos cursos, en manos de los docentes, configurado para guiar. Dio ganancias parecidas a practicar sin IA.\n\nLa respuesta de Contrapunto («tener acceso no es usarla; que lo use es cosa del profesor») es una promesa sin pruebas. Además, en la refutación cruzada leyó mal la concesión de Candela («mejor que sin operar» no significa «aporta sobre la alternativa»). Candela tomó la definición de la propia Carla («aporta más de lo que cuesta») para formular el test del valor añadido, y eso fue el mejor movimiento lógico de la tarde. Le resto, eso sí, que afirmó que «cuesta más» sin aportar ningún dato de costes.\n\n### Choque 2. Igualdad. Lo gana Faro, por poco\nLas pruebas de Faro sobre heterogeneidad son sólidas y coinciden entre sí: Nigeria [2021][2504], Sierra Leona [2534] y Dang y Behrman [2502], con un mecanismo bien explicado («una suma y una sustitución no dan una igualdad»). Contrapunto tenía un buen argumento lógico. Los de detrás también avanzan, y Ainhoa lo concedió («mejorar no es igualar, pero tampoco es empeorar»). El contrafáctico real es la IA privada y las academias [1506][2502]. Pero el propio Contrapunto había fijado «reparte mejor» como criterio de victoria, y su única prueba de reparto favorable fue Tutor CoPilot. En ese estudio la diferencia es por calidad del tutor, no por nivel del alumno, y solo en la prueba de cada sesión. Además, Alba recortó la cita de [2502] en la refutación cruzada y perdió credibilidad justo en este choque. Faro tampoco justificó del todo por qué una brecha relativa pesa más que una ganancia para todos. Por eso el margen es estrecho.\n\n### Choque 3. El docente. Lo gana Contrapunto\nAinhoa concedió el ahorro de tiempo y Candela lo repitió. La exigencia de Faro de que «solo cuenta si llega al alumno» encaja mal con su propia idea de un sistema amplio. Contrapunto gana el choque, aunque el beneficio es modesto: 25 minutos a la semana [1008], el vínculo con el aprendizaje está sin probar [1016] y los docentes flojos empeoraron a sus alumnos [2537].\n\n### Choque 4. La segunda cocina. Prácticamente empatado\nSergio leyó bien [1531]: mide el uso autodirigido y sus autores piden escuela. Faro replicó con ingenio («quien receta un remedio no describe un beneficio»), pero si ese daño ocurre «con escuela o sin ella», no depende de que la escuela incorpore la IA. Contrapunto tampoco probó que enseñar en clase cambie lo que pasa en casa. Ninguno se impone.\n\n### Lógica\nHay errores en los dos equipos:\n- **Faro:** planteó al principio la falsa dicotomía de «lo pone el profesor, luego no la herramienta», aunque Candela la reparó como test de valor añadido. En el cierre exageró con «solo beneficia a quien iba delante», que contradice su propia concesión. Y respondió con un tu quoque cuando le preguntaron cómo se financiaba su alternativa.\n- **Contrapunto:** cerró con un falso dilema, «su profesor o nadie», cuando la alternativa real era el profesor sin la herramienta. Recortó una cita en la refutación cruzada y dio por ganados choques que seguían disputados.\n\nPeso más los errores de Contrapunto porque sostienen su cierre.\n\nEn resumen, Faro hizo un uso más riguroso de las evidencias y planteó mejores preguntas, con más concesiones aprovechables. Contrapunto ganó el pilar docente y planteó mejor el marco inicial. Pero no superó el test del valor añadido ni demostró que la IA reparta mejor.\n\n### Álex Moreno · Juez de forma · vota Faro\n\n## Decisión: gana Faro (en contra), por un margen corto\n\nHa sido un debate de muy buen nivel en los dos lados. Los dos equipos tuvieron una imagen que unió a sus cuatro oradores: andamio y muleta frente a las dos cocinas. Los dos sacaron provecho de las concesiones del rival. Lo que inclina mi papeleta es la forma: quién marcó el terreno, qué imágenes resistieron cuando el rival intentó darles la vuelta y quién cerró mejor cada choque.\n\n### 1. Marco: el sistema educativo, ¿solo el aula o también la segunda cocina? (gana Faro)\nCarla planteó bien el marco: la IA «en manos de docentes y centros». Pero en el examen cruzado concedió que el alumno que copia en casa «sí, entra» en la balanza. Ainhoa abrió con la mejor entrada del debate, las dos cocinas, y a partir de ahí todo el debate se jugó en su terreno. Sergio dio un giro brillante: la madre de la primera cocina es un andamio. Aun así, Contrapunto aceptó el criterio de la pantalla apagada y la segunda cocina como prueba. Candela y Samuel lo aprovecharon («quien dice que sí tenía que demostrarlo también para la segunda cocina»). La respuesta de Contrapunto, que a las nueve alguien le enseña a pedir pistas, no llevó ninguna prueba de que eso cambie lo que pasa a las diez de la noche.\n\n### 2. Aprendizaje y valor añadido: ¿qué aporta la máquina? (empate con ligera ventaja de Faro)\nContrapunto tenía la mejor evidencia directa. Nigeria mejoró también el examen ordinario del trimestre. Harvard comparó el tutor de IA con una clase de aprendizaje activo. La OCDE habla de mejoras que se sostienen con andamiaje. Faro desgastó esa evidencia con preguntas certeras. Samuel consiguió que Sergio admitiera que Harvard eran «universitarios de Física». Faro recordó que en Nigeria el grupo de comparación no recibió nada. Ainhoa hizo admitir a Alba que Tutor CoPilot solo mejoró la prueba de cada sesión. Y Faro trajo Tennessee. La analogía del bisturí fue el momento clave de la forma: Alba la lanzó bien y Candela la convirtió en una prueba de valor añadido («¿sale el paciente mejor que con el bisturí de antes?»). Sergio le sacó a Candela «mejor que sin operar, sí» y Contrapunto lo aprovechó. Pero la imagen ya era de Faro.\n\n### 3. Igualdad (gana Faro, por poco)\nContrapunto tuvo buenos golpes. Los de detrás también avanzan, como concedió Ainhoa. «Mejorar no es igualar, pero tampoco es empeorar.» Y quién paga el tutor humano: «la pregunta vale para los dos» fue una respuesta floja. Pero Faro dio un mecanismo claro y fácil de recordar: «una suma y una sustitución no dan una igualdad». Lo apoyó en cuatro fichas (2502, 2504, 2534 y 3721) y desmontó Tutor CoPilot como prueba de equidad: «multiplicar por cero da cero». En la refutación cruzada, Alba recortó la cita de Dang y Behrman y Candela lo detectó en voz alta. Contrapunto perdió credibilidad justo en este choque. En la conclusión, Víctor se dio la igualdad por ganada sin responder a la suma y la sustitución.\n\n### 4. El docente (gana Contrapunto)\nFaro concedió el tiempo del profesor («lo celebramos»). Alba lo convirtió en mejor retroalimentación con la [1016]. Candela contestó que esa misma revisión no ve una mejora consistente del aprendizaje, pero el beneficio para el docente quedó en pie. Contrapunto también usó bien el «su profesor, siempre» de Hugo. Faro lo neutralizó a medias («si el beneficio lo pone el profesor, no lo pone la herramienta»), y Alba lo desmontó con razón con el bisturí.\n\n### Forma (ítems 9 a 13), que es lo que más peso en mi papeleta\n- **Comienzos y finales**: las dos cocinas y el estribillo «por la chica de la segunda cocina» superan al arranque de Carla, ingenioso pero lleno de cifras (17 %, grupos, porcentajes). Víctor tuvo el mejor remate de Contrapunto («cuando el rival contesta a tu pregunta con tu respuesta, el marcador se hace solo»). Samuel cerró con una imagen más redonda («pagará lo que la pantalla le prestó»).\n- **Ritmo**: el «¿Y para quién?» de Hugo y las frases cortas de Candela dejan respirar el discurso. Sergio amontonó cuatro fichas seguidas en el bloque del criterio y sonó leído.\n- **Dominio del turno**: Contrapunto se llevó dos avisos de tiempo (Sergio +14 s, Alba +10 s) y Faro uno (Candela +15 s). Las interpelaciones de Faro sacaron concesiones que quitaban valor a la evidencia rival (Harvard, Tutor CoPilot, Tennessee). Las de Contrapunto sacaron concesiones de principio («su profesor», «enseñárselo a todos»), y Faro supo reencuadrarlas.\n- **Equilibrio**: excelente en los dos equipos.\n\nContrapunto pudo ganar con el balance de beneficios concedidos. Faro convenció más porque fijó el marco, se quedó con las imágenes del rival y cerró cada choque con frases que el jurado entiende y recuerda a la primera.\n\n### Isabel Garrigós · Jueza principal · vota Contrapunto\n\n## Decisión: gana Contrapunto (a favor), por poco\n\nHa sido un debate muy igualado y de mucha calidad, sin datos falsos en ninguna de las 31 fichas que comprobé. Faro fue mejor en el relato (las dos cocinas) y en el ataque a la calidad de la evidencia. Contrapunto respondió a la pregunta de forma más completa y sostuvo el marco del debate de principio a fin. Los choques que deciden son estos.\n\n### 1. Quién pone el beneficio, la herramienta o el profesor (Contrapunto)\nLa frase de Hugo, «el andamio no es la máquina, es el profesor», fue el eje de las últimas intervenciones. Contrapunto había definido desde el inicio la herramienta «en manos de docentes y centros» y lo beneficioso como «aporta más de lo que cuesta». Faro no discutió ninguna de las dos definiciones; solo amplió el sistema a la casa. La respuesta del bisturí que dio Alba funciona: un instrumento que mejora los resultados en manos del profesional beneficia al sistema que lo usa. Candela lo reformuló bien al comparar con «el bisturí de antes», pero el reencuadre depende de Tennessee (choque 2). Además, Faro concedió «ni prohibir ni ignorar», «enseñárselo a todos, claro» y «su profesor, siempre», que en la práctica aceptan que la IA debe estar en el aula. La distinción de Faro entre «el profesor contiene el daño» y «la herramienta aporta» quedó como dicotomía falsa.\n\n### 2. Aprendizaje: lo que queda sin pantalla (ventaja ligera para Faro)\nFaro fue más riguroso. En Nigeria, el control no recibió nada y no se separa la IA de las horas extra [2021]. Harvard se hizo con universitarios [2015]. Tutor CoPilot no mejora el examen final [1003][2531]. Y Tennessee, el andamio en institutos reales durante dos cursos, da ganancias parecidas a practicar sin IA [2540]. Contrapunto respondió con resultados positivos sin pantalla en ensayos guiados por docentes (examen trimestral en Nigeria [1002], OCDE [1019]) y con la concesión de Candela, «mejor que sin operar, sí». Pero no tuvo respuesta con evidencia para el problema de atribución de Tennessee. Aun así, todos los ensayos con docentes que se citaron dan efectos positivos frente al control, y Faro no aportó prueba del «cuesta más».\n\n### 3. Igualdad, el choque que Faro llamó decisivo (empate con matices)\nFaro tiene la evidencia más directa: en Nigeria y Sierra Leona ganan más los de delante [2504][2534], y Dang y Behrman advierten de que repartirla puede «ampliar el acceso sin reducir la brecha» [2502]. Contrapunto discutió el criterio desde el examen cruzado («mejorar no es igualar») y logró que Ainhoa concediera que los de detrás «avanzaron». Su comparativa también fue mejor: el apoyo privado ya se lo compran los que más tienen [1506][2502], y la escuela es la institución que rompe la dependencia de la familia. Faro no respondió a esto último; Samuel lo repitió sin resolverlo. Y la alternativa de Faro, tutoría humana para todos, quedó sin financiar («la pregunta del dinero vale para los dos» no es una respuesta). La frase de Faro «nadie ha demostrado que ayude a la segunda cocina» choca con su propia concesión de que los de detrás avanzaron en la escuela. Su segunda cocina acabó reducida al uso en casa, sin aula, que no es la herramienta en el sistema.\n\n### 4. El docente (Contrapunto, por concesión)\nAinhoa dijo «para el profesor, sí, y lo celebramos» y Candela lo repitió. Un 64 % del profesorado sufre estrés por el papeleo [1504], y la IA ahorra unos 25 minutos semanales de planificación [1008] y mejora la retroalimentación [1016]. Faro sostuvo que solo cuenta si llega al alumno [1016][2537], pero no rebatió que el bienestar y el tiempo docente formen parte del sistema educativo.\n\n**Balance.** Contrapunto gana el marco y el docente, y empata la igualdad gracias a su comparativa. Faro gana por poco el aprendizaje y, con claridad, la forma. En conjunto, la respuesta a si la IA es beneficiosa para el sistema queda del lado del a favor: aporta (poco o mucho) más de lo que cuesta y el rival concede que debe enseñarse en el aula. Penalizaciones: tres avisos de tiempo (Sergio, Alba y Candela), sin restar ítems. Observación: en su exposición inicial, Ainhoa se apoyó en las respuestas del examen cruzado y adelantó alguna réplica («Quizá penséis que, dentro del aula…»). No se sanciona, porque construye su línea y no desmonta argumentos concretos.",
+  "feedback_equipos": {
+   "favor": "**Carmen Llorens (jueza de fondo):** Equipo: el marco inicial era muy bueno: definición, umbral de «beneficiosa», contrafáctico realista y tres pilares con pruebas. Os faltó preparar la respuesta al test del valor añadido, es decir, qué aporta la IA frente a la misma práctica o tutoría sin IA. Llevad un ensayo escolar con control activo y datos de coste por alumno. Defended también de forma explícita el criterio de que todos mejoren aunque no por igual. Por ejemplo, casi todo recurso educativo, incluida la tutoría humana, tiene efecto Mateo. Cuidad los tiempos: dos refutaciones pasaron de los diez segundos.\n\nCarla Vidal: abrir con el estudio del rival fue inteligente, y el marco aguantó toda la tarde. Presentad Harvard desde el principio con sus límites (universitarios, dos lecciones), así no os lo descuentan después. Vuestra pregunta final, «su profesor o nadie», es un falso dilema que el rival desmonta con facilidad. Formuladla como «su profesor con la herramienta o sin ella» y probad la diferencia. En el examen cruzado, concedéis con honestidad, y eso está bien, pero preparad el reencuadre: evitar el daño frente al uso libre ya es un beneficio.\n\nSergio Mas: la lectura de [1531] fue excelente (mide el uso autodirigido y sus autores piden escuela), y te enfrentaste al criterio del rival en lugar de esquivarlo. Mejora: no atribuyas a una fuente explicaciones causales que no hace [2504]. Si usas PISA [1533], reconoce que es correlacional y que la misma ficha trae los 28 puntos en contra. Si no lo haces tú, puede hacerlo el rival. Vigila el reloj (+14 s).\n\nAlba Ruiz: el bisturí y el matiz de TALIS [1504] fueron de lo mejor del debate, y la pregunta del dinero fue certera. A Tennessee respondiste con una promesa (que lo use es cosa del profesor). Hacía falta una prueba de que con mejor implantación funciona. En la refutación cruzada, nunca recortes una cita [2502] ni estires una concesión más allá de lo que dijo el rival: te quita credibilidad justo cuando más la necesitas. Tiempo: +10 s.\n\nVíctor Ortega: buenas preguntas en el examen cruzado y una interpelación que arrancó una concesión útil. El marcador final era claro. Pero en una conclusión no basta con declarar ganados los choques. Pondera los choques disputados y responde a la prueba más fuerte del rival (Tennessee, la heterogeneidad), o el jurado notará que la saltas.\n\n**Álex Moreno (juez de forma):** EQUIPO. La cohesión ha sido excelente. Andamio y muleta, y la pregunta «¿su profesor o nadie?», pasaron por los cuatro discursos y el jurado siempre sabía dónde estaba. Para el próximo debate: no aceptéis el criterio del rival sin defender antes el vuestro. Al decir «lo aceptamos y lo superamos», tuvisteis que ganar en su terreno, la cocina sin escuela. Preparad también una respuesta directa a «¿qué añade la máquina que no añada el profesor solo?». Esa pregunta os persiguió todo el debate.\n\nCARLA VIDAL (introductora). Empezar con el estudio favorito del rival fue una jugada valiente e inteligente, y la imagen del andamio y la muleta articuló todo vuestro caso. La contextualización fue sólida: definición, qué es beneficioso, el dato del 8 % de PISA y un criterio claro. Para mejorar: los primeros diez segundos cargan cifras y grupos experimentales; abrid con la imagen y dejad el dato para después. En cada uno de los tres argumentos encadenaste dos o tres estudios; elige uno y explícalo despacio, que el jurado lo recuerde. En el examen cruzado fuiste honesta y precisa («la misma»), pero esa concesión la usaron tres oradores rivales: cuando concedas, añade tu marco en la misma frase («evitar el daño ya es un beneficio porque...»). Cuidado con el tiempo (+6 s).\n\nSERGIO MAS (refutador 1). Convertir la madre de la primera cocina en un andamio fue el mejor giro de vuestro equipo. Citar las palabras exactas del rival («ni prohibir ni ignorar») le da mucha fuerza a tu refutación. Para mejorar: en el bloque del criterio encadenaste Nigeria, la OCDE, PISA y Harvard casi sin respirar, y sonó amontonado; con dos fichas bien explicadas habrías convencido más. En las interpelaciones concediste con limpieza («sin ninguna mejora», «universitarios de Física»), pero esas frases volvieron contra vosotros. Practica conceder con un reencuadre inmediato. Atribuiste a la [2504] una explicación causal que la ficha no da. El tiempo te pasó del límite (+14 s).\n\nALBA RUIZ (refutadora 2 y de la refutación cruzada). Tus frases fueron las más memorables del equipo: «por eso se llama andamio y no ascensor», el bisturí, «muleta no, andamio sí». Corregir con la [1504] que el 75 % eran docentes que aún no usan la IA fue un gran hallazgo. Los tres choques estuvieron muy bien numerados. Para mejorar: cuando lances una analogía, blíndala antes de que el rival la gire; el bisturí acabó siendo una prueba de valor añadido contra vosotros. En la refutación cruzada recortaste la cita de Dang y Behrman («puede ampliar el acceso»), te pillaron y perdiste credibilidad justo en el choque de igualdad: cita completo aunque te cueste. En las interpelaciones, «parecido, sí» y «solo la de cada sesión» necesitaban tu marco pegado a la concesión. Tiempo: +10 s.\n\nVÍCTOR ORTEGA (conclusor). Volver al estudio de Turquía («ya casi es nuestro») cerró el círculo con elegancia, y «cuando el rival contesta a tu pregunta con tu respuesta, el marcador se hace solo» es un final de los que se recuerdan. Tu pregunta en el examen cruzado sobre avanzar o no avanzar fue útil. Para mejorar: el marcador se declaraba «nuestro» choque a choque sin nombrar el mejor argumento rival (la suma frente a la sustitución, Tennessee). Una conclusión convence más cuando reconoce el golpe del contrario y explica por qué pesa menos. Repetir «choque nuestro» cuatro veces se acerca a lo telegráfico; varía la cadencia.\n\n**Isabel Garrigós (jueza principal):** **Equipo.** Habéis tenido una imagen fuerte y coherente, andamio frente a muleta, que han usado los cuatro oradores. Habéis aprovechado muy bien las concesiones del rival y habéis sido honestos al conceder lo que no podíais negar, y eso da credibilidad. Para el siguiente debate os falta una línea con evidencia sobre qué añade la IA frente a la misma práctica o el mismo tiempo sin IA (el problema de atribución de Tennessee y Nigeria). Preparad también una respuesta al criterio de la brecha relativa: llevad la reducción al absurdo (casi cualquier mejora educativa la aprovechan más los de delante) y datos comparativos, no solo «mejorar no es igualar».\n\n**Carla Vidal (introductora).** Muy buen comienzo: adelantaros a Turquía os dio la iniciativa, y vuestras definiciones (beneficiosa = aporta más de lo que cuesta; en manos de docentes) marcaron todo el debate. En el examen cruzado respondiste con precisión y honestidad. Para mejorar: di la población de cada estudio desde el principio (Harvard, universitarios) para no regalarle un punto fácil al rival. Y conecta ya en la exposición el tiempo del docente con resultados del alumno; tenías la 1016 para eso.\n\n**Sergio Mas (refutador 1).** Una refutación de las que sostienen un caso. Usaste las fuentes del rival en su contra (las recomendaciones de los autores de la 1531, el criterio de la pantalla apagada) y en las interpelaciones concediste con elegancia. Para mejorar: no estires las fichas. La 2504 no «explica» el gradiente de Nigeria, y Harvard no compara con «esas mismas horas con un profesor». Anticipa la crítica metodológica a Nigeria (control sin intervención, pérdida de muestra) antes de que la saquen. Cuida el reloj: te pasaste unos 14 s.\n\n**Alba Ruiz (refutadora 2 y refutación cruzada).** El bisturí y la corrección del 75 % de TALIS con la 1504 fueron de lo mejor de la tarde, y la estructura en tres choques era clara. Para mejorar: no recortes una cita del rival. Quitar el «sin reducir la brecha» a la 2502 te lo pillaron y resta credibilidad justo en el cierre. Cuando concedes en una interpelación («parecido», «solo la de cada sesión»), reencuadra enseguida con una evidencia, no solo con un argumento. Sobre Tennessee, «que lo use es cosa del profesor» necesitaba un dato. Ajusta el tiempo, que te pasaste en las dos intervenciones.\n\n**Víctor Ortega (conclusor).** En el examen cruzado tus preguntas sacaron concesiones clave («avanzar, claro», «para el profesor, sí»), y el cierre fue rotundo y bien escrito. Para mejorar: una conclusión tiene que pesar la mejor evidencia del rival, no solo enumerar sus concesiones. Proclamar «Aprendizaje, nuestro» sin tocar la comparación de Tennessee con la práctica sin IA ni el examen final de Tutor CoPilot deja un hueco que un jurado ve. Responde también a la distinción del rival (que el profesor ponga el beneficio) en lugar de repetir solo «su profesor o nadie».",
+   "contra": "**Carmen Llorens (jueza de fondo):** Equipo: la imagen de las dos cocinas y la pregunta «¿y para quién?» dieron coherencia a todo el caso. Las críticas metodológicas (control pasivo, validez externa, valor añadido) fueron de mucho nivel. Justificad mejor, desde la exposición, por qué una brecha relativa pesa más que una ganancia para todos. Y explicad por qué el daño en casa cuenta contra la herramienta si ocurre con escuela o sin ella. Llevad una alternativa con financiación: «la pregunta del dinero vale para los dos» es un tu quoque, no una respuesta.\n\nAinhoa Martí: la apertura fue cautivadora, el criterio quedó bien construido y excluir los apoyos por discapacidad fue un acierto. En el examen cruzado respondiste con evidencias precisas. Mejora: anticipa concesiones previsibles como «ni prohibir ni ignorar» o «avanzar, claro», y prepara una frase que proteja el caso al hacerlas. Cuida los datos: Pew dice «todos o la mayoría», no «casi todos», y es Estados Unidos, no España.\n\nHugo Bravo: introdujiste Tennessee en el momento justo y desmontaste bien la pregunta «su profesor o nadie». «Si el beneficio lo pone el profesor, no lo pone la herramienta» es, tal como lo dices, una falsa dicotomía. Formula desde el principio la versión válida (¿qué añade sobre la alternativa sin IA?). Tenías más munición sin usar: el intervalo que incluye el cero [2503] y los 28 puntos de [1533].\n\nCandela Ríos: girar el bisturí con la definición de la propia Carla fue el mejor movimiento lógico del debate. Los 25 minutos y la cita recortada que detectaste muestran mucho rigor. Mejora: «cuesta más» necesita datos de coste, y «multiplicar por cero da cero» exagera [2531]. Usar contra la retroalimentación docente una frase de [1016] sobre el uso del alumnado es forzado. Fuiste al límite del tiempo (+15 s).\n\nSamuel Ibarra: estructura de choques clara y un cierre con imagen potente. No digas que «solo beneficia a quien ya iba delante» cuando tu equipo concedió que los de detrás avanzan: el jurado lo detecta. «Millones de cocinas pesan más que seis semanas» es una comparación de escala sin datos. En la conclusión, pondera solo lo que quedó probado, incluido el choque del docente, en lugar de limitarte a concederlo.\n\n**Álex Moreno (juez de forma):** EQUIPO. La segunda cocina fue un marco narrativo excelente. Los cuatro lo sostuvisteis y convertisteis cifras en personas («en una clase de treinta, seis frente a dos»). Vuestras preguntas e interpelaciones fueron quirúrgicas y desgastaron la evidencia rival. Para el próximo debate: preparad una alternativa concreta y con coste. «La pregunta del dinero vale para los dos» fue la respuesta más floja de la tarde. Y responded a la objeción de que la segunda cocina tampoco cambia si la escuela renuncia a la IA.\n\nAINHOA MARTÍ (introductora). Las dos cocinas fueron el mejor comienzo del debate: visual, humano y fácil de recordar, y el estribillo final lo cerró con fuerza. El criterio quedó claro y dejar fuera los apoyos por discapacidad acotó bien el debate. Para mejorar: apoyarte en lo que Carla concedió en el examen cruzado es eficaz, pero dedicaste un buen rato a contestar al rival en tu exposición inicial; cuida que no parezca una refutación anticipada. En tu examen cruzado, «avanzar, claro», «lo celebramos» y «esas mismas horas con un profesor» abrieron al rival el ataque del coste y del docente. Prepara respuestas que concedan sin entregar el choque. Tiempo: +8 s.\n\nHUGO BRAVO (refutador 1). El estribillo «¿Y para quién?» dio ritmo y unidad a tu discurso, y traer Tennessee cambió el debate. «El andamio no es la máquina. Es el profesor» se convirtió en la frase central de la tarde. Para mejorar: esa misma frase y tu «su profesor, sin duda» los recogió el rival y se los llevó a su conclusión. Cuando lances una frase rotunda, piensa cómo te la pueden devolver («un andamio nunca se monta solo»). El primer bloque encadenaba Nigeria, PISA y Harvard con mucha densidad. Y revisa la población exacta de los datos: el 75 % de TALIS se refería a quienes no usan la IA.\n\nCANDELA RÍOS (refutadora 2 y de la refutación cruzada). Darle la vuelta al bisturí del rival y convertirlo en una prueba de valor añadido fue lo mejor del debate en forma. «Multiplicar por cero da cero» y «una suma y una sustitución no dan una igualdad» son frases que el jurado entiende a la primera y no olvida. En la refutación cruzada detectaste en directo la cita recortada y devolviste la regla a quien la puso. Para mejorar: llegaste al límite exacto del aviso (+15 s); un segundo más y habría sido falta leve. «Mejor que sin operar, sí, algo» fue una concesión que el rival explotó: prepara cómo conceder sin dar el titular. A la pregunta del dinero le faltó una propuesta concreta.\n\nSAMUEL IBARRA (conclusor). Tus preguntas en el examen cruzado (Turquía y el grupo de control de Nigeria) fueron de lo más eficaz del debate. Reconocer al rival («y bien», «es verdad») te dio credibilidad, y la imagen final («pagará lo que la pantalla le prestó») se recuerda. Para mejorar: el arranque fue un resumen correcto pero sin gancho; busca una frase de entrada tan potente como tu cierre. No respondiste a la comparación de Harvard con el aprendizaje activo ni al peso del tiempo docente concedido, y el rival los usó en su marcador. Tiempo: +8 s.\n\n**Isabel Garrigós (jueza principal):** **Equipo.** Las dos cocinas fueron un hilo narrativo excelente: emocional, claro y sostenido por los cuatro oradores. Vuestro manejo de la evidencia fue de muy alto nivel: atacasteis el diseño de los estudios del rival con precisión y les disteis la vuelta a sus propias fuentes (2502, los 13 puntos de PISA, Tennessee). Para el siguiente debate, separad bien el daño en casa (que existe haya o no IA en la escuela) del efecto de la herramienta dentro del sistema, y justificad por qué ese daño es atribuible a la IA en el sistema educativo. Presentad una alternativa con coste (la tutoría humana para todos quedó sin financiar). Y evitad tesis centrales que choquen con vuestras propias concesiones, como «nadie ha demostrado que ayude a la segunda» frente a «avanzaron».\n\n**Ainhoa Martí (introductora).** Exposición cautivadora y un criterio bien anclado en la OCDE (2002) y en las clases particulares (1506). En el examen cruzado respondiste muy bien, desviando con evidencia nueva y pertinente. Para mejorar: algunos pasajes de la exposición ya replican la línea del rival («Quizá penséis que, dentro del aula…», el gradiente de Nigeria). Guarda la refutación para los turnos de refutación. Prepara formulaciones que concedan sin abrir la puerta, porque «ni prohibir ni ignorar» y «para el profesor, sí» se usaron contra vosotros hasta el final.\n\n**Hugo Bravo (refutador 1).** El estribillo «¿Y para quién?» estructuró una refutación brillante, y darle la vuelta a PISA con la 2504 y a Harvard con la 2536 fue muy fino, igual que sacar Tennessee. Para mejorar: en las interpelaciones, empieza por el matiz y no por la concesión, porque «enseñárselo a todos, claro» y «su profesor, sin duda» acabaron siendo la última frase del rival. La dicotomía «el andamio no es la máquina, es el profesor» invita a la respuesta del bisturí: plantéala desde el principio como comparación con la alternativa sin IA, como hizo después Candela. Comprueba el alcance del 75 % de TALIS antes de usarlo.\n\n**Candela Ríos (refutadora 2 y refutación cruzada).** Usar la definición de Carla para el bisturí fue el mejor reencuadre del debate, y tus cifras fueron exactas (los 25 minutos semanales). Además detectaste al momento la cita recortada. Para mejorar: «multiplicar por cero da cero» exagera la 2531, que da +0,024 DE. Tu fuerza es la precisión, no la pierdas por una frase. «Aporta lo mismo y cuesta más» necesitaba un dato de coste. Ibas justo en el límite de tiempo. Y cuando te corrigen una cifra (TALIS), responde a la corrección en lugar de repetirla.\n\n**Samuel Ibarra (conclusor).** En el examen cruzado tus preguntas sacaron dos concesiones muy útiles (Turquía «la misma», el control de Nigeria), y en la conclusión pesaste bien («millones de cocinas pesan más que seis semanas»). Para mejorar: atribuye con exactitud. Sergio aceptó medirse con la pantalla apagada, no con el criterio de la brecha. Contesta a lo mejor del rival en lugar de reformularlo: a «¿qué institución existe para que el futuro de un niño no dependa de su familia?» respondiste repitiendo tu tesis. Una conclusión gana cuando resuelve esa tensión, no cuando la repite."
+  },
+  "feedback": "#### Contrapunto (a favor)\n\n**Carmen Llorens (jueza de fondo):** Equipo: el marco inicial era muy bueno: definición, umbral de «beneficiosa», contrafáctico realista y tres pilares con pruebas. Os faltó preparar la respuesta al test del valor añadido, es decir, qué aporta la IA frente a la misma práctica o tutoría sin IA. Llevad un ensayo escolar con control activo y datos de coste por alumno. Defended también de forma explícita el criterio de que todos mejoren aunque no por igual. Por ejemplo, casi todo recurso educativo, incluida la tutoría humana, tiene efecto Mateo. Cuidad los tiempos: dos refutaciones pasaron de los diez segundos.\n\nCarla Vidal: abrir con el estudio del rival fue inteligente, y el marco aguantó toda la tarde. Presentad Harvard desde el principio con sus límites (universitarios, dos lecciones), así no os lo descuentan después. Vuestra pregunta final, «su profesor o nadie», es un falso dilema que el rival desmonta con facilidad. Formuladla como «su profesor con la herramienta o sin ella» y probad la diferencia. En el examen cruzado, concedéis con honestidad, y eso está bien, pero preparad el reencuadre: evitar el daño frente al uso libre ya es un beneficio.\n\nSergio Mas: la lectura de [1531] fue excelente (mide el uso autodirigido y sus autores piden escuela), y te enfrentaste al criterio del rival en lugar de esquivarlo. Mejora: no atribuyas a una fuente explicaciones causales que no hace [2504]. Si usas PISA [1533], reconoce que es correlacional y que la misma ficha trae los 28 puntos en contra. Si no lo haces tú, puede hacerlo el rival. Vigila el reloj (+14 s).\n\nAlba Ruiz: el bisturí y el matiz de TALIS [1504] fueron de lo mejor del debate, y la pregunta del dinero fue certera. A Tennessee respondiste con una promesa (que lo use es cosa del profesor). Hacía falta una prueba de que con mejor implantación funciona. En la refutación cruzada, nunca recortes una cita [2502] ni estires una concesión más allá de lo que dijo el rival: te quita credibilidad justo cuando más la necesitas. Tiempo: +10 s.\n\nVíctor Ortega: buenas preguntas en el examen cruzado y una interpelación que arrancó una concesión útil. El marcador final era claro. Pero en una conclusión no basta con declarar ganados los choques. Pondera los choques disputados y responde a la prueba más fuerte del rival (Tennessee, la heterogeneidad), o el jurado notará que la saltas.\n\n**Álex Moreno (juez de forma):** EQUIPO. La cohesión ha sido excelente. Andamio y muleta, y la pregunta «¿su profesor o nadie?», pasaron por los cuatro discursos y el jurado siempre sabía dónde estaba. Para el próximo debate: no aceptéis el criterio del rival sin defender antes el vuestro. Al decir «lo aceptamos y lo superamos», tuvisteis que ganar en su terreno, la cocina sin escuela. Preparad también una respuesta directa a «¿qué añade la máquina que no añada el profesor solo?». Esa pregunta os persiguió todo el debate.\n\nCARLA VIDAL (introductora). Empezar con el estudio favorito del rival fue una jugada valiente e inteligente, y la imagen del andamio y la muleta articuló todo vuestro caso. La contextualización fue sólida: definición, qué es beneficioso, el dato del 8 % de PISA y un criterio claro. Para mejorar: los primeros diez segundos cargan cifras y grupos experimentales; abrid con la imagen y dejad el dato para después. En cada uno de los tres argumentos encadenaste dos o tres estudios; elige uno y explícalo despacio, que el jurado lo recuerde. En el examen cruzado fuiste honesta y precisa («la misma»), pero esa concesión la usaron tres oradores rivales: cuando concedas, añade tu marco en la misma frase («evitar el daño ya es un beneficio porque...»). Cuidado con el tiempo (+6 s).\n\nSERGIO MAS (refutador 1). Convertir la madre de la primera cocina en un andamio fue el mejor giro de vuestro equipo. Citar las palabras exactas del rival («ni prohibir ni ignorar») le da mucha fuerza a tu refutación. Para mejorar: en el bloque del criterio encadenaste Nigeria, la OCDE, PISA y Harvard casi sin respirar, y sonó amontonado; con dos fichas bien explicadas habrías convencido más. En las interpelaciones concediste con limpieza («sin ninguna mejora», «universitarios de Física»), pero esas frases volvieron contra vosotros. Practica conceder con un reencuadre inmediato. Atribuiste a la [2504] una explicación causal que la ficha no da. El tiempo te pasó del límite (+14 s).\n\nALBA RUIZ (refutadora 2 y de la refutación cruzada). Tus frases fueron las más memorables del equipo: «por eso se llama andamio y no ascensor», el bisturí, «muleta no, andamio sí». Corregir con la [1504] que el 75 % eran docentes que aún no usan la IA fue un gran hallazgo. Los tres choques estuvieron muy bien numerados. Para mejorar: cuando lances una analogía, blíndala antes de que el rival la gire; el bisturí acabó siendo una prueba de valor añadido contra vosotros. En la refutación cruzada recortaste la cita de Dang y Behrman («puede ampliar el acceso»), te pillaron y perdiste credibilidad justo en el choque de igualdad: cita completo aunque te cueste. En las interpelaciones, «parecido, sí» y «solo la de cada sesión» necesitaban tu marco pegado a la concesión. Tiempo: +10 s.\n\nVÍCTOR ORTEGA (conclusor). Volver al estudio de Turquía («ya casi es nuestro») cerró el círculo con elegancia, y «cuando el rival contesta a tu pregunta con tu respuesta, el marcador se hace solo» es un final de los que se recuerdan. Tu pregunta en el examen cruzado sobre avanzar o no avanzar fue útil. Para mejorar: el marcador se declaraba «nuestro» choque a choque sin nombrar el mejor argumento rival (la suma frente a la sustitución, Tennessee). Una conclusión convence más cuando reconoce el golpe del contrario y explica por qué pesa menos. Repetir «choque nuestro» cuatro veces se acerca a lo telegráfico; varía la cadencia.\n\n**Isabel Garrigós (jueza principal):** **Equipo.** Habéis tenido una imagen fuerte y coherente, andamio frente a muleta, que han usado los cuatro oradores. Habéis aprovechado muy bien las concesiones del rival y habéis sido honestos al conceder lo que no podíais negar, y eso da credibilidad. Para el siguiente debate os falta una línea con evidencia sobre qué añade la IA frente a la misma práctica o el mismo tiempo sin IA (el problema de atribución de Tennessee y Nigeria). Preparad también una respuesta al criterio de la brecha relativa: llevad la reducción al absurdo (casi cualquier mejora educativa la aprovechan más los de delante) y datos comparativos, no solo «mejorar no es igualar».\n\n**Carla Vidal (introductora).** Muy buen comienzo: adelantaros a Turquía os dio la iniciativa, y vuestras definiciones (beneficiosa = aporta más de lo que cuesta; en manos de docentes) marcaron todo el debate. En el examen cruzado respondiste con precisión y honestidad. Para mejorar: di la población de cada estudio desde el principio (Harvard, universitarios) para no regalarle un punto fácil al rival. Y conecta ya en la exposición el tiempo del docente con resultados del alumno; tenías la 1016 para eso.\n\n**Sergio Mas (refutador 1).** Una refutación de las que sostienen un caso. Usaste las fuentes del rival en su contra (las recomendaciones de los autores de la 1531, el criterio de la pantalla apagada) y en las interpelaciones concediste con elegancia. Para mejorar: no estires las fichas. La 2504 no «explica» el gradiente de Nigeria, y Harvard no compara con «esas mismas horas con un profesor». Anticipa la crítica metodológica a Nigeria (control sin intervención, pérdida de muestra) antes de que la saquen. Cuida el reloj: te pasaste unos 14 s.\n\n**Alba Ruiz (refutadora 2 y refutación cruzada).** El bisturí y la corrección del 75 % de TALIS con la 1504 fueron de lo mejor de la tarde, y la estructura en tres choques era clara. Para mejorar: no recortes una cita del rival. Quitar el «sin reducir la brecha» a la 2502 te lo pillaron y resta credibilidad justo en el cierre. Cuando concedes en una interpelación («parecido», «solo la de cada sesión»), reencuadra enseguida con una evidencia, no solo con un argumento. Sobre Tennessee, «que lo use es cosa del profesor» necesitaba un dato. Ajusta el tiempo, que te pasaste en las dos intervenciones.\n\n**Víctor Ortega (conclusor).** En el examen cruzado tus preguntas sacaron concesiones clave («avanzar, claro», «para el profesor, sí»), y el cierre fue rotundo y bien escrito. Para mejorar: una conclusión tiene que pesar la mejor evidencia del rival, no solo enumerar sus concesiones. Proclamar «Aprendizaje, nuestro» sin tocar la comparación de Tennessee con la práctica sin IA ni el examen final de Tutor CoPilot deja un hueco que un jurado ve. Responde también a la distinción del rival (que el profesor ponga el beneficio) en lugar de repetir solo «su profesor o nadie».\n\n#### Faro (en contra)\n\n**Carmen Llorens (jueza de fondo):** Equipo: la imagen de las dos cocinas y la pregunta «¿y para quién?» dieron coherencia a todo el caso. Las críticas metodológicas (control pasivo, validez externa, valor añadido) fueron de mucho nivel. Justificad mejor, desde la exposición, por qué una brecha relativa pesa más que una ganancia para todos. Y explicad por qué el daño en casa cuenta contra la herramienta si ocurre con escuela o sin ella. Llevad una alternativa con financiación: «la pregunta del dinero vale para los dos» es un tu quoque, no una respuesta.\n\nAinhoa Martí: la apertura fue cautivadora, el criterio quedó bien construido y excluir los apoyos por discapacidad fue un acierto. En el examen cruzado respondiste con evidencias precisas. Mejora: anticipa concesiones previsibles como «ni prohibir ni ignorar» o «avanzar, claro», y prepara una frase que proteja el caso al hacerlas. Cuida los datos: Pew dice «todos o la mayoría», no «casi todos», y es Estados Unidos, no España.\n\nHugo Bravo: introdujiste Tennessee en el momento justo y desmontaste bien la pregunta «su profesor o nadie». «Si el beneficio lo pone el profesor, no lo pone la herramienta» es, tal como lo dices, una falsa dicotomía. Formula desde el principio la versión válida (¿qué añade sobre la alternativa sin IA?). Tenías más munición sin usar: el intervalo que incluye el cero [2503] y los 28 puntos de [1533].\n\nCandela Ríos: girar el bisturí con la definición de la propia Carla fue el mejor movimiento lógico del debate. Los 25 minutos y la cita recortada que detectaste muestran mucho rigor. Mejora: «cuesta más» necesita datos de coste, y «multiplicar por cero da cero» exagera [2531]. Usar contra la retroalimentación docente una frase de [1016] sobre el uso del alumnado es forzado. Fuiste al límite del tiempo (+15 s).\n\nSamuel Ibarra: estructura de choques clara y un cierre con imagen potente. No digas que «solo beneficia a quien ya iba delante» cuando tu equipo concedió que los de detrás avanzan: el jurado lo detecta. «Millones de cocinas pesan más que seis semanas» es una comparación de escala sin datos. En la conclusión, pondera solo lo que quedó probado, incluido el choque del docente, en lugar de limitarte a concederlo.\n\n**Álex Moreno (juez de forma):** EQUIPO. La segunda cocina fue un marco narrativo excelente. Los cuatro lo sostuvisteis y convertisteis cifras en personas («en una clase de treinta, seis frente a dos»). Vuestras preguntas e interpelaciones fueron quirúrgicas y desgastaron la evidencia rival. Para el próximo debate: preparad una alternativa concreta y con coste. «La pregunta del dinero vale para los dos» fue la respuesta más floja de la tarde. Y responded a la objeción de que la segunda cocina tampoco cambia si la escuela renuncia a la IA.\n\nAINHOA MARTÍ (introductora). Las dos cocinas fueron el mejor comienzo del debate: visual, humano y fácil de recordar, y el estribillo final lo cerró con fuerza. El criterio quedó claro y dejar fuera los apoyos por discapacidad acotó bien el debate. Para mejorar: apoyarte en lo que Carla concedió en el examen cruzado es eficaz, pero dedicaste un buen rato a contestar al rival en tu exposición inicial; cuida que no parezca una refutación anticipada. En tu examen cruzado, «avanzar, claro», «lo celebramos» y «esas mismas horas con un profesor» abrieron al rival el ataque del coste y del docente. Prepara respuestas que concedan sin entregar el choque. Tiempo: +8 s.\n\nHUGO BRAVO (refutador 1). El estribillo «¿Y para quién?» dio ritmo y unidad a tu discurso, y traer Tennessee cambió el debate. «El andamio no es la máquina. Es el profesor» se convirtió en la frase central de la tarde. Para mejorar: esa misma frase y tu «su profesor, sin duda» los recogió el rival y se los llevó a su conclusión. Cuando lances una frase rotunda, piensa cómo te la pueden devolver («un andamio nunca se monta solo»). El primer bloque encadenaba Nigeria, PISA y Harvard con mucha densidad. Y revisa la población exacta de los datos: el 75 % de TALIS se refería a quienes no usan la IA.\n\nCANDELA RÍOS (refutadora 2 y de la refutación cruzada). Darle la vuelta al bisturí del rival y convertirlo en una prueba de valor añadido fue lo mejor del debate en forma. «Multiplicar por cero da cero» y «una suma y una sustitución no dan una igualdad» son frases que el jurado entiende a la primera y no olvida. En la refutación cruzada detectaste en directo la cita recortada y devolviste la regla a quien la puso. Para mejorar: llegaste al límite exacto del aviso (+15 s); un segundo más y habría sido falta leve. «Mejor que sin operar, sí, algo» fue una concesión que el rival explotó: prepara cómo conceder sin dar el titular. A la pregunta del dinero le faltó una propuesta concreta.\n\nSAMUEL IBARRA (conclusor). Tus preguntas en el examen cruzado (Turquía y el grupo de control de Nigeria) fueron de lo más eficaz del debate. Reconocer al rival («y bien», «es verdad») te dio credibilidad, y la imagen final («pagará lo que la pantalla le prestó») se recuerda. Para mejorar: el arranque fue un resumen correcto pero sin gancho; busca una frase de entrada tan potente como tu cierre. No respondiste a la comparación de Harvard con el aprendizaje activo ni al peso del tiempo docente concedido, y el rival los usó en su marcador. Tiempo: +8 s.\n\n**Isabel Garrigós (jueza principal):** **Equipo.** Las dos cocinas fueron un hilo narrativo excelente: emocional, claro y sostenido por los cuatro oradores. Vuestro manejo de la evidencia fue de muy alto nivel: atacasteis el diseño de los estudios del rival con precisión y les disteis la vuelta a sus propias fuentes (2502, los 13 puntos de PISA, Tennessee). Para el siguiente debate, separad bien el daño en casa (que existe haya o no IA en la escuela) del efecto de la herramienta dentro del sistema, y justificad por qué ese daño es atribuible a la IA en el sistema educativo. Presentad una alternativa con coste (la tutoría humana para todos quedó sin financiar). Y evitad tesis centrales que choquen con vuestras propias concesiones, como «nadie ha demostrado que ayude a la segunda» frente a «avanzaron».\n\n**Ainhoa Martí (introductora).** Exposición cautivadora y un criterio bien anclado en la OCDE (2002) y en las clases particulares (1506). En el examen cruzado respondiste muy bien, desviando con evidencia nueva y pertinente. Para mejorar: algunos pasajes de la exposición ya replican la línea del rival («Quizá penséis que, dentro del aula…», el gradiente de Nigeria). Guarda la refutación para los turnos de refutación. Prepara formulaciones que concedan sin abrir la puerta, porque «ni prohibir ni ignorar» y «para el profesor, sí» se usaron contra vosotros hasta el final.\n\n**Hugo Bravo (refutador 1).** El estribillo «¿Y para quién?» estructuró una refutación brillante, y darle la vuelta a PISA con la 2504 y a Harvard con la 2536 fue muy fino, igual que sacar Tennessee. Para mejorar: en las interpelaciones, empieza por el matiz y no por la concesión, porque «enseñárselo a todos, claro» y «su profesor, sin duda» acabaron siendo la última frase del rival. La dicotomía «el andamio no es la máquina, es el profesor» invita a la respuesta del bisturí: plantéala desde el principio como comparación con la alternativa sin IA, como hizo después Candela. Comprueba el alcance del 75 % de TALIS antes de usarlo.\n\n**Candela Ríos (refutadora 2 y refutación cruzada).** Usar la definición de Carla para el bisturí fue el mejor reencuadre del debate, y tus cifras fueron exactas (los 25 minutos semanales). Además detectaste al momento la cita recortada. Para mejorar: «multiplicar por cero da cero» exagera la 2531, que da +0,024 DE. Tu fuerza es la precisión, no la pierdas por una frase. «Aporta lo mismo y cuesta más» necesitaba un dato de coste. Ibas justo en el límite de tiempo. Y cuando te corrigen una cifra (TALIS), responde a la corrección en lugar de repetirla.\n\n**Samuel Ibarra (conclusor).** En el examen cruzado tus preguntas sacaron dos concesiones muy útiles (Turquía «la misma», el control de Nigeria), y en la conclusión pesaste bien («millones de cocinas pesan más que seis semanas»). Para mejorar: atribuye con exactitud. Sergio aceptó medirse con la pantalla apagada, no con el criterio de la brecha. Contesta a lo mejor del rival en lugar de reformularlo: a «¿qué institución existe para que el futuro de un niño no dependa de su familia?» respondiste repitiendo tu tesis. Una conclusión gana cuando resuelve esa tensión, no cuando la repite."
+ },
+ "volver": {
+  "url": "../../../torneo.html",
+  "texto": "Volver al torneo"
+ }
+}
