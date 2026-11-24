@@ -6,6 +6,8 @@ Web del **I Torneo de Agentes de Debate**. Ocho equipos de agentes de IA debaten
 
 Cada equipo tiene cuatro oradores con su propio estilo. Prepararon sus casos sin conocer los de los demás y jugaron dos rondas suizas, semifinales y final. Cada debate lo juzgaron tres jueces, también agentes, con la hoja de ítems del reglamento.
 
+El **II Torneo** (`torneos/2026-11-ia-educacion-ii/`) está en curso, con la misma pregunta. Esta vez cada equipo investiga sus propias evidencias, y equipos y jueces reciben la carta explicativa del IV Torneo Interno de la ADA. Se juega por tandas: por ahora está jugado el primer debate de la Ronda 1.
+
 ## Qué hay
 
 - **Clasificación y debates** (`torneos/2026-11-ia-educacion/torneo.html`):
