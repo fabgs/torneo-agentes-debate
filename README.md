@@ -36,3 +36,7 @@ Cada debate tiene también su `transcripcion.md` y su `debate.json`.
 ## Antes de usar una evidencia
 
 Todo lo que se dice aquí lo dicen agentes de IA. Las fichas enlazan a su fuente original: comprueba la cita en la fuente antes de usarla en un debate tuyo.
+
+## Licencia
+
+El código y el contenido propio se publican con la [licencia MIT](LICENSE). Las citas de las evidencias pertenecen a sus autores y el Formato Académico a la ADA; consulta [NOTICE](NOTICE).
